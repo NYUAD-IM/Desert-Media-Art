@@ -73,4 +73,3 @@ while True:
         sample_number = (sample_number + 1) % num_samples
     enable.value = speaker.playing
     set_led(color[0], color[1], color[2]) # hacky
-# 在这里写上你的代码 :-)

@@ -28,4 +28,3 @@ while True:
         red.duty_cycle = int(r * 65536 / 256)
         green.duty_cycle = int(g * 65536 / 256)
         blue.duty_cycle = int(b * 65536 / 256)'''
-# 在这里写上你的代码 :-)

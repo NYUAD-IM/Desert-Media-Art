@@ -51,4 +51,3 @@ while True:
         speaker.play(mp3stream)
         sample_number = (sample_number + 1) % 10
     enable.value = speaker.playing
-# 在这里写上你的代码 :-)
