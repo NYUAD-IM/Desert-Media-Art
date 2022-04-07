@@ -12,6 +12,7 @@ import time
 import board
 import touchio
 
+# Please change the pin code if you want to use other pins. (A0-A5)
 touch_pad0 = board.A0
 
 touch0 = touchio.TouchIn(touch_pad0)
