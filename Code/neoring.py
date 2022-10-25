@@ -5,7 +5,7 @@
 # Modified by Mangtronix for Desert Media Art at NYUAD
 # https://desert.nyuadim.com
 
-"""Simple rainbow example for 30-pixel NeoPixel strip"""
+"""Simple rainbow example for 12-pixel NeoPixel ring"""
 
 print("Starting neoring")
 
