@@ -1,6 +1,8 @@
 # SPDX-FileCopyrightText: 2018 Kattni Rembor for Adafruit Industries
 #
 # SPDX-License-Identifier: MIT
+#
+# Modifications by Michael Ang for Desert Media Art NYUAD
 
 """CircuitPython Essentials NeoPixel RGBW example"""
 
@@ -63,10 +65,24 @@ GREEN = (0, 255, 0, 0)
 CYAN = (0, 255, 255, 0)
 BLUE = (0, 0, 255, 0)
 PURPLE = (180, 0, 255, 0)
+OFF = (0, 0, 0, 0)
 
 # There are multiple ways we can make white
 RGBWHITE = (255, 255, 255, 0) # Combine RGB to make a white
 WARMWHITE = (0, 0, 0, 255) # Use the warm white LEDs
+
+# Write the pixels directly
+pixels.fill(OFF)
+pixels.show() # Send the values to the strip - needed since we have auto_write=False
+pixels[0] = (255, 0, 0, 0) # First pixel red
+pixels[1] = (0, 255, 0, 0) # Second pixel blue
+pixels[2] = (0, 0, 255, 0)
+pixels[3] = (255, 255, 255, 0) # White from full RGB
+pixels[4] = (0, 0, 0, 255) # White from just the warm white LED
+pixels[5] = (128, 128, 128, 128) # White mix
+pixels[6] = (255, 255, 255, 255) # Full throttle
+pixels.show() # Send the values to the strip
+time.sleep(5)
 
 while True:
     print('Normal from combining just RGB - RGBW = (255, 255, 255, 0)')
