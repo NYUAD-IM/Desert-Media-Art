@@ -2,23 +2,23 @@
 
 [Weekly Schedule Spreadsheet](https://docs.google.com/spreadsheets/d/1UHKrTE_1LE3XZrwBPc6z2o0C35TFm3rHhnjkTC5FYvE/edit?usp=sharing)
 
-- [Week 1](#week-1-1) – Introduction
-- [Week 2](#week-2-1) – Media art outside, Tech intro
-- [Week 3](#week-3-1) – Workshop: CircuitPython, Desert Ecology and Culture / Workshop: Motors, Sound, Light
-- [Week 4](#week-4-1) – Workshop: Sound, Motors – 2D Design for Laser Cutting / Workshop: 3D Printing
-- [Week 5](#week-5-1) – Workshop: Laser Cutting / Workshop: Sensors
-- [Week 6](#week-6-1) – Outdoor Interaction Design / Idea Lab
-- [Week 7](#week-7-1) – Idea Lab Presentations / Workshop: Sensors
+- [Week 1](#week-11) – Introduction
+- [Week 2](#week-21) – Media art outside, Tech intro
+- [Week 3](#week-31) – Workshop: CircuitPython, Desert Ecology and Culture / Workshop: Motors, Sound, Light
+- [Week 4](#week-41) – Workshop: Sound, Motors – 2D Design for Laser Cutting / Workshop: 3D Printing
+- [Week 5](#week-51) – Workshop: Laser Cutting / Workshop: Sensors
+- [Week 6](#week-61) – Outdoor Interaction Design / Idea Lab
+- [Week 7](#week-71) – Idea Lab Presentations / Workshop: Sensors
 - FALL BREAK
-- [Week 8](WeeklySchedule2.md#week-8-1) – Electronics in the Desert / Workshop: LEDs and Servos
+- [Week 8](WeeklySchedule2.md#week-81) – Electronics in the Desert / Workshop: LEDs and Servos
 - DESERT FIELD TRIP – Date TBD
-- [Week 9](WeeklySchedule2.md#week-9-1) – 3D Design with Tinkercad / Project Proposal Presentations
-- [Week 10](WeeklySchedule2.md#week-10-1) – Requested topics / Work session
-- [Week 11](WeeklySchedule2.md#week-11-1) – Telling your story – Exhibition Installations / Rapid Prototyping project review – Work session
-- [Week 12](WeeklySchedule2.md#week-12-1) – Storyboard Presentations / Prototype Presentations – Work Session
+- [Week 9](WeeklySchedule2.md#week-91) – 3D Design with Tinkercad / Project Proposal Presentations
+- [Week 10](WeeklySchedule2.md#week-101) – Requested topics / Work session
+- [Week 11](WeeklySchedule2.md#week-111) – Telling your story – Exhibition Installations / Rapid Prototyping project review – Work session
+- [Week 12](WeeklySchedule2.md#week-121) – Storyboard Presentations / Prototype Presentations – Work Session
 - FIELD INSTALLATION – Date TBD
-- [Week 13](WeeklySchedule2.md#week-13-1) – Field work debrief
-- [Week 14](WeeklySchedule2.md#week-14-1) – Work session: Installation and video production / Present Final Project, Course Review
+- [Week 13](WeeklySchedule2.md#week-131) – Field work debrief
+- [Week 14](WeeklySchedule2.md#week-141) – Work session: Installation and video production / Present Final Project, Course Review
 - [IM SHOW](WeeklySchedule2.md#im-show) – Show Final Installation / Update installation documentation
 
 Note: Exact due dates for assignments and readings are indicated in Brightspace
