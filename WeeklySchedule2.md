@@ -11,12 +11,12 @@
 - [Week 7](WeeklySchedule.md#week-71) – Idea Lab Presentations / Workshop: Idea Development
 - FALL BREAK
 - [Week 8](#week-81) – Electronics in the Desert / Workshop: LEDs and Servos
-- [DESERT FIELD TRIP](#desert-field-trip "DESERT FIELD TRIP") – Date TBD
+- [DESERT FIELD TRIP](#desert-field-trip) – Sunday November 5
 - [Week 9](#week-91) – 3D Design with Tinkercad / Project Final Proposal Presentations
 - [Week 10](#week-101) – Requested topics / Work session
 - [Week 11](#week-111) – Telling your story – Exhibition Installations / Rapid Prototyping project review – Work session
 - [Week 12](#week-121) – Storyboard Presentations / Prototype Presentations – Work Session
-- FIELD INSTALLATION – Date TBD
+- FIELD INSTALLATION – Sunday November 26
 - [Week 13](#week-131) – Field work debrief
 - [Week 14](#week-141) – Work session: Installation and video production / Present Final Project, Course Review
 - [IM SHOW](#im-show) – Show Final Installation / Update installation documentation
@@ -59,58 +59,21 @@ Due before start of next class
 
 ---
 
-## Desert Field Trip
+## Desert Site Visit
 
-### Date TBD
+### Sunday November 5
 
-Visit to [Dubai Desert Conservation Reserve](https://www.ddcr.org/en/index.aspx) ([map](https://www.ddcr.org/en/location.aspx?Menu=1)) to learn about desert flora / fauna and conservation.
+Visit site near Sweihan to see location for final installation and learn about desert ecology.
+
+Depart Welcome Center 12:30pm sharp
+Back to campus approximately 8:30pm
+
+For full details see [DMA Field Trips Doc](https://docs.google.com/document/d/1--Xma7Juj3H1Eu84iBAtigo7meBNoTOrkDTGiT0QwPo/edit?usp=sharing)
 
 - Bring water
 - Bring lunch!
 - Dress for the sun (hat, sunscreen)
 - Closed toed shoes may be better for hot sand
-
-9am Meet at NYUAD Welcome Center
-
-9:15am – Bus departs!
-
-6:30pm – Return to NYUAD Welcome Center
-
-### Timeline
-
-Date TBD
-
-9:00am – load bus at NYUAD Welcome Center
-
-9:15am – depart for DDCR
-
-11:45am – arrive DDCR
-
-12:00-12:30pm – lunch (brought by students) at DDCR
-
-12:30-1:00pm – history / overview
-
-1:00-1:30pm – visit animal specimen collection
-
-1:30 – 3:30 – drive and stop at DDCR sites
-
-3:45pm – load bus at DDCR
-
-4:00pm – depart for NYUAD Welcome Center
-
-6:30pm – arrive NYUAD Welcome Center
-
-### Departure
-
-NYUAD Welcome Center
-
-9am
-
-### Return
-
-Leave DDCR at approximately 4pm
-
-Arrive NYUAD Welcome Center 6:30pm
 
 ---
 
@@ -265,63 +228,13 @@ Due before start of next class
 
 # Field Installation
 
-## Date TBD
+## Sunday November 26
 
 ## Depart 11:30am – Return 10:30pm
 
 Students will go to a “raw” (uninhabited) dune location and make a temporary installation of their class projects. The students will have approximately 2 hours to work on site before sunset, and 2 hours after sunset (total of 6 hours on site). We’ll depart from campus in a large tour bus that will park by the side of the road at the location and be our “base station” as we work in the dunes. In terms of logistics it’s similar to going out for a short film shoot in the desert.
 
-### Timeline
-
-Date TBD
-
-Tour bus (~20 people)
-
-- For students and faculty
-
-11:30am – depart NYUAD Welcome Center
-
-1:00pm – ADNOC stop (#1)
-
-2:00pm – arrive at desert location (#2)
-
-2:00-3:00pm – scout location
-
-3:00-3:30pm – set up installation
-
-3:30pm – day time installations
-
-5:30pm – sunset (sun goes below horizon)
-
-6:00pm – nautical twilight (sky mostly dark, horizon just visible)
-
-6:50pm – official night (sky completely dark)
-
-8:00pm – pack up
-
-8:30pm – depart to campus
-
-10:30pm – arrive Welcome Center
-
-### Departure
-
-Date TBD
-
-11:30am – NYUAD Welcome Center
-
-### Transportation
-
-### Destinations
-
-#1 ADNOC Service Station Al Khatam
-
-#2 Roadside north of Al Khaznah
-
-### Return
-
-8:30pm Leave #2 Roadside north of Al Khaznah
-
-10:30pm Return to NYUAD Welcome Center
+For full details see [DMA Field Trips Doc](https://docs.google.com/document/d/1--Xma7Juj3H1Eu84iBAtigo7meBNoTOrkDTGiT0QwPo/edit?usp=sharing)
 
 ---
 
@@ -383,10 +296,25 @@ Due before start of next class
 
 ## IM Show
 
-December 14
+Friday December 15, 3-6pm
 
-- **Setup** date / time TBD
 - **Exhibit** your project in the IM End of Semester Show
 - **Take** photos / video of your installation in the show
 - **Deinstall** your work at end of show
-- **Update** your blog post with the documentation of your installation (due end of day Dec 15)
+- **Update** your blog post with the documentation of your installation (due end of day Monday, Dec 18)
+
+
+### Timeline
+- Wed Dec 13 - Space setup (tables, power installed)
+- Thursday Dec 14 - Class setup - Last day of class - Time TBD
+  - Set up and test equipment, resolve any problems
+- Friday Dec 15 - IM End of Semester Show - 3-6pm
+  - 12-2:30pm - Prayer time
+  - 2:30pm - Get installation running
+  - 3-5pm Installations open for viewing
+  - 5-5:45pm Performances
+  - 5:45pm Closing ceremony - group picture
+  - 6pm - Cleanup, return equipment to EC, help move tables
+- Deadline Monday Dec 18 end of day
+  - Add installation pictures / video to project webpage
+- Have a great summer!

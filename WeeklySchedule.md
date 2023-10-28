@@ -1,4 +1,4 @@
-# Weekly Schedule
+# Weekly Schedule - Weeks 1-7
 
 [Weekly Schedule Spreadsheet](https://docs.google.com/spreadsheets/d/1UHKrTE_1LE3XZrwBPc6z2o0C35TFm3rHhnjkTC5FYvE/edit?usp=sharing)
 
@@ -11,12 +11,12 @@
 - [Week 7](#week-71) – Idea Lab Presentations / Workshop: Sensors
 - FALL BREAK
 - [Week 8](WeeklySchedule2.md#week-81) – Electronics in the Desert / Workshop: LEDs and Servos
-- DESERT FIELD TRIP – Date TBD
+- DESERT FIELD TRIP – Sunday November 5
 - [Week 9](WeeklySchedule2.md#week-91) – 3D Design with Tinkercad / Project Proposal Presentations
 - [Week 10](WeeklySchedule2.md#week-101) – Requested topics / Work session
 - [Week 11](WeeklySchedule2.md#week-111) – Telling your story – Exhibition Installations / Rapid Prototyping project review – Work session
 - [Week 12](WeeklySchedule2.md#week-121) – Storyboard Presentations / Prototype Presentations – Work Session
-- FIELD INSTALLATION – Date TBD
+- FIELD INSTALLATION – Sunday November 26
 - [Week 13](WeeklySchedule2.md#week-131) – Field work debrief
 - [Week 14](WeeklySchedule2.md#week-141) – Work session: Installation and video production / Present Final Project, Course Review
 - [IM SHOW](WeeklySchedule2.md#im-show) – Show Final Installation / Update installation documentation
