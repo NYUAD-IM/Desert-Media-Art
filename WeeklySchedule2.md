@@ -66,6 +66,7 @@ Due before start of next class
 Visit site near Sweihan to see location for final installation and learn about desert ecology.
 
 Depart Welcome Center 12:30pm sharp
+
 Back to campus approximately 8:30pm
 
 For full details see [DMA Field Trips Doc](https://docs.google.com/document/d/1--Xma7Juj3H1Eu84iBAtigo7meBNoTOrkDTGiT0QwPo/edit?usp=sharing)
