@@ -11,3 +11,5 @@ Course website: https://desert.nyuadim.com/
 Weekly Schedule: [Weeks 1-7](WeeklySchedule.md) [Weeks 8-14](WeeklySchedule2.md)
 
 [Code examples](Code)
+
+[Brightspace F2023](https://brightspace.nyu.edu/d2l/home/306567)
