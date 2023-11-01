@@ -29,14 +29,6 @@ Note: Exact due dates for assignments and readings are indicated in Brightspace
 
 ## Week 8.1
 
-### Homework – Week 8.1
-
-Due before start of next class
-
-- **Start working** on Project Final Proposal (due Week 9.1)
-
-## Week 8.2
-
 - **Workshop**: LEDs and Servos
     - [Tutorial – NeoPixels with Prop-Maker FeatherWing](https://desert.nyuadim.com/2022/10/25/tutorial-neopixels-with-prop-maker-featherwing/)
     - [Tutorial – RGBW NeoPixels](https://desert.nyuadim.com/2022/10/26/tutorial-rgbw-neopixels/) (the small NeoPixel bar we use in class is RGBW)
@@ -47,15 +39,40 @@ Due before start of next class
         - Advanced colour blending, etc
     - [3W LED example (DMA GitHub)](https://github.com/NYUAD-IM/Desert-Media-Art/blob/main/Code/bigled.py)
 
+
+
+## Week 8.2
+
+- 3D printing overview
+- Project proposal overview
+- Project development workshop
+- Field trip signup
+
+**3D Printing Resources**
+
+- [Tinkercad](https://www.tinkercad.com/)
+    - Online 3D design tool
+    - [Learning Tinkercad](https://www.tinkercad.com/learn/designs?collectionId=OSZ5W2BL1W5N51F)
+    - Tutorial example – [making a duffel button](https://www.tinkercad.com/learn/overview/OYGK7F8IYEQ4BP0?collectionId=OSZ5W2BL1W5N51F)
+    - [Getting Started with 3D Printing Using Tinkercad (Sparkfun)](https://learn.sparkfun.com/tutorials/getting-started-with-3d-printing-using-tinkercad/all)
+
 ### Homework – Week 8.2
 
-Due before start of next class
+Due before Sunday
 
 - **Get ready** for field trip
     - Water
     - Pack lunch
     - Hat, sunscreen, sunglasses
     - Think about what you want to look out for on-site as it relates to your project
+
+- **Field trip**
+    - Bus leaves Welcome Center Sunday 12:30pm
+    - Returning to Welcome Center approximately 8:30pm
+
+Due before start of next class
+
+- **Start working** on Project Final Proposal (due Week 9.2 - Wednesday November 8)
 
 ---
 
@@ -81,6 +98,8 @@ For full details see [DMA Field Trips Doc](https://docs.google.com/document/d/1-
 ## Week 9.1
 
 **Field trip discussion**
+
+**Project-based Production topics**
 
 **3D Printing Resources**
 
