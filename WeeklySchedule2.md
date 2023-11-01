@@ -11,7 +11,7 @@
 - [Week 7](WeeklySchedule.md#week-71) – Idea Lab Presentations / Workshop: Idea Development
 - FALL BREAK
 - [Week 8](#week-81) – Electronics in the Desert / Workshop: LEDs and Servos
-- [DESERT FIELD TRIP](#desert-field-trip) – Sunday November 5
+- [DESERT SITE VISIT](#desert-site-visit) – Sunday November 5
 - [Week 9](#week-91) – 3D Design with Tinkercad / Project Final Proposal Presentations
 - [Week 10](#week-101) – Requested topics / Work session
 - [Week 11](#week-111) – Telling your story – Exhibition Installations / Rapid Prototyping project review – Work session
