@@ -47,6 +47,7 @@ Note: Exact due dates for assignments and readings are indicated in Brightspace
 - Project proposal overview
 - Project development workshop
 - Field trip signup
+  - [DMA Field Trip Sign-up Sheet](https://docs.google.com/spreadsheets/d/1z0UpGtNh9ASl9GzqLhSZOX3zSl1nr7AYoCcPKODnl5k/edit?usp=sharing)
 
 **3D Printing Resources**
 
