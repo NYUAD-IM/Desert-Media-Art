@@ -99,6 +99,8 @@ For full details see [DMA Field Trips Doc](https://docs.google.com/document/d/1-
 ## Week 9.1
 
 **Field trip discussion**
+Observations
+- [Gaia GPS](https://www.gaiagps.com/) - offline mapping
 
 **Project-based Production topics**
 
