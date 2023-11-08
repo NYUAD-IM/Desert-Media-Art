@@ -153,7 +153,9 @@ Due before start of next class
 
 ## Week 10.1
 
-- Lecture – Requested topics
+- **Workshop** Project Production
+- Work on projects in lab
+- Consult on any problem areas
 
 ### Homework – Week 10.1
 
@@ -161,9 +163,7 @@ Due before start of next class
 
 ## Week 10.2
 
-- **Workshop** Project Production
-- Work on projects in lab
-- Consult on any problem areas
+- Lecture – Requested topics
 
 ### Homework – Week 10.2
 
