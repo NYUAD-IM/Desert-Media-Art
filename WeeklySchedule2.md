@@ -152,6 +152,9 @@ Due before start of next class
 ---
 
 ## Week 10.1
+Announcments:
+- Blog posts
+  - Set featured image and "Fall 2023" category
 
 - **Workshop** Project Production
 - Work on projects in lab
