@@ -160,6 +160,11 @@ Announcments:
 - Work on projects in lab
 - Consult on any problem areas
 
+- References
+  - [Sensor Plotting with Mu and CircuitPython](https://learn.adafruit.com/sensor-plotting-with-mu-and-circuitpython/capacitive-touch) - see raw touch sensor values
+  - [Prop-maker Featherwing Pinouts](https://learn.adafruit.com/adafruit-prop-maker-featherwing/pinouts)
+    - Note: A0 is used for audio amplifier
+
 ### Homework – Week 10.1
 
 - **Work** on your Rapid Prototyping design
