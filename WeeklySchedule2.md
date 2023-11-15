@@ -172,13 +172,16 @@ Announcments:
 ## Week 10.2
 
 - Lecture – Requested topics
+- Announcements
+  - Bring USB cables to return on Monday
+  - Prusa Mini is available for printing
 
 ### Homework – Week 10.2
 
 Due before start of next class
 
-- **Work** on your Rapid Prototyping assignment
-
+- **Post** your storyboard on the blog - details in syllabus
+  
 ---
 
 ## Week 11.1
