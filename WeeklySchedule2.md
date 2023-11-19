@@ -230,18 +230,24 @@ Due before start of next class
 
 - **Storyboard presentations** / feedback
     - Each group gets 8 minutes to present and 5 minutes feedback
+ 
+- Project check-in
+- Work session
 
 ### Homework – Week 12.1
 
 Due before start of next class
 
-- **Finish** your Prototype
+- **Keep working** on your Prototype
+- **Book** time on laser cutter, 3D printers
+<!--
 - **Post** your prototype status to the class blog
     
     - Photos / video of the prototype
     - Technical explanation of how it works (e.g. code, 3D designs, schematics)
     
     - What you hope to achieve in the desert
+-->
 - **Be ready** to show your prototype in class
 - **Get ready** for the field installation!
 
@@ -257,6 +263,8 @@ Due before start of next class
 Due before start of next class
 
 - **Be ready and packed** for the Field Installation
+- **Prepare** a shot list
+- **Prepare** all cameras, tripods, etc
 
 ---
 
@@ -264,7 +272,7 @@ Due before start of next class
 
 ## Sunday November 26
 
-## Depart 11:30am – Return 10:30pm
+## Depart 12:30pm – Return 9:00pm
 
 Students will go to a “raw” (uninhabited) dune location and make a temporary installation of their class projects. The students will have approximately 2 hours to work on site before sunset, and 2 hours after sunset (total of 6 hours on site). We’ll depart from campus in a large tour bus that will park by the side of the road at the location and be our “base station” as we work in the dunes. In terms of logistics it’s similar to going out for a short film shoot in the desert.
 
