@@ -232,6 +232,8 @@ Due before start of next class
     - Each group gets 8 minutes to present and 5 minutes feedback
  
 - Project check-in
+  - 3D prints?
+  - Laser cutting?
 - Work session
 
 ### Homework – Week 12.1
