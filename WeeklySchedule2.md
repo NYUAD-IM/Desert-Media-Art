@@ -230,6 +230,11 @@ Due before start of next class
 
 - **Storyboard presentations** / feedback
     - Each group gets 8 minutes to present and 5 minutes feedback
+
+- 3D printing example
+    - [Neopixel Ring Diffuser (Tinkercad)](https://www.tinkercad.com/things/kf2WVfSZfiD-neopixel-ring-diffuser)
+    - Using [PrusaSlicer cut tool](https://help.prusa3d.com/article/cut-tool_1779) for cutting a small test piece for printing
+    
  
 - Project check-in
   - 3D prints?
