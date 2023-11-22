@@ -16,7 +16,7 @@
 - [Week 10](#week-101) – Requested topics / Work session
 - [Week 11](#week-111) – Telling your story – Exhibition Installations / Rapid Prototyping project review – Work session
 - [Week 12](#week-121) – Storyboard Presentations / Prototype Presentations – Work Session
-- FIELD INSTALLATION – Sunday November 26
+- [FIELD INSTALLATION](#field-installation) – Sunday November 26
 - [Week 13](#week-131) – Field work debrief
 - [Week 14](#week-141) – Work session: Installation and video production / Present Final Project, Course Review
 - [IM SHOW](#im-show) – Show Final Installation / Update installation documentation
