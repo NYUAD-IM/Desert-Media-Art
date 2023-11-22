@@ -266,6 +266,9 @@ Due before start of next class
   - Need to book Prusa Mini before using (currently offline, will update status)
   - Ultimaker is available for booking (non-translucent materials)
   - Can ask Linda for prints in transparent material
+ 
+- Field installation overview / planning
+  - Mandatory attendance - Contact Mang immediately if can't go and not already excused
 
 - Resolve last issues
 - Get ready for the desert!
@@ -284,7 +287,7 @@ Due before start of next class
 
 ## Sunday November 26
 
-## Depart 12:30pm – Return 9:00pm
+## Depart Welcome Center 12:30pm – Return 9:00pm
 
 Students will go to a “raw” (uninhabited) dune location and make a temporary installation of their class projects. The students will have approximately 2 hours to work on site before sunset, and 2 hours after sunset (total of 6 hours on site). We’ll depart from campus in a large tour bus that will park by the side of the road at the location and be our “base station” as we work in the dunes. In terms of logistics it’s similar to going out for a short film shoot in the desert.
 
