@@ -260,10 +260,15 @@ Due before start of next class
 
 ## Week 12.2
 
-**Prototype Presentations** / **Work Session**
+**Work Session**
 
-- Each group gets 8 minutes to present their prototype and 5 minutes feedback
-- Get ready for Field Installation
+- Announcements
+  - Need to book Prusa Mini before using (currently offline, will update status)
+  - Ultimaker is available for booking (non-translucent materials)
+  - Can ask Linda for prints in transparent material
+
+- Resolve last issues
+- Get ready for the desert!
 
 ### Homework – Week 12.2
 
