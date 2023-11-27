@@ -300,6 +300,7 @@ For full details see [DMA Field Trips Doc](https://docs.google.com/document/d/1-
 - Field Work Debrief
 - Discussion on presenting Desert Media Art indoors
 - Final Project check-in
+- Final project names
 
 ### Homework – Week 13.1
 
