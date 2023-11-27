@@ -307,8 +307,13 @@ For full details see [DMA Field Trips Doc](https://docs.google.com/document/d/1-
 Due before start of next class
 
 - **Work** on your documentation video
-- **Work** on your Final Installation
-- **Book** any required equipment for your Final Installation
+- **Work** on your Final Installation and post to blog
+  - **Make a sketch** or sketches of the installation
+    - Overview with person for size
+    - Any interaction
+    - Overhead floor plan with dimensions (how much floor space you need)
+  - **List** any requested equipment for your Final Installation
+    - Can already book in Connect2    
 
 ## Week 13.2
 
