@@ -330,30 +330,31 @@ Due before start of next class
   - **Make a sketch** or sketches of the installation
     - Overview with person for size
     - Overhead floor plan with dimensions (how much floor space you need)
+    - Approximate sizes in cm for any plinths and tables
   - **Check** requested equipment for your Final Installation in [Projects Spreadsheet](https://docs.google.com/spreadsheets/d/1iJNpbhqkyNb6HogYLb8mV5AxyQxO05a-2gKaVRbXwR4/edit?usp=sharing)
     - Book equipment in Connect2
     - Coordinate with Scene Shop if you want to build a sandbox there
-- **Finish** your Documentation Video
-- **Post** a link to your Documentation Video on the class blog
+- **Work on your** your Documentation Video
 
 ---
 
 ## Week 14.1
-- DMA Film Festival
-  - Show your work!
-- Work session – Installation production
+- Work session – Installation and video production
 
 ### Homework – Week 14.1
 
 Due before start of next class
 
-- **Post** a summary of your project to the class blog that includes your video (written for someone seeing the project for the first time)
-- **Prepare** to present your Final Installation (10-15 minutes)
+- **Create** the webpage for your project on the class Wordpress
+    - Written for someone seeing the project for the first time
+    - Embed your project video
+    - See existing projects for examples
+- **Prepare** to present your project to the class (10-15 minutes)
 
 
 ## Week 14.2
 
-- Final Installation Presentations
+- Final Presentations / DMA Film Festival
 - Each group will present their installation by giving a short “artist’s talk” / walkthrough of the project, project video, and installation
 - Course review
 - Preparation for IM End of Semester Show
