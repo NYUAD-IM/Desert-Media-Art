@@ -324,7 +324,7 @@ Due before start of next class
 
 ### Homework – Week 13.2
 
-Due before start of next class
+Due today (Dec 6)
 
 - **Plan** on your Final Installation
   - **Make a sketch** or sketches of the installation
@@ -334,18 +334,25 @@ Due before start of next class
   - **Check** requested equipment for your Final Installation in [Projects Spreadsheet](https://docs.google.com/spreadsheets/d/1iJNpbhqkyNb6HogYLb8mV5AxyQxO05a-2gKaVRbXwR4/edit?usp=sharing)
     - Book equipment in Connect2
     - Coordinate with Scene Shop if you want to build a sandbox there
-- **Work on your** your Documentation Video
-
+   
+Due before next class
+- **Work on** your Documentation Video
+- **Work on** your project web page
+  - Start editing your project page
+    - https://desert.nyuadim.com/hekaya/
+    - https://desert.nyuadim.com/desertwhispers/
+    - https://desert.nyuadim.com/luminous/
+    - https://desert.nyuadim.com/nomad/ 
 ---
 
 ## Week 14.1
-- Work session – Installation and video production
+- Work session – Installation, video production, web page
 
 ### Homework – Week 14.1
 
 Due before start of next class
 
-- **Create** the webpage for your project on the class Wordpress
+- **Finish** the webpage for your project on the class Wordpress
     - Written for someone seeing the project for the first time
     - Embed your project video
     - See existing projects for examples
@@ -355,14 +362,15 @@ Due before start of next class
 ## Week 14.2
 
 - Final Presentations / DMA Film Festival
-- Each group will present their installation by giving a short “artist’s talk” / walkthrough of the project, project video, and installation
+- Each group will present their project by giving a short “artist’s talk” / walkthrough of the project, project video, and installation
 - Course review
 - Preparation for IM End of Semester Show
 
 ### Homework – Week 14.2
 
 - **Prepare** to show your project during the IM End of Semester Show
-- **Take** installation photos / video of your installation
+- **Take** installation photos / video of your installation during the show
+- **Update** your project web page with two photos of your installation during the show
 
 ## IM Show
 
@@ -385,6 +393,6 @@ Friday December 15, 3-6pm
   - 5-5:45pm Performances
   - 5:45pm Closing ceremony - group picture
   - 6pm - Cleanup, return equipment to EC, help move tables
-- Deadline Monday Dec 18 end of day
+- Monday Dec 18 end of day
   - Add installation pictures / video to project webpage
 - Have a great summer!
