@@ -384,12 +384,13 @@ Friday December 15, 3-6pm
 
 ### Timeline
 - Wed Dec 13 - Space setup (tables, power installed)
-- Thursday Dec 14 - Class setup - Last day of class - Time TBD
-  - Set up and test equipment, resolve any problems
+- Thursday Dec 14 - Class setup - 2-5pm
+  - Set up and test equipment, resolve any problems - 2-5pm
 - Friday Dec 15 - IM End of Semester Show - 3-6pm
   - 12-2:30pm - Prayer time
   - 2:30pm - Get installation running
   - 3-5pm Installations open for viewing
+    - Be ready to give a 5 minute tour
   - 5-5:45pm Performances
   - 5:45pm Closing ceremony - group picture
   - 6pm - Cleanup, return equipment to EC, help move tables
