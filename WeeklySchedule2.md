@@ -391,6 +391,7 @@ Friday December 15, 3-6pm
   - 2:30pm - Get installation running
   - 3-5pm Installations open for viewing
     - Be ready to give a 5 minute tour
+    - Take documentation photos
   - 5-5:45pm Performances
   - 5:45pm Closing ceremony - group picture
   - 6pm - Cleanup, return equipment to EC, help move tables
