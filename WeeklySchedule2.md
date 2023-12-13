@@ -384,13 +384,22 @@ Friday December 15, 3-6pm
 
 ### Timeline
 - Wed Dec 13 - Space setup (tables, power installed)
-- Thursday Dec 14 - Class setup - 2-5pm
-  - Set up and test equipment, resolve any problems - 2-5pm
+- Thursday Dec 14 - Black Box Desert Media Art class setup
+  - Black Box busy 11-5pm for rehearsals
+  - Set up and test equipment, resolve any problems
+  - Luminous Rhythms - 10-11am
+  - Nomad - 5-6pm
+  - Hekaya - 5-7pm
+  - Desert Whispers 5-7pm
+  - Sand Team gets sand 5pm
+      - Cart from IM lab
+      - Shovel    
 - Friday Dec 15 - IM End of Semester Show - 3-6pm
   - 12-2:30pm - Prayer time
   - 2:30pm - Get installation running
   - 3-5pm Installations open for viewing
-    - Be ready to give a 5 minute tour
+    - Be ready to give a 5 minute tour at 3:30pm
+        - Nomad to go last    
     - Take documentation photos
   - 5-5:45pm Performances
   - 5:45pm Closing ceremony - group picture
