@@ -1,5 +1,7 @@
 # Weekly Schedule - Weeks 1-7
 
+## TO BE UPDATED FOR F2024
+
 [Weekly Schedule Spreadsheet](https://docs.google.com/spreadsheets/d/1UHKrTE_1LE3XZrwBPc6z2o0C35TFm3rHhnjkTC5FYvE/edit?usp=sharing)
 
 - [Week 1](#week-11) – Introduction
