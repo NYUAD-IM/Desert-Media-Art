@@ -1,4 +1,4 @@
-# Desert Media Art
+# Desert Media Art  -  IM-UH 3315
 
 How does bringing an artwork outside change its interaction with people and the environment? What new possibilities exist if we create an electronic artwork that can travel with us and be installed anywhere? Desert Media Art is a production based course where students research, propose, produce, install, and document an electronic artwork designed for Abu Dhabi’s desert. The desert is an iconic landscape with a rich history of use by artists as an alternative to the white box of the gallery. We will study historical and contemporary outdoor art practices as well as local ecology and culture.
 
@@ -12,7 +12,7 @@ Weekly Schedule: [Weeks 1-7](WeeklySchedule.md) [Weeks 8-14](WeeklySchedule2.md)
 
 [Code examples](Code)
 
-[Brightspace F2023](https://brightspace.nyu.edu/d2l/home/306567)
+[Brightspace F2024](https://brightspace.nyu.edu/d2l/home/306567)
 
 ![The Oasis](/Media/The_Oasis.jpg)
 
