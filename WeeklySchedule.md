@@ -1,7 +1,5 @@
 # Weekly Schedule - Weeks 1-7
 
-## TO BE UPDATED FOR F2024
-
 [Weekly Schedule Spreadsheet](https://docs.google.com/spreadsheets/d/1UHKrTE_1LE3XZrwBPc6z2o0C35TFm3rHhnjkTC5FYvE/edit?usp=sharing)
 
 - [Week 1](#week-11) – Introduction
@@ -29,21 +27,23 @@ Note: Exact due dates for assignments and readings are indicated in Brightspace
 
 [Desert Media Art – GitHub Code Repository](https://github.com/NYUAD-IM/Desert-Media-Art)
 
+# Week 1
+
 ## Week 1.1
 
 Introduction
 
 - Class introductions
+    - [Dunewind Resonator](https://kildall.com/newest-artworks/dunewindresonator) - Michael Ang & Scott Kildall
 - Course Overview
-    - What is Desert Media Art?
-    - Syllabus
-    - Schedule
-    - Assignments
+    - [What is Desert Media Art?](https://desert.nyuadim.com/)
+        - ["The Oasis"](https://desert.nyuadim.com/theoasis/)
+            - [Ars Electronica - Linz, Austria](https://ars.electronica.art/who-owns-the-truth/en/oasis/)
+            - [Featured project (Instagram)](https://www.instagram.com/p/Cv2G7UwK6cV/)
+    - [Syllabus](https://desert.nyuadim.com/syllabus/)
+    - [Schedule Overview](https://docs.google.com/spreadsheets/d/1UHKrTE_1LE3XZrwBPc6z2o0C35TFm3rHhnjkTC5FYvE/edit?usp=sharing)
+    - [Assignments / Readings (Brightspace)](https://brightspace.nyu.edu/d2l/le/376920/discussions/List)
     - Discord
-    - [Your Message Could Not Be Delivered](https://www.nyuad-artgallery.org/en_US/arts-center-project-space/your-message-could-not-be-delivered/) show opening Thursday in Project Space
-- Announcements
-    - No class Sept 11 (will be covered by field trip later in semester)
-    - [“The Oasis” from last year’s DMA showing at Ars Electronica](https://www.instagram.com/p/Cv2G7UwK6cV/)
     - Class kits will be distributed in class
 
 ### Homework – Week 1.1
@@ -60,7 +60,7 @@ Due before start of next class
     - Sign up link in Brightspace Overview/Links
     - Post an interesting desert project or put it in your Brightspace response
 
-## Week 2.1
+## Week 1.2
 
 - Media Art Outside
     - [The Outdoor Art Installations Defining Public Spaces](https://www.wallpaper.com/gallery/art/outdoor-art-installations)
@@ -78,19 +78,16 @@ Due before start of next class
 - Introduction to Git and GitHub Desktop
     - [Getting Started with Git and GitHub Desktop](https://www.codecademy.com/article/what-is-git-and-github-desktop)
 
-### Homework – Week 2.1
+### Homework – Week 1.2
 
 Due before start of next class
 
 - **Pick up book** from Bookstore (if staying in class)
-- **Sign** up for [GitHub](https://github.com/)
-- **Download** [GitHub Desktop](https://desktop.github.com/)
-- **Create** a new repository for your class work with a README.md
-- **Look over** [CircuitPython Tutorial: CircuitPython Install and Examples](https://desert.nyuadim.com/2022/02/28/getting-ready-for-circuitpython-featherwing-m4-express/) (no response required)
-
 ---
 
-## Week 2.2
+# Week 2
+
+## Week 2.1
 
 - Laser cutting
     - [Laser Cutting Basics](https://www.instructables.com/Laser-Cutting-Basics/)
