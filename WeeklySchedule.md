@@ -46,7 +46,11 @@ Introduction
         - [Site](https://goo.gl/maps/9WfF4DmenbHr1dcH6) visit Sunday Oct 27 (At least 1-2 per group) - 1:30pm-8:30pm 
         - [Desert installation](https://desert.nyuadim.com/2023/11/29/2023-field-installation/) Sunday Nov 24 (Mandatory) - 12:30pm-9:30pm
     - [Assignments / Readings (Brightspace)](https://brightspace.nyu.edu/d2l/le/376920/discussions/List)
-    - Discord
+    - Discord #desertart
+        - 3rd party server, optional but recommended
+        - [#desertart invite link on Brightspace](https://brightspace.nyu.edu/d2l/le/lessons/376920/units/10130825)
+        - Post interesting links, ask for / give help (all count for participation)
+    - Textbook at bookstore
     - Class kits will be distributed in class
 
 ### Homework – Week 1.1
@@ -54,14 +58,14 @@ Introduction
 Due before start of next class
 
 - **Read** [Desert X 2020 AlUla](https://desertx.org/dx/desert-x-alula-2020)
-    - Pick one installation and write 2-3 paragraphs of response in Brightspace Discussions:
+    - Pick one installation and write 2-3 paragraphs of response in Brightspace->Discussions->Reading 1:
         - What draws you to this particular installation?
         - How does the piece incorporate the desert context?
         - How does placing the piece in the desert change the meaning of the work?
+        - Find an interesting desert media art project and link it in your Brightspace response
 - **Post** your reading response via Brightspace Discussions
 - **Join Discord** (optional) #desertart
-    - Sign up link in Brightspace Overview/Links
-    - Post an interesting desert project or put it in your Brightspace response
+    - Sign up link in [Brightspace->Content->Overview/Links](https://brightspace.nyu.edu/d2l/le/lessons/376920/units/10130825)
 
 ## Week 1.2
 
