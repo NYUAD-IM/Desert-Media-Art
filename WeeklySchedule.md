@@ -62,7 +62,7 @@ Due before start of next class
         - What draws you to this particular installation?
         - How does the piece incorporate the desert context?
         - How does placing the piece in the desert change the meaning of the work?
-        - Find an interesting desert media art project and link it in your Brightspace response
+- **Find** an interesting desert media art project and link it in your Brightspace response. Be prepared to discuss the project in class
 - **Post** your reading response via Brightspace Discussions
 - **Join Discord** (optional) #desertart
     - Sign up link in [Brightspace->Content->Overview/Links](https://brightspace.nyu.edu/d2l/le/lessons/376920/units/10130825)
