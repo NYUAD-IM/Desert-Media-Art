@@ -109,6 +109,22 @@ Due before start of next class
     - [CircuitPython NeoPixel](https://learn.adafruit.com/adafruit-feather-m4-express-atsamd51/circuitpython-neopixel)
     - [CircuitPython Audio Out](https://desert.nyuadim.com/2022/04/01/tutorial-for-sound-on-prop-maker-m4-express/)
 
+## Week 2.2
+- Workshop: 3D printing with IM Lab Instructor
+    - IM Lab Print Farm
+        - 4x [Prusa MK4S](https://www.prusa3d.com/product/original-prusa-mk4s-3d-printer-5/)
+        - Ultimaker also available
+    - [Tinkercad](https://www.tinkercad.com/)
+        - Entry-level 3D modeling by combining objects together
+    - [Fusion 360](https://www.autodesk.com/products/fusion-360/personal)
+        - Professional 3D modeling tool for Computer Aided Design (CAD) and Manufacturing (CAM)
+    - [Blender](https://www.blender.org/)
+        - Free / open source tool for 3D modeling
+        - Primarily designed for graphics (rather than solid modeling)
+    - [PrusaSlicer](https://www.prusa3d.com/page/prusaslicer_424/)
+        - Converts solid 3D model to code for 3D printer
+        - Useful for estimating print time
+
 ### Homework – Week 2.2
 
 Due before start of next class
