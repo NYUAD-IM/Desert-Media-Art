@@ -98,6 +98,7 @@ Due before start of next class
 
 - Laser cutting
     - [Laser Cutting Basics](https://www.instructables.com/Laser-Cutting-Basics/)
+    - [IM Lab Laser Cutting presentation (Google Slides)[https://docs.google.com/presentation/d/1l6x9M0nAiH3uMHQKQtethxi2cAhx7vBo1srYkkMT4bA/edit?usp=sharing]
 - 3D printing
     - [https://www.instructables.com/3D-Printing-Basics/](https://www.instructables.com/3D-Printing-Basics/)
 - Arduino / CircuitPython
