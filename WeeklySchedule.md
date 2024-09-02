@@ -100,6 +100,9 @@ Due before start of next class
     - Laser cutting
     - 3D printing
     - Look at example projects
+      - [Dune Field Modulator](https://vimeo.com/228675810)
+      - [SISYPHUS](https://web.archive.org/web/20220710030154/https://www.michaelang.com/project/sisyphus)
+      - [NOOSTOPIA - Walking branch robots](https://www.martinbackes.com/portfolio/noostopia/)
  
 - Laser cutting (to be covered in Week 4 or 5)
     - [Laser Cutting Basics](https://www.instructables.com/Laser-Cutting-Basics/)
