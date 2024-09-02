@@ -95,12 +95,32 @@ Due before start of next class
 # Week 2
 
 ## Week 2.1
-
-- Laser cutting
+- Introduction to rapid prototyping
+    - Cardboard prototypes
+    - Laser cutting
+    - 3D printing
+    - Look at example projects
+ 
+- Laser cutting (to be covered in Week 4 or 5)
     - [Laser Cutting Basics](https://www.instructables.com/Laser-Cutting-Basics/)
     - [IM Lab Laser Cutting presentation (Google Slides)](https://docs.google.com/presentation/d/1l6x9M0nAiH3uMHQKQtethxi2cAhx7vBo1srYkkMT4bA/edit?usp=sharing)
+
 - 3D printing
     - [https://www.instructables.com/3D-Printing-Basics/](https://www.instructables.com/3D-Printing-Basics/)
+    - 3D design
+        - [Tinkercad](https://www.tinkercad.com/dashboard)
+            - Free
+            - [Tinkercad tutorials](https://www.tinkercad.com/learn)
+        - [Autodesk Fusion](https://www.tinkercad.com/dashboard)
+            - Personal and educational licenses available
+    - Community models
+        - User uploaded models
+        - Quality varies
+        - Good for test prints and inspiration
+        - [Printables](https://www.printables.com/)
+        - [Thingiverse](https://www.thingiverse.com/)
+        - [Cults 3D](https://cults3d.com/)
+
 - Arduino / CircuitPython
     
     - [Getting started with CircuitPython](https://desert.nyuadim.com/2022/02/28/getting-ready-for-circuitpython-featherwing-m4-express/)
@@ -109,6 +129,12 @@ Due before start of next class
     
     - [CircuitPython NeoPixel](https://learn.adafruit.com/adafruit-feather-m4-express-atsamd51/circuitpython-neopixel)
     - [CircuitPython Audio Out](https://desert.nyuadim.com/2022/04/01/tutorial-for-sound-on-prop-maker-m4-express/)
+ 
+### Homework
+- **Sign up** for [Tinkercad](https://www.tinkercad.com/)
+- **Complete** ["Let's Learn Tinkercad!" tutorial](https://www.tinkercad.com/learn/overview/O8XV0X1IRXTXGIH?collectionId=OSZ5W2BL1W5N51F&type=designs)
+- **Complete** ["Simple Heart Ring" tutorial](https://www.tinkercad.com/learn/overview/O1LA9G5IYKFZ15B?collectionId=OSZ5W2BL1W5N51F&type=designs)
+
 
 ## Week 2.2
 - Workshop: 3D printing with IM Lab Instructor
