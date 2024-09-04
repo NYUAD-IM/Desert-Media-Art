@@ -75,7 +75,7 @@ Due before start of next class
     - [Art Installations in the Desert](https://desert.nyuadim.com/2021/10/05/art-installations-in-the-desert/)
 - Tech overview
     - [CircuitPython](https://circuitpython.org/)
-        - [Adafruit Feather M4 Express](https://www.adafruit.com/product/3857)
+        - [Adafruit Feather M4 Express](https://learn.adafruit.com/adafruit-feather-m4-express-atsamd51/overview)
         - [Adafruit Prop-Maker FeatherWing](https://www.adafruit.com/product/3988)
     - Motors, sensors, light, sound
     - Laser cutting
