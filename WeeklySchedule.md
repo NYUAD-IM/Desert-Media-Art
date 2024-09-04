@@ -165,6 +165,10 @@ Due before start of next class
 
 Due before start of next class
 
+- **Create** Tinkercad 3D model for a base or light diffuser for the [M4 Express board](https://learn.adafruit.com/adafruit-metro-m4-express-featuring-atsamd51/overview)
+    - Find the complete instructions in Brightspace -> Discussions -> Exercise 1
+    - **Post** your work in Brightspace -> Discussions
+
 - **Read** through these tutorials to prepare for the CircuitPython workshop
     
     - [Getting started with CircuitPython](https://desert.nyuadim.com/2022/02/28/getting-ready-for-circuitpython-featherwing-m4-express/)
