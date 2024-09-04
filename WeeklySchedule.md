@@ -145,7 +145,7 @@ Due before start of next class
     - Fill in [DMA Tool Training form](https://forms.gle/B8diUH9xoRRPzYVf6)
     - Those who have not completed tool training within the last two years can join training sessions in IM Lab for other classes
         - Monday Sept 16 - 3:35pm-6pm (Intro to IM)
-        - More times TBC
+        - Tuesday Oct 8 - 9:55am-12:35pm (Intro to IM)
 - Workshop: 3D printing with IM Lab Instructor
     - IM Lab Print Farm
         - 4x [Prusa MK4S](https://www.prusa3d.com/product/original-prusa-mk4s-3d-printer-5/)
