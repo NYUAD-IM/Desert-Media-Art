@@ -167,7 +167,7 @@ Due before start of next class
 
 ### Homework – Week 2.2
 
-Due before start of next class
+Due before start of next class - Monday Sept 9 (late if submitted after class starts)
 
 - **Create** Tinkercad 3D model for a base or light diffuser for the [M4 Express board](https://learn.adafruit.com/adafruit-metro-m4-express-featuring-atsamd51/overview)
     - Find the complete instructions in Brightspace -> Discussions -> Exercise 1
