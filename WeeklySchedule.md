@@ -140,6 +140,10 @@ Due before start of next class
 
 
 ## Week 2.2
+- Announcements
+    - Reading responses and individual exercises must be post in Brightspace->Discussions
+        - Due night before class so we can discuss 
+        - Generally not accepted more than 5 days late
 - IM Lab Tool Training
     - Tool training is required to use the tools in the IM Lab (saws, drills, etc.)
     - Fill in [DMA Tool Training form](https://forms.gle/B8diUH9xoRRPzYVf6)
