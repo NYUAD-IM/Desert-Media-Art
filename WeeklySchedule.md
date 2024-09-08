@@ -4,7 +4,7 @@
 
 - [Week 1](#week-11) – Introduction
 - [Week 2](#week-21) – Media art outside, Tech intro
-- [Week 3](#week-31) – Workshop: CircuitPython, Desert Ecology and Culture / Workshop: Motors, Sound, Light
+- [Week 3](#week-3) – Workshop: CircuitPython, Desert Ecology and Culture / Workshop: Motors, Sound, Light
 - [Week 4](#week-41) – Workshop: Sound, Motors – 2D Design for Laser Cutting / Workshop: 3D Printing
 - [Week 5](#week-51) – Workshop: Laser Cutting / Workshop: Sensors
 - [Week 6](#week-61) – Outdoor Interaction Design / Idea Lab
