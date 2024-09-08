@@ -185,6 +185,7 @@ Due before start of next class - Monday Sept 9 (late if submitted after class st
 ## Week 3
 
 - **Workshop** Arduino / CircuitPython
+- Distribute class kits
 - [How do I learn Python?](https://learn.adafruit.com/welcome-to-circuitpython/how-do-i-learn-python "How do I learn Python?")
 - Download [Mu Editor](https://codewith.mu/)
 - Update CircuitPython to version 8.x on your board
