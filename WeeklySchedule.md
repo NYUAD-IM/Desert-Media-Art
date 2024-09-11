@@ -188,9 +188,14 @@ Due before start of next class - Monday Sept 9 (late if submitted after class st
 - Distribute class kits
 - [How do I learn Python?](https://learn.adafruit.com/welcome-to-circuitpython/how-do-i-learn-python "How do I learn Python?")
 - Download [Mu Editor](https://codewith.mu/)
-- Update CircuitPython to version 8.x on your board
+- Update CircuitPython to version 9.x (stable) on your board
     - Update instructions [https://learn.adafruit.com/adafruit-feather-m4-express-atsamd51/circuitpython](https://learn.adafruit.com/adafruit-feather-m4-express-atsamd51/circuitpython)
     - Download the UF2 file [https://circuitpython.org/board/feather\_m4\_express/](https://circuitpython.org/board/feather_m4_express/)
+- Workshop
+    - Using Mu
+    - Basic blink
+    - Installing CircuitPython libraries
+    - Using the on-board NeoPixel RGB LED
 - CircuitPython Examples
     - [Hello World (blink LED)](https://learn.adafruit.com/adafruit-feather-m4-express-atsamd51/creating-and-editing-code)
     - [RGB LED](https://learn.adafruit.com/adafruit-feather-m4-express-atsamd51/circuitpython-internal-rgb-led) – includes the necessary libraries for Exercise 2: RGB Hello World
@@ -202,7 +207,7 @@ Due before start of next class - Monday Sept 9 (late if submitted after class st
     - [Digital In and Out](https://learn.adafruit.com/circuitpython-essentials/circuitpython-digital-in-out)
     - [Internal RGB LED](https://learn.adafruit.com/circuitpython-essentials/circuitpython-internal-rgb-led)
     - [NeoPixel](https://learn.adafruit.com/circuitpython-essentials/circuitpython-neopixel)
-- GitHub
+- GitHub (optional but recommended)
     - Learning GitHub – [1.1: Introduction – Git and GitHub for Poets (Coding Train)](https://www.youtube.com/watch?v=BCQHnlnPusY)
     - Add this .gitignore file to your repository – [.gitignore](https://github.com/NYUAD-IM/Desert-Media-Art/blob/main/.gitignore)
         - Mac Finder files and compiled Python code (.pyc) will be ignored
