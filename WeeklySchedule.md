@@ -207,20 +207,16 @@ Due before start of next class - Monday Sept 9 (late if submitted after class st
     - Add this .gitignore file to your repository – [.gitignore](https://github.com/NYUAD-IM/Desert-Media-Art/blob/main/.gitignore)
         - Mac Finder files and compiled Python code (.pyc) will be ignored
 
-- Soldering
-    - [Resources for soldering](https://github.com/michaelshiloh/resourcesForClasses#soldering)
-    - [Adafruit Feather M4 Express Assembly](https://learn.adafruit.com/adafruit-feather-m4-express-atsamd51/assembly)
-    - Battery demonstration
-
-
 - In-class Assignment
-    - Update your Feather board to the latest bootloader and CircuitPython version (8.x)
+    - Update your Feather board to the latest bootloader and CircuitPython version (9.x)
     - Get your simple on-board LED blinking
     - Get your RGB NeoPixel changing colours
         -  See [Internal RGB LED](https://learn.adafruit.com/adafruit-feather-m4-express-atsamd51/circuitpython-internal-rgb-led)
-        -  Solder your switch with wires between EN and GND
-            - [Feather M4 Express pinouts](https://learn.adafruit.com/adafruit-feather-m4-express-atsamd51/pinouts)
 
+- Soldering (time permitting)
+    - [Resources for soldering](https://github.com/michaelshiloh/resourcesForClasses#soldering)
+    - [Adafruit Feather M4 Express Assembly](https://learn.adafruit.com/adafruit-feather-m4-express-atsamd51/assembly)
+    - Battery demonstration
 
 ### Homework – Week 3
 
