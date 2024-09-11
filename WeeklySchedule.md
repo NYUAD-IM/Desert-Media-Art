@@ -209,6 +209,11 @@ Due before start of next class - Monday Sept 9 (late if submitted after class st
     - [Digital In and Out](https://learn.adafruit.com/circuitpython-essentials/circuitpython-digital-in-out)
     - [Internal RGB LED](https://learn.adafruit.com/circuitpython-essentials/circuitpython-internal-rgb-led)
     - [NeoPixel](https://learn.adafruit.com/circuitpython-essentials/circuitpython-neopixel)
+- [Arduino to CircuitPython](https://learn.adafruit.com/arduino-to-circuitpython/overview)
+    - Comparison of Arduino and CircuitPython with examples of how to do similar tasks 
+- Useful CircuitPython references for this week's assignment
+    - [CircuitPython time functions](https://docs.circuitpython.org/en/latest/shared-bindings/time/index.html)
+    - [Arduino to CircuitPython - time](https://learn.adafruit.com/arduino-to-circuitpython/time)
 - GitHub (optional but recommended)
     - Learning GitHub – [1.1: Introduction – Git and GitHub for Poets (Coding Train)](https://www.youtube.com/watch?v=BCQHnlnPusY)
     - Add this .gitignore file to your repository – [.gitignore](https://github.com/NYUAD-IM/Desert-Media-Art/blob/main/.gitignore)
