@@ -193,7 +193,7 @@ Due before start of next class - Monday Sept 9 (late if submitted after class st
     - Download the UF2 file [https://circuitpython.org/board/feather\_m4\_express/](https://circuitpython.org/board/feather_m4_express/)
 - CircuitPython Examples
     - [Hello World (blink LED)](https://learn.adafruit.com/adafruit-feather-m4-express-atsamd51/creating-and-editing-code)
-    - [RGB LED](https://learn.adafruit.com/adafruit-feather-m4-express-atsamd51/circuitpython-internal-rgb-led) – includes the necessary libraries for Exercise 1: RGB Hello World
+    - [RGB LED](https://learn.adafruit.com/adafruit-feather-m4-express-atsamd51/circuitpython-internal-rgb-led) – includes the necessary libraries for Exercise 2: RGB Hello World
     - [NeoPixels](https://learn.adafruit.com/adafruit-feather-m4-express-atsamd51/circuitpython-neopixel)
     - [Sound](https://desert.nyuadim.com/2022/04/01/tutorial-for-sound-on-prop-maker-m4-express/)
     - [Servo](https://desert.nyuadim.com/2022/04/01/tutorial-for-moving-servo-on-m4-express/)
@@ -206,26 +206,30 @@ Due before start of next class - Monday Sept 9 (late if submitted after class st
     - Learning GitHub – [1.1: Introduction – Git and GitHub for Poets (Coding Train)](https://www.youtube.com/watch?v=BCQHnlnPusY)
     - Add this .gitignore file to your repository – [.gitignore](https://github.com/NYUAD-IM/Desert-Media-Art/blob/main/.gitignore)
         - Mac Finder files and compiled Python code (.pyc) will be ignored
+
 - In-class Assignment
     - Update your Feather board to the latest bootloader and CircuitPython version (8.x)
     - Get your simple on-board LED blinking
     - Get your RGB NeoPixel changing colours
+        -  See [Internal RGB LED](https://learn.adafruit.com/adafruit-feather-m4-express-atsamd51/circuitpython-internal-rgb-led)
+
 
 ### Homework – Week 3
 
-Due before start of next Monday class
+Due Sunday night, before class
 
-- **Exercise 1 – RGB Hello World**
+- **Exercise 2 – RGB Hello World**
     
-    - _Look at Brightspace -> Discussions -> Exercise 1 for the full instructions for the exercise_
+    - _Look at Brightspace -> Discussions -> Exercise 2 for the full instructions for the exercise_
     - **Create** a CircuitPython script that makes a simple animation using the onboard RGB LED
     
-    - **Post** a link to your script and your documentation to Brightspace -> Discussions -> Exercises -> Exercise 1
+    - **Post** a link to your script and your documentation to Brightspace -> Discussions -> Exercises -> Exercise 2
 - **Pickup** Field Guide To Emirates (required text) from the Bookstore
-    - Reading will be due Tuesday Sept 19, you may want to do it earlier!
+- **Reading 2** - Field Guide to Emirates
+    - **Post** in Brightspace -> Discussions -> Readings -> Reading 2
 
 ## Week 4.1
-
+- Reading dicussion
 - Light rave
 - Workshop – CircuitPython / Servos / Sound
     - Solder Feather boards
@@ -237,7 +241,6 @@ Due before start of next Monday class
         - Stacking headers
         - Lock & Lock boxes
     - Exercises
-        - [RGB LED](https://learn.adafruit.com/adafruit-feather-m4-express-atsamd51/circuitpython-internal-rgb-led)
         - [Sound](https://desert.nyuadim.com/2022/04/01/tutorial-for-sound-on-prop-maker-m4-express/)
         - [Servo](https://desert.nyuadim.com/2022/04/01/tutorial-for-moving-servo-on-m4-express/)
 - Introduction to Rapid Prototyping Assignment
