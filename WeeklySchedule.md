@@ -214,6 +214,8 @@ Due before start of next class - Monday Sept 9 (late if submitted after class st
 - Useful CircuitPython references for this week's assignment
     - [CircuitPython time functions](https://docs.circuitpython.org/en/latest/shared-bindings/time/index.html)
     - [Arduino to CircuitPython - time](https://learn.adafruit.com/arduino-to-circuitpython/time)
+    - [RGB color codes](https://www.rapidtables.com/web/color/RGB_Color.html)
+ 
 - GitHub (optional but recommended)
     - Learning GitHub – [1.1: Introduction – Git and GitHub for Poets (Coding Train)](https://www.youtube.com/watch?v=BCQHnlnPusY)
     - Add this .gitignore file to your repository – [.gitignore](https://github.com/NYUAD-IM/Desert-Media-Art/blob/main/.gitignore)
