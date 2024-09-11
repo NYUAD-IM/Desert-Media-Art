@@ -183,6 +183,8 @@ Due before start of next class - Monday Sept 9 (late if submitted after class st
     - [CircuitPython Audio Out](https://desert.nyuadim.com/2022/04/01/tutorial-for-sound-on-prop-maker-m4-express/)
 
 ## Week 3
+- Announcement
+  - [IM Lab Resources](https://www.nyuadim.com/resources/) - equipment booking, lab hours, policies, etc
 
 - **Workshop** Arduino / CircuitPython
 - Distribute class kits
