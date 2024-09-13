@@ -247,6 +247,7 @@ Due Sunday night, before class
     - **Post** in Brightspace -> Discussions -> Readings -> Reading 2
 
 ## Week 4.1
+- [Design for 3D printing (shapr3d)](https://www.shapr3d.com/blog/design-for-3d-printing)
 - Reading dicussion
 - Light rave
 - Workshop – CircuitPython / Servos / Sound
