@@ -383,11 +383,13 @@ Due before start of next class
 
 Due before start of next class
 
-- **TBD**[](https://www.youtube.com/channel/UCRIMkRHWWX9A5ofo_fDwnvQ)
+- **TBD**
+
+# Week 6
 
 ## Week 6.1
 
-- **Cancelled** – will be made up by field trip to Dubai Desert Conservation Reserve
+- TBD
 
 ### Homework – Week 6.1
 
