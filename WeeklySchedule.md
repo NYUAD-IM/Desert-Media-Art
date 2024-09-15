@@ -156,7 +156,7 @@ Due before start of next class
         - Ultimaker also available
     - [Tinkercad](https://www.tinkercad.com/)
         - Entry-level 3D modeling by combining objects together
-    - [Fusion 360](https://www.autodesk.com/products/fusion-360/personal)
+    - [Autodesk Fusion](https://www.autodesk.com/products/fusion-360/personal)
         - Professional 3D modeling tool for Computer Aided Design (CAD) and Manufacturing (CAM)
     - [Blender](https://www.blender.org/)
         - Free / open source tool for 3D modeling
