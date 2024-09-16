@@ -271,20 +271,11 @@ Due Sunday night, before class
 
 ## Homework – Week 4.1
 
-**Read** Field Guide To Emirates (required text)
-
-- _Look at Brightspace -> Discussions -> Reading 2 for the full instructions_
-- **Read** about the landscape, culture, flora, and fauna of the UAE
-- **Post** your reading response in Brightspace -> Discussions -> Readings
-
-**Finish soldering** your M4 Express board with long stacking headers
-
-- [Soldering Stacking Headers Tutorial](https://desert.nyuadim.com/2022/09/14/soldering-stacking-headers/)
+**Finish soldering** your power switch
 
 ---
 
 ## Week 4.2
-
 - Look at homework (soldering)
 - Desert Ecology and Culture
 - Discuss Reading
@@ -301,6 +292,11 @@ Due Sunday night, before class
 ### Homework – Week 4.2
 
 Due before start of next class
+
+- **Finish soldering** your M4 Express board with long stacking headers
+
+- [Soldering Stacking Headers Tutorial](https://desert.nyuadim.com/2022/09/14/soldering-stacking-headers/)
+
 
 - Start thinking about project ideas
 - **Download** [Inkscape](https://inkscape.org/)
