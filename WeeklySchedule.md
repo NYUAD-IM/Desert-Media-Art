@@ -247,6 +247,10 @@ Due Sunday night, before class
     - **Post** in Brightspace -> Discussions -> Readings -> Reading 2
 
 ## Week 4.1
+- Announcements
+    - Do you want to host an IM workshop? Contact Instructor Stefania
+![IM Workshop](https://intro.nyuadim.com/wp-content/uploads/2024/09/im_workshop.png?raw=true) 
+      
 - 3D printing design resources
     - [Design for 3D printing (shapr3d)](https://www.shapr3d.com/blog/design-for-3d-printing)
     - [Ultimate Guide: How to design for 3D Printing (wikifactory)](https://wikifactory.com/+wikifactory/stories/ultimate-guide-how-to-design-for-3d-printing)
