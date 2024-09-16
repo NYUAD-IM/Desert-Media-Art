@@ -248,8 +248,11 @@ Due Sunday night, before class
 
 ## Week 4.1
 - Announcements
+    - Tool training validity is now 2 years, then have to do full training
+        - Need training? Contact Ume <ume.hussein@nyu.edu> to schedule
     - Do you want to host an IM workshop? Contact Instructor Stefania
-![IM Workshop](https://intro.nyuadim.com/wp-content/uploads/2024/09/im_workshop.png?raw=true) 
+![IM Workshop](https://intro.nyuadim.com/wp-content/uploads/2024/09/im_workshop.png?raw=true)
+
       
 - 3D printing design resources
     - [Design for 3D printing (shapr3d)](https://www.shapr3d.com/blog/design-for-3d-printing)
