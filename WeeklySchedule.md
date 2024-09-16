@@ -311,9 +311,6 @@ Due before start of next class
     - Shelf storage
         - Put your name on things
         - Please bring your kits to class
-    - Field installation
-        - Sunday November 19
-    - Possible field trip earlier
 - 2D Design for Laser Cutting
     - [Inkscape](https://inkscape.org/)
     - [Inkscape 11 minute tutorial (YouTube)](https://youtu.be/-_KJZPOYBeA)
@@ -323,7 +320,6 @@ Due before start of next class
     - [Inkscape Tutorial: Prepare your files for laser cutting](https://www.sculpteo.com/en/prepare-your-file-laser-cutting/prepare-your-model-laser-cutting-inkscape/)
     - [Convert Text To A Path In Inkscape](https://logosbynick.com/convert-text-to-a-path-in-inkscape/)
         - “Freeze” text into a simple vector, e.g. when preparing a file for laser cutting on a machine that won’t have your font
-- Tool training
 - Workshop: Sound, Servo
     - Changing between different sketches on your CircuitPython board
         - Write your sound code in e.g. `sound_sketch.py`
