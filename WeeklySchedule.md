@@ -284,10 +284,13 @@ Due Sunday night, before class
     - Rub Al-Khali – “The Empty Quarter”
         - [Moreeb Dune (تل مرعب)](https://en.wikipedia.org/wiki/Moreeb_Dune)
         - [Moreeb Dune (Google Maps)](https://goo.gl/maps/Mw7RZ4LDLPWNyF2r8)
-- Scheduling
-    - Final Field Installation
-    - Visit to [Dubai Desert Conservation Reserve](https://www.ddcr.org/) or other location
 - [Desert Media Art around the Gulf](https://desert.nyuadim.com/desert-media-art-in-the-gulf/ "Desert Media Art in the Gulf")
+- [Multimeters (Adafruit)](https://learn.adafruit.com/multimeters/overview)
+    - For continuity testing with our multimeters, make sure switch is set to  Ω / (beep) and press the blue button to cycle into the beep mode
+    - The probes should be in COM and VΩ
+    - The multimeter will beep when the resistance (Ω) is low. OL on the meter indicates "Over Limit" (i.e. extremely high resistance / not connected)
+ 
+![Multimeter continuity](https://intro.nyuadim.com/wp-content/uploads/2024/09/Multimeter_continuity.jpg?raw=true "Multimeter continuity")
 
 ### Homework – Week 4.2
 
