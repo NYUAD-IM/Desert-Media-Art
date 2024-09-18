@@ -335,7 +335,7 @@ Due before start of next class
     - IN CLASS mp3 example – [mp3tap.py](https://github.com/NYUAD-IM/Desert-Media-Art/blob/main/Code/mp3tap.py)
         - Copy mp3tap.py to CIRCUITPY
         - Copy slow.mp3 and happy.mp3 to CIRCUITPY
-        - Download [CircuitPython libraries bundle for 8.x](https://circuitpython.org/libraries)
+        - Download [CircuitPython libraries bundle for 9.x](https://circuitpython.org/libraries)
         - Copy the file lib/adafruit\_lis3dh.mpy to your CIRCUITPY/lib folder
     - [Adafruit Prop Maker CircuitPython examples](https://learn.adafruit.com/adafruit-prop-maker-featherwing/circuitpython)
     - [CircuitPython MP3 Audio](https://learn.adafruit.com/circuitpython-essentials/circuitpython-mp3-audio)
