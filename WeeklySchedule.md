@@ -290,7 +290,7 @@ Due Sunday night, before class
     - The probes should be in COM and VΩ
     - The multimeter will beep when the resistance (Ω) is low. OL on the meter indicates "Over Limit" (i.e. extremely high resistance / not connected)
  
-![Multimeter continuity](https://intro.nyuadim.com/wp-content/uploads/2024/09/Multimeter_continuity.jpg?raw=true "Multimeter continuity")
+<img src="https://intro.nyuadim.com/wp-content/uploads/2024/09/Multimeter_continuity.jpg"  alt="Multimeter continuity" width=500 />
 
 ### Homework – Week 4.2
 
