@@ -1,24 +1,22 @@
 # Weekly Schedule - Weeks 1-7
 
-## TO BE UPDATED FOR F2024
-
 [Weekly Schedule Spreadsheet](https://docs.google.com/spreadsheets/d/1UHKrTE_1LE3XZrwBPc6z2o0C35TFm3rHhnjkTC5FYvE/edit?usp=sharing)
 
 - [Week 1](#week-11) – Introduction
 - [Week 2](#week-21) – Media art outside, Tech intro
-- [Week 3](#week-31) – Workshop: CircuitPython, Desert Ecology and Culture / Workshop: Motors, Sound, Light
+- [Week 3](#week-3) – Workshop: CircuitPython, Desert Ecology and Culture / Workshop: Motors, Sound, Light
 - [Week 4](#week-41) – Workshop: Sound, Motors – 2D Design for Laser Cutting / Workshop: 3D Printing
 - [Week 5](#week-51) – Workshop: Laser Cutting / Workshop: Sensors
 - [Week 6](#week-61) – Outdoor Interaction Design / Idea Lab
 - [Week 7](#week-71) – Idea Lab Presentations / Workshop: Sensors
 - FALL BREAK
 - [Week 8](WeeklySchedule2.md#week-81) – Electronics in the Desert / Workshop: LEDs and Servos
-- DESERT FIELD TRIP – Sunday November 5
+- DESERT SITE VISIT – Sunday October 27
 - [Week 9](WeeklySchedule2.md#week-91) – 3D Design with Tinkercad / Project Proposal Presentations
 - [Week 10](WeeklySchedule2.md#week-101) – Requested topics / Work session
 - [Week 11](WeeklySchedule2.md#week-111) – Telling your story – Exhibition Installations / Rapid Prototyping project review – Work session
 - [Week 12](WeeklySchedule2.md#week-121) – Storyboard Presentations / Prototype Presentations – Work Session
-- FIELD INSTALLATION – Sunday November 26
+- DESERT INSTALLATION – Sunday November 24
 - [Week 13](WeeklySchedule2.md#week-131) – Field work debrief
 - [Week 14](WeeklySchedule2.md#week-141) – Work session: Installation and video production / Present Final Project, Course Review
 - [IM SHOW](WeeklySchedule2.md#im-show) – Show Final Installation / Update installation documentation
@@ -29,21 +27,30 @@ Note: Exact due dates for assignments and readings are indicated in Brightspace
 
 [Desert Media Art – GitHub Code Repository](https://github.com/NYUAD-IM/Desert-Media-Art)
 
+# Week 1
+
 ## Week 1.1
 
 Introduction
 
 - Class introductions
+    - [Dunewind Resonator](https://kildall.com/newest-artworks/dunewindresonator) - Michael Ang & Scott Kildall
 - Course Overview
-    - What is Desert Media Art?
-    - Syllabus
-    - Schedule
-    - Assignments
-    - Discord
-    - [Your Message Could Not Be Delivered](https://www.nyuad-artgallery.org/en_US/arts-center-project-space/your-message-could-not-be-delivered/) show opening Thursday in Project Space
-- Announcements
-    - No class Sept 11 (will be covered by field trip later in semester)
-    - [“The Oasis” from last year’s DMA showing at Ars Electronica](https://www.instagram.com/p/Cv2G7UwK6cV/)
+    - [What is Desert Media Art?](https://desert.nyuadim.com/)
+        - ["The Oasis"](https://desert.nyuadim.com/theoasis/)
+            - [The Oasis at Festival X / Ars Electronica (Ars Electronica)](https://ars.electronica.art/who-owns-the-truth/en/oasis/)
+            - [AE featured project (Instagram)](https://www.instagram.com/p/Cv2G7UwK6cV/)
+    - [Syllabus](https://desert.nyuadim.com/syllabus/)
+    - [Schedule Overview](https://docs.google.com/spreadsheets/d/1UHKrTE_1LE3XZrwBPc6z2o0C35TFm3rHhnjkTC5FYvE/edit?usp=sharing)
+    - Desert Field Trips
+        - [Site](https://goo.gl/maps/9WfF4DmenbHr1dcH6) visit Sunday Oct 27 (At least 1-2 per group) - 1:30pm-8:30pm 
+        - [Desert installation](https://desert.nyuadim.com/2023/11/29/2023-field-installation/) Sunday Nov 24 (Mandatory) - 12:30pm-9:30pm
+    - [Assignments / Readings (Brightspace)](https://brightspace.nyu.edu/d2l/le/376920/discussions/List)
+    - Discord #desertart
+        - 3rd party server, optional but recommended
+        - [#desertart invite link on Brightspace](https://brightspace.nyu.edu/d2l/le/lessons/376920/units/10130825)
+        - Post interesting links, ask for / give help (all count for participation)
+    - Textbook at bookstore
     - Class kits will be distributed in class
 
 ### Homework – Week 1.1
@@ -51,16 +58,16 @@ Introduction
 Due before start of next class
 
 - **Read** [Desert X 2020 AlUla](https://desertx.org/dx/desert-x-alula-2020)
-    - Pick one installation and write 2-3 paragraphs of response in Brightspace Discussions:
+    - Pick one installation and write 2-3 paragraphs of response in Brightspace->Discussions->Reading 1:
         - What draws you to this particular installation?
         - How does the piece incorporate the desert context?
         - How does placing the piece in the desert change the meaning of the work?
+- **Find** an interesting desert media art project and link it in your Brightspace response. Be prepared to discuss the project in class
 - **Post** your reading response via Brightspace Discussions
 - **Join Discord** (optional) #desertart
-    - Sign up link in Brightspace Overview/Links
-    - Post an interesting desert project or put it in your Brightspace response
+    - Sign up link in [Brightspace->Content->Overview/Links](https://brightspace.nyu.edu/d2l/le/lessons/376920/units/10130825)
 
-## Week 2.1
+## Week 1.2
 
 - Media Art Outside
     - [The Outdoor Art Installations Defining Public Spaces](https://www.wallpaper.com/gallery/art/outdoor-art-installations)
@@ -68,7 +75,7 @@ Due before start of next class
     - [Art Installations in the Desert](https://desert.nyuadim.com/2021/10/05/art-installations-in-the-desert/)
 - Tech overview
     - [CircuitPython](https://circuitpython.org/)
-        - [Adafruit Feather M4 Express](https://www.adafruit.com/product/3857)
+        - [Adafruit Feather M4 Express](https://learn.adafruit.com/adafruit-feather-m4-express-atsamd51/overview)
         - [Adafruit Prop-Maker FeatherWing](https://www.adafruit.com/product/3988)
     - Motors, sensors, light, sound
     - Laser cutting
@@ -78,24 +85,45 @@ Due before start of next class
 - Introduction to Git and GitHub Desktop
     - [Getting Started with Git and GitHub Desktop](https://www.codecademy.com/article/what-is-git-and-github-desktop)
 
-### Homework – Week 2.1
+### Homework – Week 1.2
 
 Due before start of next class
 
 - **Pick up book** from Bookstore (if staying in class)
-- **Sign** up for [GitHub](https://github.com/)
-- **Download** [GitHub Desktop](https://desktop.github.com/)
-- **Create** a new repository for your class work with a README.md
-- **Look over** [CircuitPython Tutorial: CircuitPython Install and Examples](https://desert.nyuadim.com/2022/02/28/getting-ready-for-circuitpython-featherwing-m4-express/) (no response required)
-
 ---
 
-## Week 2.2
+# Week 2
 
-- Laser cutting
+## Week 2.1
+- Introduction to rapid prototyping
+    - Cardboard prototypes
+    - Laser cutting
+    - 3D printing
+    - Look at example projects
+      - [Dune Field Modulator](https://vimeo.com/228675810)
+      - [SISYPHUS](https://web.archive.org/web/20220710030154/https://www.michaelang.com/project/sisyphus)
+      - [NOOSTOPIA - Walking branch robots](https://www.martinbackes.com/portfolio/noostopia/)
+ 
+- Laser cutting (to be covered in Week 4 or 5)
     - [Laser Cutting Basics](https://www.instructables.com/Laser-Cutting-Basics/)
+    - [IM Lab Laser Cutting presentation (Google Slides)](https://docs.google.com/presentation/d/1l6x9M0nAiH3uMHQKQtethxi2cAhx7vBo1srYkkMT4bA/edit?usp=sharing)
+
 - 3D printing
     - [https://www.instructables.com/3D-Printing-Basics/](https://www.instructables.com/3D-Printing-Basics/)
+    - 3D design
+        - [Tinkercad](https://www.tinkercad.com/dashboard)
+            - Free
+            - [Tinkercad tutorials](https://www.tinkercad.com/learn)
+        - [Autodesk Fusion](https://www.tinkercad.com/dashboard)
+            - Personal and educational licenses available
+    - Community models
+        - User uploaded models
+        - Quality varies
+        - Good for test prints and inspiration
+        - [Printables](https://www.printables.com/)
+        - [Thingiverse](https://www.thingiverse.com/)
+        - [Cults 3D](https://cults3d.com/)
+
 - Arduino / CircuitPython
     
     - [Getting started with CircuitPython](https://desert.nyuadim.com/2022/02/28/getting-ready-for-circuitpython-featherwing-m4-express/)
@@ -104,10 +132,46 @@ Due before start of next class
     
     - [CircuitPython NeoPixel](https://learn.adafruit.com/adafruit-feather-m4-express-atsamd51/circuitpython-neopixel)
     - [CircuitPython Audio Out](https://desert.nyuadim.com/2022/04/01/tutorial-for-sound-on-prop-maker-m4-express/)
+ 
+### Homework
+- **Sign up** for [Tinkercad](https://www.tinkercad.com/)
+- **Complete** ["Let's Learn Tinkercad!" tutorial](https://www.tinkercad.com/learn/overview/O8XV0X1IRXTXGIH?collectionId=OSZ5W2BL1W5N51F&type=designs)
+- **Complete** ["Simple Heart Ring" tutorial](https://www.tinkercad.com/learn/overview/O1LA9G5IYKFZ15B?collectionId=OSZ5W2BL1W5N51F&type=designs)
+
+
+## Week 2.2
+- Announcements
+    - Reading responses and individual exercises must be post in Brightspace->Discussions
+        - Due night before class so we can discuss 
+        - Generally not accepted more than 5 days late
+- IM Lab Tool Training
+    - Tool training is required to use the tools in the IM Lab (saws, drills, etc.)
+    - Fill in [DMA Tool Training form](https://forms.gle/B8diUH9xoRRPzYVf6)
+    - Those who have not completed tool training within the last two years can join training sessions in IM Lab for other classes
+        - Monday Sept 16 - 3:35pm-6pm (Intro to IM)
+        - Tuesday Oct 8 - 9:55am-12:35pm (Intro to IM)
+- Workshop: 3D printing with IM Lab Instructor
+    - IM Lab Print Farm
+        - 4x [Prusa MK4S](https://www.prusa3d.com/product/original-prusa-mk4s-3d-printer-5/)
+        - Ultimaker also available
+    - [Tinkercad](https://www.tinkercad.com/)
+        - Entry-level 3D modeling by combining objects together
+    - [Autodesk Fusion](https://www.autodesk.com/products/fusion-360/personal)
+        - Professional 3D modeling tool for Computer Aided Design (CAD) and Manufacturing (CAM)
+    - [Blender](https://www.blender.org/)
+        - Free / open source tool for 3D modeling
+        - Primarily designed for graphics (rather than solid modeling)
+    - [PrusaSlicer](https://www.prusa3d.com/page/prusaslicer_424/)
+        - Converts solid 3D model to code for 3D printer
+        - Useful for estimating print time
 
 ### Homework – Week 2.2
 
-Due before start of next class
+Due before start of next class - Monday Sept 9 (late if submitted after class starts)
+
+- **Create** Tinkercad 3D model for a base or light diffuser for the [M4 Express board](https://learn.adafruit.com/adafruit-metro-m4-express-featuring-atsamd51/overview)
+    - Find the complete instructions in Brightspace -> Discussions -> Exercise 1
+    - **Post** your work in Brightspace -> Discussions
 
 - **Read** through these tutorials to prepare for the CircuitPython workshop
     
@@ -119,16 +183,24 @@ Due before start of next class
     - [CircuitPython Audio Out](https://desert.nyuadim.com/2022/04/01/tutorial-for-sound-on-prop-maker-m4-express/)
 
 ## Week 3
+- Announcement
+  - [IM Lab Resources](https://www.nyuadim.com/resources/) - equipment booking, lab hours, policies, etc
 
 - **Workshop** Arduino / CircuitPython
+- Distribute class kits
 - [How do I learn Python?](https://learn.adafruit.com/welcome-to-circuitpython/how-do-i-learn-python "How do I learn Python?")
 - Download [Mu Editor](https://codewith.mu/)
-- Update CircuitPython to version 8.x on your board
+- Update CircuitPython to version 9.x (stable) on your board
     - Update instructions [https://learn.adafruit.com/adafruit-feather-m4-express-atsamd51/circuitpython](https://learn.adafruit.com/adafruit-feather-m4-express-atsamd51/circuitpython)
     - Download the UF2 file [https://circuitpython.org/board/feather\_m4\_express/](https://circuitpython.org/board/feather_m4_express/)
+- Workshop
+    - Using Mu
+    - Basic blink
+    - Installing CircuitPython libraries
+    - Using the on-board NeoPixel RGB LED
 - CircuitPython Examples
     - [Hello World (blink LED)](https://learn.adafruit.com/adafruit-feather-m4-express-atsamd51/creating-and-editing-code)
-    - [RGB LED](https://learn.adafruit.com/adafruit-feather-m4-express-atsamd51/circuitpython-internal-rgb-led) – includes the necessary libraries for Exercise 1: RGB Hello World
+    - [RGB LED](https://learn.adafruit.com/adafruit-feather-m4-express-atsamd51/circuitpython-internal-rgb-led) – includes the necessary libraries for Exercise 2: RGB Hello World
     - [NeoPixels](https://learn.adafruit.com/adafruit-feather-m4-express-atsamd51/circuitpython-neopixel)
     - [Sound](https://desert.nyuadim.com/2022/04/01/tutorial-for-sound-on-prop-maker-m4-express/)
     - [Servo](https://desert.nyuadim.com/2022/04/01/tutorial-for-moving-servo-on-m4-express/)
@@ -137,62 +209,73 @@ Due before start of next class
     - [Digital In and Out](https://learn.adafruit.com/circuitpython-essentials/circuitpython-digital-in-out)
     - [Internal RGB LED](https://learn.adafruit.com/circuitpython-essentials/circuitpython-internal-rgb-led)
     - [NeoPixel](https://learn.adafruit.com/circuitpython-essentials/circuitpython-neopixel)
-- GitHub
+- [Arduino to CircuitPython](https://learn.adafruit.com/arduino-to-circuitpython/overview)
+    - Comparison of Arduino and CircuitPython with examples of how to do similar tasks 
+- Useful CircuitPython references for this week's assignment
+    - [CircuitPython time functions](https://docs.circuitpython.org/en/latest/shared-bindings/time/index.html)
+    - [Arduino to CircuitPython - time](https://learn.adafruit.com/arduino-to-circuitpython/time)
+    - [RGB color codes](https://www.rapidtables.com/web/color/RGB_Color.html)
+ 
+- GitHub (optional but recommended)
     - Learning GitHub – [1.1: Introduction – Git and GitHub for Poets (Coding Train)](https://www.youtube.com/watch?v=BCQHnlnPusY)
     - Add this .gitignore file to your repository – [.gitignore](https://github.com/NYUAD-IM/Desert-Media-Art/blob/main/.gitignore)
         - Mac Finder files and compiled Python code (.pyc) will be ignored
+
 - In-class Assignment
-    - Update your Feather board to the latest bootloader and CircuitPython version (8.x)
+    - Update your Feather board to the latest bootloader and CircuitPython version (9.x)
     - Get your simple on-board LED blinking
     - Get your RGB NeoPixel changing colours
+        -  See [Internal RGB LED](https://learn.adafruit.com/adafruit-feather-m4-express-atsamd51/circuitpython-internal-rgb-led)
+
+- Soldering (time permitting)
+    - [Resources for soldering](https://github.com/michaelshiloh/resourcesForClasses#soldering)
+    - [Adafruit Feather M4 Express Assembly](https://learn.adafruit.com/adafruit-feather-m4-express-atsamd51/assembly)
+    - Battery demonstration
 
 ### Homework – Week 3
 
-Due before start of next Monday class
+Due Sunday night, before class
 
-- **Exercise 1 – RGB Hello World**
+- **Exercise 2 – RGB Hello World**
     
-    - _Look at Brightspace -> Discussions -> Exercise 1 for the full instructions for the exercise_
+    - _Look at Brightspace -> Discussions -> Exercise 2 for the full instructions for the exercise_
     - **Create** a CircuitPython script that makes a simple animation using the onboard RGB LED
     
-    - **Post** a link to your script and your documentation to Brightspace -> Discussions -> Exercises -> Exercise 1
+    - **Post** a link to your script and your documentation to Brightspace -> Discussions -> Exercises -> Exercise 2
 - **Pickup** Field Guide To Emirates (required text) from the Bookstore
-    - Reading will be due Tuesday Sept 19, you may want to do it earlier!
+- **Reading 2** - Field Guide to Emirates
+    - **Post** in Brightspace -> Discussions -> Readings -> Reading 2
 
 ## Week 4.1
+- Announcements
+    - Tool training validity is now 2 years, then have to do full training
+        - Need training? Contact Ume <ume.hussein@nyu.edu> to schedule
+    - Do you want to host an IM workshop? Contact Instructor Stefania
+![IM Workshop](https://intro.nyuadim.com/wp-content/uploads/2024/09/im_workshop.png?raw=true)
 
+      
+- 3D printing design resources
+    - [Design for 3D printing (shapr3d)](https://www.shapr3d.com/blog/design-for-3d-printing)
+    - [Ultimate Guide: How to design for 3D Printing (wikifactory)](https://wikifactory.com/+wikifactory/stories/ultimate-guide-how-to-design-for-3d-printing)
+- Reading dicussion
 - Light rave
 - Workshop – CircuitPython / Servos / Sound
     - Solder Feather boards
         - [Resources for soldering](https://github.com/michaelshiloh/resourcesForClasses#soldering)
         - [Adafruit Feather M4 Express Assembly](https://learn.adafruit.com/adafruit-feather-m4-express-atsamd51/assembly)
     - Battery demonstration
-    - Distribute electronics
-        - Servos
-        - Stacking headers
-        - Lock & Lock boxes
     - Exercises
-        - [RGB LED](https://learn.adafruit.com/adafruit-feather-m4-express-atsamd51/circuitpython-internal-rgb-led)
         - [Sound](https://desert.nyuadim.com/2022/04/01/tutorial-for-sound-on-prop-maker-m4-express/)
         - [Servo](https://desert.nyuadim.com/2022/04/01/tutorial-for-moving-servo-on-m4-express/)
 - Introduction to Rapid Prototyping Assignment
 
 ## Homework – Week 4.1
 
-**Read** Field Guide To Emirates (required text)
-
-- _Look at Brightspace -> Discussions -> Reading 2 for the full instructions_
-- **Read** about the landscape, culture, flora, and fauna of the UAE
-- **Post** your reading response in Brightspace -> Discussions -> Readings
-
-**Finish soldering** your M4 Express board with long stacking headers
-
-- [Soldering Stacking Headers Tutorial](https://desert.nyuadim.com/2022/09/14/soldering-stacking-headers/)
+**Finish soldering** your power switch
 
 ---
 
 ## Week 4.2
-
 - Look at homework (soldering)
 - Desert Ecology and Culture
 - Discuss Reading
@@ -201,14 +284,27 @@ Due before start of next Monday class
     - Rub Al-Khali – “The Empty Quarter”
         - [Moreeb Dune (تل مرعب)](https://en.wikipedia.org/wiki/Moreeb_Dune)
         - [Moreeb Dune (Google Maps)](https://goo.gl/maps/Mw7RZ4LDLPWNyF2r8)
-- Scheduling
-    - Final Field Installation
-    - Visit to [Dubai Desert Conservation Reserve](https://www.ddcr.org/) or other location
 - [Desert Media Art around the Gulf](https://desert.nyuadim.com/desert-media-art-in-the-gulf/ "Desert Media Art in the Gulf")
+- [Multimeters (Adafruit)](https://learn.adafruit.com/multimeters/overview)
+    - For continuity testing with our multimeters, make sure switch is set to  Ω / (beep) and press the blue button to cycle into the beep mode
+    - The probes should be in COM and VΩ
+    - The multimeter will beep when the resistance (Ω) is low. OL on the meter indicates "Over Limit" (i.e. extremely high resistance / not connected)
+ 
+<img src="https://intro.nyuadim.com/wp-content/uploads/2024/09/Multimeter_continuity.jpg"  alt="Multimeter continuity" width=500 />
 
 ### Homework – Week 4.2
 
 Due before start of next class
+
+- **Finish soldering** your M4 Express board with long stacking headers
+    - [Soldering Stacking Headers Tutorial](https://desert.nyuadim.com/2022/09/14/soldering-stacking-headers/)
+- **Solder** the connector to your speaker
+    - [Tutorial for sound](https://desert.nyuadim.com/2022/04/01/tutorial-for-sound-on-prop-maker-m4-express/)
+    - Make sure you use the right connector! It should fit in the "SPEAKER" socket on your Prop Maker Featherwing
+    - The polarity of the connection to the speaker is not important
+- **Solder** the connector to your NeoPixel ring
+    - [Tutorial for Neopixels](https://desert.nyuadim.com/2022/10/25/tutorial-neopixels-with-prop-maker-featherwing/)
+
 
 - Start thinking about project ideas
 - **Download** [Inkscape](https://inkscape.org/)
@@ -222,18 +318,15 @@ Due before start of next class
     - Shelf storage
         - Put your name on things
         - Please bring your kits to class
-    - Field installation
-        - Sunday November 19
-    - Possible field trip earlier
 - 2D Design for Laser Cutting
     - [Inkscape](https://inkscape.org/)
     - [Inkscape 11 minute tutorial (YouTube)](https://youtu.be/-_KJZPOYBeA)
     - [Inkscape basic tutorial](https://inkscape.org/doc/tutorials/basic/tutorial-basic.html)
     - [Inkscape Tutorials (YouTube)](https://www.youtube.com/watch?v=8f011wdiW7g&list=PLqazFFzUAPc5lOQwDoZ4Dw2YSXtO7lWNv&index=1)
     - [Inkscape design for laser cutting (YouTube)](https://youtu.be/IzaiISOzXHo)
+    - [Inkscape Tutorial: Prepare your files for laser cutting](https://www.sculpteo.com/en/prepare-your-file-laser-cutting/prepare-your-model-laser-cutting-inkscape/)
     - [Convert Text To A Path In Inkscape](https://logosbynick.com/convert-text-to-a-path-in-inkscape/)
         - “Freeze” text into a simple vector, e.g. when preparing a file for laser cutting on a machine that won’t have your font
-- Tool training
 - Workshop: Sound, Servo
     - Changing between different sketches on your CircuitPython board
         - Write your sound code in e.g. `sound_sketch.py`
@@ -242,7 +335,7 @@ Due before start of next class
     - IN CLASS mp3 example – [mp3tap.py](https://github.com/NYUAD-IM/Desert-Media-Art/blob/main/Code/mp3tap.py)
         - Copy mp3tap.py to CIRCUITPY
         - Copy slow.mp3 and happy.mp3 to CIRCUITPY
-        - Download [CircuitPython libraries bundle for 8.x](https://circuitpython.org/libraries)
+        - Download [CircuitPython libraries bundle for 9.x](https://circuitpython.org/libraries)
         - Copy the file lib/adafruit\_lis3dh.mpy to your CIRCUITPY/lib folder
     - [Adafruit Prop Maker CircuitPython examples](https://learn.adafruit.com/adafruit-prop-maker-featherwing/circuitpython)
     - [CircuitPython MP3 Audio](https://learn.adafruit.com/circuitpython-essentials/circuitpython-mp3-audio)
@@ -293,11 +386,13 @@ Due before start of next class
 
 Due before start of next class
 
-- **TBD**[](https://www.youtube.com/channel/UCRIMkRHWWX9A5ofo_fDwnvQ)
+- **TBD**
+
+# Week 6
 
 ## Week 6.1
 
-- **Cancelled** – will be made up by field trip to Dubai Desert Conservation Reserve
+- TBD
 
 ### Homework – Week 6.1
 
