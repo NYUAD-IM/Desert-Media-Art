@@ -302,6 +302,8 @@ Due before start of next class
     - [Tutorial for sound](https://desert.nyuadim.com/2022/04/01/tutorial-for-sound-on-prop-maker-m4-express/)
     - Make sure you use the right connector! It should fit in the "SPEAKER" socket on your Prop Maker Featherwing
     - The polarity of the connection to the speaker is not important
+- **Solder** the connector to your NeoPixel ring
+    - [Tutorial for Neopixels](https://desert.nyuadim.com/2022/10/25/tutorial-neopixels-with-prop-maker-featherwing/)
 
 
 - Start thinking about project ideas
