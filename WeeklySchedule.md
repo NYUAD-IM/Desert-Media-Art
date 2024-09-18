@@ -297,8 +297,11 @@ Due Sunday night, before class
 Due before start of next class
 
 - **Finish soldering** your M4 Express board with long stacking headers
-
-- [Soldering Stacking Headers Tutorial](https://desert.nyuadim.com/2022/09/14/soldering-stacking-headers/)
+    - [Soldering Stacking Headers Tutorial](https://desert.nyuadim.com/2022/09/14/soldering-stacking-headers/)
+- **Solder** the connector to your speaker
+    - [Tutorial for sound](https://desert.nyuadim.com/2022/04/01/tutorial-for-sound-on-prop-maker-m4-express/)
+    - Make sure you use the right connector! It should fit in the "SPEAKER" socket on your Prop Maker Featherwing
+    - The polarity of the connection to the speaker is not important
 
 
 - Start thinking about project ideas
