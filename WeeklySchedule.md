@@ -305,7 +305,6 @@ Due before start of next class
 - **Solder** the connector to your NeoPixel ring
     - [Tutorial for Neopixels](https://desert.nyuadim.com/2022/10/25/tutorial-neopixels-with-prop-maker-featherwing/)
 
-
 - Start thinking about project ideas
 - **Download** [Inkscape](https://inkscape.org/)
 - **Watch** [Inkscape explained in 5 minutes (YouTube)](https://www.youtube.com/watch?v=pa6a7oz7vEE)
@@ -313,11 +312,6 @@ Due before start of next class
 ---
 
 ## Week 5.1
-
-- Announcements
-    - Shelf storage
-        - Put your name on things
-        - Please bring your kits to class
 - 2D Design for Laser Cutting
     - [Inkscape](https://inkscape.org/)
     - [Inkscape 11 minute tutorial (YouTube)](https://youtu.be/-_KJZPOYBeA)
@@ -327,6 +321,28 @@ Due before start of next class
     - [Inkscape Tutorial: Prepare your files for laser cutting](https://www.sculpteo.com/en/prepare-your-file-laser-cutting/prepare-your-model-laser-cutting-inkscape/)
     - [Convert Text To A Path In Inkscape](https://logosbynick.com/convert-text-to-a-path-in-inkscape/)
         - “Freeze” text into a simple vector, e.g. when preparing a file for laser cutting on a machine that won’t have your font
+    - Inkscape Essential Training on LinkedIn Learning: [https://www.linkedin.com/learning/inkscape-essential-training-9975138](https://www.linkedin.com/learning/inkscape-essential-training-9975138)
+    - MakerCase: [https://en.makercase.com/](https://en.makercase.com/)
+        - Online lasercut box design
+     
+- Laser cutter booking
+    - [IM Lab Resources](https://www.nyuadim.com/resources/)
+
+### Homework – Week 5.1
+
+Due before start of next class
+
+- Have a look at these tutorials to get familiar with servos / sound / light
+- [RGB LED](https://learn.adafruit.com/adafruit-feather-m4-express-atsamd51/circuitpython-internal-rgb-led)
+- [Sound](https://desert.nyuadim.com/2022/04/01/tutorial-for-sound-on-prop-maker-m4-express/)
+- [Servo](https://desert.nyuadim.com/2022/04/01/tutorial-for-moving-servo-on-m4-express/)
+- **Exercise – Create and post** a 2D design
+    - See Brightspace -> Discussions -> Exercises -> Exercise – Inkscape for details
+
+---
+
+## Week 5.2
+
 - Workshop: Sound, Servo
     - Changing between different sketches on your CircuitPython board
         - Write your sound code in e.g. `sound_sketch.py`
@@ -344,43 +360,6 @@ Due before start of next class
     - [CircuitPython Analog In](https://learn.adafruit.com/circuitpython-essentials/circuitpython-analog-in)
         - Solder wires to your potentiometer and connect it to your breadboard
         - Wiring diagram for Feather M4 Express is in the tutorial
-
-### Homework – Week 4.2
-
-Due before start of next class
-
-- Have a look at these tutorials to get familiar with servos / sound / light
-- [RGB LED](https://learn.adafruit.com/adafruit-feather-m4-express-atsamd51/circuitpython-internal-rgb-led)
-- [Sound](https://desert.nyuadim.com/2022/04/01/tutorial-for-sound-on-prop-maker-m4-express/)
-- [Servo](https://desert.nyuadim.com/2022/04/01/tutorial-for-moving-servo-on-m4-express/)
-- **Exercise – Create and post** a speech bubble that starts with “Desert Media Art is”See [Brightspace -> Discussions -> Exercises -> Exercise – Inkscape](https://brightspace.nyu.edu/d2l/le/214235/discussions/topics/344641/View) for details and to post your work
-
-## Week 5.1
-
-- 3D Design for 3D Printing Resources
-    - [Tinkercad](https://www.tinkercad.com/)
-        - [Importing and exporting in Tinkercad](https://www.boisestate.edu/library-makerlab/albertsons-library-makerlab/tutorials/tinkercad-tutorials-test/importing-and-exporting-in-tinkercad/)
-            - Export STL to use with 3D printer
-    - [Fusion 360](https://www.autodesk.ae/products/fusion-360/overview)
-    - [Fusion 360 Educational Access](https://www.autodesk.com/education/edu-software/overview?sorting=featured&filters=individual)
-    - [Self-paced learning for Fusion 360](https://help.autodesk.com/view/fusion360/ENU/courses/)
-    - [How to share a Fusion 360 design](https://knowledge.autodesk.com/support/fusion-360/troubleshooting/caas/sfdcarticles/sfdcarticles/How-to-share-a-Fusion-360-design.html)
-
-### Homework – Week 5.1
-
-Due before start of next class
-
-- TBD
-
----
-
-## Week 5.2
-
-- Workshop: Laser Cutting taught by Jack Du
-    - MakerCase: [https://en.makercase.com/](https://en.makercase.com/)
-    - Inkscape Essential Training on LinkedIn Learning: [https://www.linkedin.com/learning/inkscape-essential-training-9975138](https://www.linkedin.com/learning/inkscape-essential-training-9975138)
-- What will you create with a laser cutter?
-- [IM Lab Resources](https://www.nyuadim.com/resources/)
 
 ### Homework – Week 5.2
 
