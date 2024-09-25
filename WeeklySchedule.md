@@ -366,8 +366,7 @@ Due before start of next class
 - **Complete** the [servo tutorial](https://desert.nyuadim.com/2022/04/01/tutorial-for-moving-servo-on-m4-express/)
 
 - **Read** [Proceedings of the Digital Naturalism Conference](https://archive.org/details/dinacon-2019-single-page-lulu-a-5-printed-2/DINACON%202019%20single%20page%20lulu%20-%20A5_printed2/)
-- **Find** a project that resonates with you and be prepared to share in class
-- **Post** a reading response via Brightspace
+    - **Post** a reading response via Brightspace
 
 - **Start** thinking about final project ideas
 
