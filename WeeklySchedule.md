@@ -426,6 +426,9 @@ Due before start of next class
         - [City Refl3ctor](https://desert.nyuadim.com/wp-admin/undefined) – Michael Ang
         - [Space Robots in the Desert](https://desert.nyuadim.com/2021/10/30/space-robots-in-the-desert/)
         - [Unnatural Language](https://www.michaelang.com/project/unnatural-language)
+    - [Light-Up Costumes in Harsh Environments
+ (Adafruit)](https://learn.adafruit.com/light-up-costumes-in-harsh-environments)
+        - Has good examples of waterproof soldered wires
 
 Due before start of next class
 
