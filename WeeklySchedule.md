@@ -343,12 +343,14 @@ Due before start of next class
 
 ## Week 5.2
 
-- Workshop: Sound, Servo
+- Workshop: Sound, NeoPixels, Servo
     - Changing between different sketches on your CircuitPython board
         - Write your sound code in e.g. `sound_sketch.py`
         - Write your RGB code in e.g. `rgb_sketch.py`
         - Inside code.py, change between `import sound_sketch` and `import rgb_sketch`
     - IN CLASS mp3 example: [Tutorial for Sound](https://desert.nyuadim.com/2022/04/01/tutorial-for-sound-on-prop-maker-m4-express/)
+    - IN CLASS NeoPixel example: [Tutorial for NeoPixel Ring](https://desert.nyuadim.com/2022/10/25/tutorial-neopixels-with-prop-maker-featherwing/)
+    - IN CLASS (time permitting) [Tutorial for Servo](https://desert.nyuadim.com/2022/04/01/tutorial-for-moving-servo-on-m4-express/)
     - [Adafruit Prop Maker CircuitPython examples](https://learn.adafruit.com/adafruit-prop-maker-featherwing/circuitpython)
     - [CircuitPython MP3 Audio](https://learn.adafruit.com/circuitpython-essentials/circuitpython-mp3-audio)
     - Installing CircuitPython libraries
@@ -361,7 +363,8 @@ Due before start of next class
 
 Due before start of next class
 
-- **TBD**
+- **Complete** the [servo tutorial](https://desert.nyuadim.com/2022/04/01/tutorial-for-moving-servo-on-m4-express/)
+- **Start** thinking about final project ideas
 
 # Week 6
 
