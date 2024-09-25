@@ -348,13 +348,7 @@ Due before start of next class
         - Write your sound code in e.g. `sound_sketch.py`
         - Write your RGB code in e.g. `rgb_sketch.py`
         - Inside code.py, change between `import sound_sketch` and `import rgb_sketch`
-<!--    - IN CLASS mp3 example – [mp3tap.py](https://github.com/NYUAD-IM/Desert-Media-Art/blob/main/Code/mp3tap.py)
-        - Copy mp3tap.py to CIRCUITPY
-        - Copy slow.mp3 and happy.mp3 to CIRCUITPY
-        - Download [CircuitPython libraries bundle for 9.x](https://circuitpython.org/libraries)
-        - Copy the file lib/adafruit\_lis3dh.mpy to your CIRCUITPY/lib folder
--->
-    - IN CLASS mp3 example - [Tutorial for Sound](https://desert.nyuadim.com/2022/04/01/tutorial-for-sound-on-prop-maker-m4-express/)
+    - IN CLASS mp3 example: [Tutorial for Sound](https://desert.nyuadim.com/2022/04/01/tutorial-for-sound-on-prop-maker-m4-express/)
     - [Adafruit Prop Maker CircuitPython examples](https://learn.adafruit.com/adafruit-prop-maker-featherwing/circuitpython)
     - [CircuitPython MP3 Audio](https://learn.adafruit.com/circuitpython-essentials/circuitpython-mp3-audio)
     - Installing CircuitPython libraries
