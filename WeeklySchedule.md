@@ -374,18 +374,6 @@ Due before start of next class
 
 ## Week 6.1
 
-- TBD
-
-### Homework – Week 6.1
-
-Due before start of next class
-
-- **TBD**
-
----
-
-## Week 6.2
-
 - Introduction to [Final Project](https://desert.nyuadim.com/2022/09/27/final-project/)
 - [Class Resources](https://desert.nyuadim.com/class-resources/)
     - Growing list of resources about e.g. 3D printing
@@ -430,6 +418,11 @@ Due before start of next class
  (Adafruit)](https://learn.adafruit.com/light-up-costumes-in-harsh-environments)
         - Has good examples of waterproof soldered wires
 
+
+## Week 6.2
+
+
+### Homework
 Due before start of next class
 
 
