@@ -425,22 +425,11 @@ Due before start of next class
 ### Homework
 Due before start of next class
 
-
 - **Start** dividing into groups for the final project
 - **Be ready to share** one final project idea
 
 ## Week 7.1
 
-- Announcements
-    - Field install timing
-        - Currently scheduled for Nov 19 (a bit early)
-        - Nov 26 not everyone can go
-        - Dec 3 is National Day holiday
-        - Dec 10 is last weekend before finals
-        - Dec 15 is IM End of Semester Show
-        - Chaperone needed?
-    - Field visit timing
-        - Based on Field Install
 - Idea Lab
     - Opening remarks
     - Share project ideas (come to front of class and share idea)
