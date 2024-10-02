@@ -398,6 +398,8 @@ Due before start of next class
     - Light sensors
         - Photoresistors
         - [BH1750 Light Sensor](https://www.adafruit.com/product/4681)
+    - Accelerometer
+        - Built into the [Prop-Maker Featherwing](https://learn.adafruit.com/adafruit-prop-maker-featherwing/overview) - [example code](https://learn.adafruit.com/adafruit-prop-maker-featherwing/circuitpython)
     - Temperature / humidity
         - [SHT40 Temperature / Humidity](https://www.adafruit.com/product/4885)
     - Altitude
@@ -405,6 +407,14 @@ Due before start of next class
     - [Flex sensor](https://www.adafruit.com/product/182)
     - Anything else from the lab / IM equipment checkout
     - Other ideas? Let me know and we can see what’s available / potentially order them
+ 
+- Example outputs
+    - Light
+        - [NeoPixel ring](https://desert.nyuadim.com/2022/10/25/tutorial-neopixels-with-prop-maker-featherwing/) and [RGBW bar](https://desert.nyuadim.com/2022/10/26/tutorial-rgbw-neopixels/)
+        - [3W LED](https://learn.adafruit.com/adafruit-prop-maker-featherwing/circuitpython#3-watt-led-3015982) - project light
+    - [Servos](https://desert.nyuadim.com/2022/04/01/tutorial-for-moving-servo-on-m4-express/)
+    - [DC motors](https://learn.adafruit.com/adafruit-stepper-dc-motor-featherwing/overview) - yellow hobby motor
+    - [Sound](https://desert.nyuadim.com/2022/04/01/tutorial-for-sound-on-prop-maker-m4-express/)
 - Electronics in the Field
     - Ruggedization
     - Strain relief
