@@ -494,7 +494,6 @@ Due before start of next class
 
 Due before start of next class
 
-- **Follow** the [Servo Tutorial](https://desert.nyuadim.com/2022/04/01/tutorial-for-moving-servo-on-m4-express/) and get your servo moving!
 - **Post** your group project idea (sketch and writeup) to the class blog
 
 ## Week 8.1
