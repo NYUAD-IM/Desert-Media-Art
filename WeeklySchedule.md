@@ -425,8 +425,9 @@ Due before start of next class
 ### Homework
 Due before start of next class
 
-- **Start** dividing into groups for the final project
 - **Be ready to share** one final project idea
+- **Work** on Exercise 4 - Prototype Device
+    - Good idea to book your time on the laser cutter and 3D printers!
 
 ## Week 7.1
 
