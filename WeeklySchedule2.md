@@ -31,6 +31,43 @@ Note: Exact due dates for assignments and readings are indicated in Brightspace
 
 ## Week 8.1
 
+- Workshop: Sensors – bring your CircuitPython kit!
+    
+    - Check EC2 booking system for sensors
+        - [Equipment / Laser Cutter Booking](https://nyuad-artsbooking.nyu.edu/) (NYU Network/VPN Required)
+            - e.g have IR range sensor available
+    - Potentiometers (one of the simplest sensors – for angle)
+        - [What is a potentiometer?](https://www.electrical4u.com/potentiometer/)
+        - [Read potentiometer from CircuitPython](https://learn.adafruit.com/make-it-change-potentiometers/circuitpython)
+    - [M4 Express Feather Pinouts](https://learn.adafruit.com/adafruit-feather-m4-express-atsamd51/pinouts)
+    - [CircuitPython Command REPL](https://learn.adafruit.com/welcome-to-circuitpython/the-repl)
+        - Stop program with Command-C (sometimes)
+    
+    - [Photocells](https://learn.adafruit.com/photocells/overview) – resistive light sensor
+        - [CircuitPython code (Adafruit)](https://learn.adafruit.com/photocells/circuitpython)
+        - [CircuitPython code (photocell.py class example)](https://github.com/NYUAD-IM/Desert-Media-Art/blob/main/Code/photocell.py)
+        - [Light-Activated Pixel Heart](https://learn.adafruit.com/light-activated-pixel-heart/circuitpython-code)
+        - Available from IM lab parts
+    
+    - [Adafruit BH1750 Light Sensor](https://www.adafruit.com/product/4681) – digital light sensor
+        - We have 4x available for class
+    - [HC-SR04](https://www.adafruit.com/product/3942)[Ultrasonic distance sensor](https://www.adafruit.com/product/3942)
+        - Mang has 2x
+    - [Tutorial for touch on M4 Express](https://desert.nyuadim.com/2022/04/07/tutorial-for-touch-on-m4-express/ "Tutorial for touch on M4 Express") – make a touch sensor from metal foil
+    - [Prop Maker Featherwing](https://learn.adafruit.com/adafruit-prop-maker-featherwing)
+        - Built in accelerometer can [detect taps](https://learn.adafruit.com/adafruit-prop-maker-featherwing/circuitpython) and other motions like [swinging](https://learn.adafruit.com/hallowing-lightsaber/program-with-circuitpython)
+    - [Soil Sensor – I2C Capacitive Moisture Sensor](https://learn.adafruit.com/adafruit-stemma-soil-sensor-i2c-capacitive-moisture-sensor)
+- Workshop: LEDs (time permitting)
+    - [Neopixels and 3W LED with Prop-Maker Featherwing](https://learn.adafruit.com/adafruit-prop-maker-featherwing/circuitpython)
+        - You have 3W LED in kit
+        - We have [rings](https://www.adafruit.com/product/1643) and [individual pixels](https://www.adafruit.com/product/4776) available for our class
+        - [3W LED example code (DMA GitHub)](https://github.com/NYUAD-IM/Desert-Media-Art/blob/main/Code/bigled.py)
+    - [CircuitPython NeoPixel](https://learn.adafruit.com/circuitpython-essentials/circuitpython-neopixel) – general tutorial + animations, etc
+- Any sensor requests?
+    - [Adafruit VL53L1X Time of Flight Distance Sensor – ~30 to 4000mm](https://www.adafruit.com/product/3967) – laser distance sensor
+
+
+
 - **Workshop**: LEDs and Servos
     - [Tutorial – NeoPixels with Prop-Maker FeatherWing](https://desert.nyuadim.com/2022/10/25/tutorial-neopixels-with-prop-maker-featherwing/)
     - [Tutorial – RGBW NeoPixels](https://desert.nyuadim.com/2022/10/26/tutorial-rgbw-neopixels/) (the small NeoPixel bar we use in class is RGBW)
