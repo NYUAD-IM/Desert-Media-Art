@@ -444,6 +444,7 @@ Due before start of next class
     - Who is ready to laser cut?
     - Divide into groups of two
     - Make sure your file is ready to cut
+        - Can print on paper at 100% to double check
     - We will cut as many designs as are ready / possible
     - Other cuts to be booked through Connect2
 
