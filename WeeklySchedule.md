@@ -440,8 +440,14 @@ Due before start of next class
     - Good idea to book your time on the laser cutter and 3D printers!
 
 ## Week 7.1
+- Laser fiesta!
+    - Who is ready to laser cut?
+    - Divide into groups of two
+    - Make sure your file is ready to cut
+    - We will cut as many designs as are ready / possible
+    - Other cuts to be booked through Connect2
 
-- Idea Lab
+- Idea Lab (postponed to Wednesday, time permitting)
     - Opening remarks
     - Share project ideas (come to front of class and share idea)
     - Form groups
