@@ -1,7 +1,7 @@
 print("HC-SR04 distance test")
 
 # Example of using HC-SR04 ultrasonic sensor with CircuitPython
-# Adapted from 
+# Adapted from
 # https://learn.adafruit.com/ultrasonic-sonar-distance-sensors/python-circuitpython#circuitpython-and-python-usage-of-hc-sr04-3046469
 
 # Modifications by Michael Ang for Desert Media Art
@@ -22,11 +22,14 @@ print("HC-SR04 distance test")
 
 # Referring to the pinout page for the Adafruit M4 Express Feather
 # we can see that A2-A5 along the bottom row look like good candidates.
-# Let's use A4 and A5
+# Let's use A4 for trigger and A5 for echo
 
-# Circuit:
-# Follow the wiring here, but use A4 and A5 instead of D5 and D6
-# https://learn.adafruit.com/ultrasonic-sonar-distance-sensors/python-circuitpython#circuitpython-microcontroller-wiring-3046455
+# Schematic:
+# https://github.com/NYUAD-IM/Desert-Media-Art/blob/main/Code/hcsr04_distance.png
+# - the sensor is powered from Vbus, which is 5V when connected to USB power
+# - the microcontroller can't accept more than 3.3V input, so we use a simple
+#   voltage divider using the two 10K resistors to bring the 5V signal
+#   from "echo" to an acceptable range
 
 import time
 import board
