@@ -474,7 +474,8 @@ Due before start of next class
 
 Due before start of next class
 
-- Spend time outside
+- Think about your final project
+- Spend time outside and look through the lens of Desert Media Art
 - Pay attention to how the light changes during the day and imagine your project at different times based on the sun
     - [Abu Dhabi Sunset and Sunrise Times](https://www.timeanddate.com/sun/united-arab-emirates/abu-dhabi)
     - [Different types of twilight](https://www.timeanddate.com/astronomy/different-types-twilight.html)
