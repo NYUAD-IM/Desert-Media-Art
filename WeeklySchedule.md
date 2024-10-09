@@ -12,7 +12,7 @@
 - FALL BREAK
 - [Week 8](WeeklySchedule2.md#week-81) – Electronics in the Desert / Workshop: LEDs and Servos
 - DESERT SITE VISIT – Sunday October 27
-- [Week 9](WeeklySchedule2.md#week-91) – 3D Design with Tinkercad / Project Proposal Presentations
+- [Week 9](WeeklySchedule2.md#week-91) – Project Proposal Presentations
 - [Week 10](WeeklySchedule2.md#week-101) – Requested topics / Work session
 - [Week 11](WeeklySchedule2.md#week-111) – Telling your story – Exhibition Installations / Rapid Prototyping project review – Work session
 - [Week 12](WeeklySchedule2.md#week-121) – Storyboard Presentations / Prototype Presentations – Work Session
