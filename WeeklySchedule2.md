@@ -1,7 +1,5 @@
 # Weekly Schedule - Weeks 8-14
 
-## TO BE UPDATED FOR F2024
-
 [Weekly Schedule Spreadsheet](https://docs.google.com/spreadsheets/d/1UHKrTE_1LE3XZrwBPc6z2o0C35TFm3rHhnjkTC5FYvE/edit?usp=sharing)
 
 - [Week 1](WeeklySchedule.md#week-11) – Introduction / Media art outside
@@ -12,7 +10,7 @@
 - [Week 6](WeeklySchedule.md#week-61) – Outdoor Interaction Design / Idea Lab
 - [Week 7](WeeklySchedule.md#week-71) – Idea Lab Presentations / Workshop: Idea Development
 - FALL BREAK
-- [Week 8](#week-81) – Electronics in the Desert / Workshop: LEDs and Servos
+- [Week 8](#week-81) – Class visit / Electronics in the Desert / Workshop: LEDs and Servos
 - [DESERT SITE VISIT](#desert-site-visit) – Sunday November 5
 - [Week 9](#week-91) – 3D Design with Tinkercad / Project Final Proposal Presentations
 - [Week 10](#week-101) – Requested topics / Work session
@@ -30,6 +28,33 @@ Note: Exact due dates for assignments and readings are indicated in Brightspace
 [Desert Media Art – GitHub Code Repository](https://github.com/NYUAD-IM/Desert-Media-Art)
 
 ## Week 8.1
+- Announcements
+    - Midterm grading in progress
+    - Desert Site Visit - this Sunday!
+        - Site scouting - find the location for your installation
+        - Recommended attendance
+        - Sign up at [DMA F2024 Field Trip Sign-up](https://docs.google.com/spreadsheets/d/1imRFU7NBYngs420RBw1VIBT79YkT-3d-Hn46mOPMQbc/edit?usp=sharing)
+        - Trip details at [Desert Media Art Field Trips - Fall 2024](https://docs.google.com/document/d/16QtXjvqj1A35x5loTsNKnWrLmUPk_LgMrLdogXFFjx4/edit?usp=sharing)
+        - Depart Welcome Center Sunday 1:30pm
+        - Return Welcome Center 8pm (latest)
+        - Preparation
+            - Dress for the weather
+            - Hat, long sleeve top, sunglasses, sandals may be ok but consider closed shoes (hot sand)
+            - Sunscreen
+            - Wet bandana on neck helps with the heat
+            - Water bottle
+            - Can bring an initial prototype
+            - Can bring camera for test shooting
+
+- Class Visit - Purring Tiger - MUJO
+    - [Purring Tiger](https://www.purringt.com/about)
+    - [Kiori Kawai](https://www.kiorikawai.com/) and [Aaron Sherwood](https://aaron-sherwood.com/)
+    - [MUJO - Live Performance & Installation (Purring Tiger)](https://www.purringt.com/#/mujo/)
+ 
+- Sensors introduction (time permitting)
+    - What do you want to sense?
+
+## Week 8.2
 
 - Workshop: Sensors – bring your CircuitPython kit!
     
@@ -78,16 +103,6 @@ Note: Exact due dates for assignments and readings are indicated in Brightspace
         - Advanced colour blending, etc
     - [3W LED example (DMA GitHub)](https://github.com/NYUAD-IM/Desert-Media-Art/blob/main/Code/bigled.py)
 
-
-
-## Week 8.2
-
-- 3D printing overview
-- Project proposal overview
-- Project development workshop
-- Field trip signup
-  - [DMA Field Trip Sign-up Sheet](https://docs.google.com/spreadsheets/d/1z0UpGtNh9ASl9GzqLhSZOX3zSl1nr7AYoCcPKODnl5k/edit?usp=sharing)
-
 **3D Printing Resources**
 
 - [Tinkercad](https://www.tinkercad.com/)
@@ -107,8 +122,8 @@ Due before Sunday
     - Think about what you want to look out for on-site as it relates to your project
 
 - **Field trip**
-    - Bus leaves Welcome Center Sunday 12:30pm
-    - Returning to Welcome Center approximately 8:30pm
+    - Bus leaves Welcome Center Sunday 1:30pm
+    - Returning to Welcome Center 8pm (latest)
 
 Due before start of next class
 
