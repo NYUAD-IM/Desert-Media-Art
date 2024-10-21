@@ -33,8 +33,8 @@ Note: Exact due dates for assignments and readings are indicated in Brightspace
     - Desert Site Visit - this Sunday!
         - Site scouting - find the location for your installation
         - Recommended attendance
-        - Sign up at [DMA F2024 Field Trip Sign-up](https://docs.google.com/spreadsheets/d/1imRFU7NBYngs420RBw1VIBT79YkT-3d-Hn46mOPMQbc/edit?usp=sharing)
-        - Trip details at [Desert Media Art Field Trips - Fall 2024](https://docs.google.com/document/d/16QtXjvqj1A35x5loTsNKnWrLmUPk_LgMrLdogXFFjx4/edit?usp=sharing)
+        - Sign up at [DMA F2024 Field Trip Sign-up (Sheet)](https://docs.google.com/spreadsheets/d/1imRFU7NBYngs420RBw1VIBT79YkT-3d-Hn46mOPMQbc/edit?usp=sharing)
+        - Trip details at [Desert Media Art Field Trips - Fall 2024 (Doc)](https://docs.google.com/document/d/16QtXjvqj1A35x5loTsNKnWrLmUPk_LgMrLdogXFFjx4/edit?usp=sharing)
         - Depart Welcome Center Sunday 1:30pm
         - Return Welcome Center 8pm (latest)
         - Preparation
@@ -45,6 +45,9 @@ Note: Exact due dates for assignments and readings are indicated in Brightspace
             - Water bottle
             - Can bring an initial prototype
             - Can bring camera for test shooting
+        - What are factors affecting the local ecology?
+        - What plants and animals are living in the area?
+        - Take some reference photos to use while developing your installation
 
 - Class Visit - Purring Tiger - MUJO
     - [Purring Tiger](https://www.purringt.com/about)
@@ -133,15 +136,15 @@ Due before start of next class
 
 ## Desert Site Visit
 
-### Sunday November 5
+### Sunday October 27
 
 Visit site near Sweihan to see location for final installation and learn about desert ecology.
 
-Depart Welcome Center 12:30pm sharp
+Depart Welcome Center 1:30pm
 
-Back to campus approximately 8:30pm
+Back to campus 8pm (latest)
 
-For full details see [DMA Field Trips Doc](https://docs.google.com/document/d/1--Xma7Juj3H1Eu84iBAtigo7meBNoTOrkDTGiT0QwPo/edit?usp=sharing)
+For full details see [Desert Media Art 2024 - Field Trips (Doc)](https://docs.google.com/document/d/16QtXjvqj1A35x5loTsNKnWrLmUPk_LgMrLdogXFFjx4/edit?usp=sharing)
 
 - Bring water
 - Bring lunch!
