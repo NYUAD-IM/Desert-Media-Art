@@ -48,6 +48,9 @@ Note: Exact due dates for assignments and readings are indicated in Brightspace
         - What are factors affecting the local ecology?
         - What plants and animals are living in the area?
         - Take some reference photos to use while developing your installation
+        - [Filming in the Desert Tips](https://desert.nyuadim.com/2021/11/01/filming-in-the-desert-tips/)
+            - Cameras / phones can overheat when filming in the sun
+            - Getting proper exposure can be difficult - strong sunlight makes it easy to be overexposed
 
 - Class Visit - Purring Tiger - MUJO
     - [Purring Tiger](https://www.purringt.com/about)
