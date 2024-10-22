@@ -61,6 +61,7 @@ Note: Exact due dates for assignments and readings are indicated in Brightspace
     - What do you want to sense?
 
 ## Week 8.2
+- Project check-in
 
 - Workshop: Sensors – bring your CircuitPython kit!
     
