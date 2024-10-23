@@ -130,6 +130,11 @@ Due before Sunday
     - Pack lunch
     - Hat, sunscreen, sunglasses
     - Think about what you want to look out for on-site as it relates to your project
+        - Cellphone pictures typically have embedded GPS location, useful for finding scouted locations
+    - [Gaia GPS](https://www.gaiagps.com/)
+        - Can download maps for offline use
+        - Can start track recording, will show path taken
+        - Pictures taken while recording track can be geolocated
 
 - **Field trip**
     - Bus leaves Welcome Center Sunday 1:30pm
