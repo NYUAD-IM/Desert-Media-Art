@@ -62,6 +62,8 @@ Note: Exact due dates for assignments and readings are indicated in Brightspace
 
 ## Week 8.2
 - Project check-in
+  - Short group meet
+  - What are you going to look for when we go to the desert?
 
 - Workshop: Sensors – bring your CircuitPython kit!
     
