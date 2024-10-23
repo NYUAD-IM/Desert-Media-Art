@@ -63,7 +63,7 @@ Note: Exact due dates for assignments and readings are indicated in Brightspace
 ## Week 8.2
 - Project check-in
   - Short group meeting
-  - Fill in [Desert Media Art Projects](https://docs.google.com/spreadsheets/d/1iJNpbhqkyNb6HogYLb8mV5AxyQxO05a-2gKaVRbXwR4/edit?usp=sharing) with Project Name, Group Members, Inspiration, and Tech
+  - Fill in [Desert Media Art Projects](https://docs.google.com/spreadsheets/d/1iJNpbhqkyNb6HogYLb8mV5AxyQxO05a-2gKaVRbXwR4/edit?usp=sharing) with Project Name, Group Members, Project Description, Inspiration, and Tech
   - What are you going to look for when we go to the desert?
 
 - Workshop: Sensors – bring your CircuitPython kit!
