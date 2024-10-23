@@ -71,7 +71,7 @@ Note: Exact due dates for assignments and readings are indicated in Brightspace
     - Check EC2 booking system for sensors
         - [Equipment / Laser Cutter Booking](https://nyuad-artsbooking.nyu.edu/) (NYU Network/VPN Required)
             - e.g have IR range sensor available
-    - Potentiometers (one of the simplest sensors – for angle)
+    - Potentiometers (typically used for user input - not usually considered a environmental sensor)
         - [What is a potentiometer?](https://www.electrical4u.com/potentiometer/)
         - [Read potentiometer from CircuitPython](https://learn.adafruit.com/make-it-change-potentiometers/circuitpython)
     - [M4 Express Feather Pinouts](https://learn.adafruit.com/adafruit-feather-m4-express-atsamd51/pinouts)
