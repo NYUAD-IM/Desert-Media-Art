@@ -166,6 +166,9 @@ For full details see [Desert Media Art 2024 - Field Trips (Doc)](https://docs.go
 ---
 
 ## Week 9.1
+Announcements
+- IM Showcase Day (last day of classes): Tuesday 10 December 5:00 - 8:00 pm (performances 7:00 - 8:00)
+- Setup in Black Box on Monday 9 December
 
 **Field trip discussion**
 Observations
