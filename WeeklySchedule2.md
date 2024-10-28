@@ -152,7 +152,7 @@ Due before start of next class
 
 Visit site near Sweihan to see location for final installation and learn about desert ecology.
 
-Depart Welcome Center 1:30pm
+Depart Welcome Center 2:30pm
 
 Back to campus 8pm (latest)
 
@@ -167,13 +167,15 @@ For full details see [Desert Media Art 2024 - Field Trips (Doc)](https://docs.go
 
 ## Week 9.1
 Announcements
-- IM Showcase Day (last day of classes): Tuesday 10 December 5:00 - 8:00 pm (performances 7:00 - 8:00)
-- Setup in Black Box on Monday 9 December
-- Desert Media Art will be showcased 
+- IM End of Semester Showcase
+    - Tuesday 10 December (last day of classes) 5:00 - 8:00 pm (performances 7:00 - 8:00)
+- Setup in Black Box on Monday 9 December, time TBD
+- Desert Media Art will be showcased in [Dubai Design Week](https://www.dubaidesignweek.ae/) in Atrium 7
 
-**Field trip discussion**
-Observations
-- [Gaia GPS](https://www.gaiagps.com/) - offline mapping
+- Field trip discussion
+    - [Gaia GPS](https://www.gaiagps.com/) - offline mapping
+
+- Project Proposal work session
 
 **Project-based Production topics**
 
@@ -188,8 +190,8 @@ Observations
 **Project Final Proposal Checkins**
 
 ### Homework – Week 9.1
+- **Work on** your Project Proposal and presentation (due Monday Nov 4)
 
-- **Finish** your Project Final Proposal presentation and blog post
 - **Prepare** an 8 minute presentation of your idea
     
     - Overview of your concept
@@ -211,23 +213,21 @@ Observations
 -->
 
 ## Week 9.2
+- Blog posts
+  - Set featured image and "Fall 2024" category
 
-- Project Proposal Presentations
-- Workshop / Work Session: Project-based topics
+- Workshop: Sensors and Project-based topics
 
 ### Homework – Week 9.2
 
 Due before start of next class
 
-- **Keep working** on your project prototyping
-- **Email** any questions or problem areas with your project to the professor (one day before next class)
+- **Finish** your Project Proposal post and presentation
 
 ---
 
 ## Week 10.1
-Announcments:
-- Blog posts
-  - Set featured image and "Fall 2023" category
+- Project proposal presentations
 
 - **Workshop** Project Production
 - Work on projects in lab
