@@ -192,6 +192,19 @@ Announcements
 ### Homework – Week 9.1
 - **Work on** your Project Proposal and presentation (due Monday Nov 4)
 
+
+## Week 9.2
+- Blog posts
+  - Set featured image and "Fall 2024" category
+
+- Workshop: Sensors and Project-based topics
+
+### Homework – Week 9.2
+
+Due before start of next class
+
+- **Finish** your Project Proposal post and presentation
+
 - **Prepare** an 8 minute presentation of your idea
     
     - Overview of your concept
@@ -211,18 +224,6 @@ Announcements
         - What tech you still need to implement, fabrication techniques
             - e.g. what sensors you will use, 3D printing, etc
 -->
-
-## Week 9.2
-- Blog posts
-  - Set featured image and "Fall 2024" category
-
-- Workshop: Sensors and Project-based topics
-
-### Homework – Week 9.2
-
-Due before start of next class
-
-- **Finish** your Project Proposal post and presentation
 
 ---
 
