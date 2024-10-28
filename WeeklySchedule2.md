@@ -169,6 +169,7 @@ For full details see [Desert Media Art 2024 - Field Trips (Doc)](https://docs.go
 Announcements
 - IM Showcase Day (last day of classes): Tuesday 10 December 5:00 - 8:00 pm (performances 7:00 - 8:00)
 - Setup in Black Box on Monday 9 December
+- Desert Media Art will be showcased 
 
 **Field trip discussion**
 Observations
@@ -202,12 +203,12 @@ Observations
     - 1 paragraph description of project (4-5 sentences)
     - 1 paragraph explaining the interaction design and how the project relates to the desert context
     - 1-2 paragraphs planned technical implementation
-    - 2-3 paragraphs progress documentation
-        - What you’ve tried, what you’re working on
+<!--
     - 1-2 paragraphs project implementation plan
         - How you will complete the project
         - What tech you still need to implement, fabrication techniques
             - e.g. what sensors you will use, 3D printing, etc
+-->
 
 ## Week 9.2
 
