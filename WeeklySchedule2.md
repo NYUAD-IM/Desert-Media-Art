@@ -196,6 +196,8 @@ Announcements
 ## Week 9.2
 - Blog posts
   - Set featured image and "Fall 2024" category
+    
+- Project Proposal checkins
 
 - Workshop: Sensors and Project-based topics
 
