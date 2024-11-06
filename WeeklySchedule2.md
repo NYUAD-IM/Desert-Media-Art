@@ -259,22 +259,6 @@ Due before start of next class
 - **Work** on your Rapid Prototyping design
 
 ## Week 10.2
-
-- Lecture – Requested topics
-- Announcements
-  - Bring USB cables to return on Monday
-  - Prusa Mini is available for printing
-
-### Homework – Week 10.2
-
-Due before start of next class
-
-- **Post** your storyboard on the blog - details in syllabus
-  
----
-
-## Week 11.1
-
 Telling your story / Documenting your work / Exhibition Installation
 
 - Documenting your work
@@ -284,22 +268,32 @@ Telling your story / Documenting your work / Exhibition Installation
 - Introduction to Storyboard Assignment
 
 - Exhibition Installations
-- Installation examples
-    - [Dune Field Modulator](https://www.michaelang.com/project/dune-field-modulator)
+
+- Project check-ins
+    - What's your story?
+    - What's your technical implementation
+    - Work on storyboard and implementation plan
+
+
+### Homework – Week 10.2
+
+Due before start of next class
+- **Finish** your Storyboard - details in [syllabus](https://desert.nyuadim.com/syllabus/)
+- **Post** your storyboard on the blog 
+  
+---
+
+## Week 11.1
+
+- Storyboard presentations
+    - Another group will present your storyboard
+    - 5-7 minutes of feedback
 
 ### Homework – Week 11.1
 
-Due before start of next class
-
-- **Finish** your Rapid Prototyping assignment
-- **Post** your Rapid Prototyping assignment documentation to the blog (due before next class)
-- **Be ready** to show your prototype in class
+*Keep working* on your final project
 
 ## Week 11.2
-
-**Rapid Prototyping project review**
-
-- Show your work for feedback
 
 **Work session**
 
@@ -309,16 +303,11 @@ Due before start of next class
 
 Due before start of next class
 
-- **Finish** your Storyboard
-- **Post** your Storyboard to the class blog
-- **Be ready** to show your Storyboard / interaction design
+- **Post** an update with your project status to the class blog
 
 ---
 
 ## Week 12.1
-
-- **Storyboard presentations** / feedback
-    - Each group gets 8 minutes to present and 5 minutes feedback
 
 - 3D printing example
     - [Neopixel Ring Diffuser (Tinkercad)](https://www.tinkercad.com/things/kf2WVfSZfiD-neopixel-ring-diffuser)
@@ -334,7 +323,7 @@ Due before start of next class
 
 Due before start of next class
 
-- **Keep working** on your Prototype
+- **Keep working** on your project
 - **Book** time on laser cutter, 3D printers
 <!--
 - **Post** your prototype status to the class blog
@@ -351,13 +340,9 @@ Due before start of next class
 
 **Work Session**
 
-- Announcements
-  - Need to book Prusa Mini before using (currently offline, will update status)
-  - Ultimaker is available for booking (non-translucent materials)
-  - Can ask Linda for prints in transparent material
  
 - Field installation overview / planning
-  - Mandatory attendance - Contact Mang immediately if can't go and not already excused
+  - Mandatory attendance
 
 - Resolve last issues
 - Get ready for the desert!
@@ -374,13 +359,13 @@ Due before start of next class
 
 # Field Installation
 
-## Sunday November 26
+## Sunday November 24
 
-## Depart Welcome Center 12:30pm – Return 9:00pm
+## Depart Welcome Center 1:30pm – Return 9:00pm
 
 Students will go to a “raw” (uninhabited) dune location and make a temporary installation of their class projects. The students will have approximately 2 hours to work on site before sunset, and 2 hours after sunset (total of 6 hours on site). We’ll depart from campus in a large tour bus that will park by the side of the road at the location and be our “base station” as we work in the dunes. In terms of logistics it’s similar to going out for a short film shoot in the desert.
 
-For full details see [DMA Field Trips Doc](https://docs.google.com/document/d/1--Xma7Juj3H1Eu84iBAtigo7meBNoTOrkDTGiT0QwPo/edit?usp=sharing)
+For full details see [DMA Field Trips Doc](https://docs.google.com/document/d/16QtXjvqj1A35x5loTsNKnWrLmUPk_LgMrLdogXFFjx4/edit?usp=sharing)
 
 ---
 
