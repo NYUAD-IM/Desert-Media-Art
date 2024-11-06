@@ -259,6 +259,19 @@ Due before start of next class
 - **Work** on your Rapid Prototyping design
 
 ## Week 10.2
+Announcements
+- Upcoming due dates
+    - Project Storyboard - Monday Nov 11
+    - Project status blog post - Monday Nov 18
+    - Sunday Nov 24 Field Installation
+        - Rapid Prototype (project production)
+        - Project on-site filming
+    - Project Video - Wednesday Dec 4 (after National Day break)
+    - Project Web Page (without installation photos) - Monday Dec 9
+    - IM End of Semester Show - Tuesday Dec 10
+        - Project Installation
+    - Project Web Page (updated with installation photos) - Friday Dec 13 (no extension possible)
+
 Telling your story / Documenting your work / Exhibition Installation
 
 - Documenting your work
@@ -272,7 +285,7 @@ Telling your story / Documenting your work / Exhibition Installation
 - Project check-ins
     - What's your story?
     - What's your technical implementation
-    - Work on storyboard and implementation plan
+- Work on storyboard and implementation plan
 
 
 ### Homework – Week 10.2
