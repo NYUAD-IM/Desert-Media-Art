@@ -16,7 +16,7 @@
 - [Week 10](#week-101) – Requested topics / Work session
 - [Week 11](#week-111) – Telling your story – Exhibition Installations / Rapid Prototyping project review – Work session
 - [Week 12](#week-121) – Storyboard Presentations / Prototype Presentations – Work Session
-- [FIELD INSTALLATION](#field-installation) – Sunday November 26
+- [FIELD INSTALLATION](#field-installation) – Sunday November 24
 - [Week 13](#week-131) – Field work debrief
 - [Week 14](#week-141) – Work session: Installation and video production / Present Final Project, Course Review
 - [IM SHOW](#im-show) – Show Final Installation / Update installation documentation
@@ -362,7 +362,7 @@ Due before start of next class
 
 ## Sunday November 24
 
-## Depart Welcome Center 1:30pm – Return 9:00pm
+## Depart Welcome Center 1:30pm – Return 9:30pm (latest)
 
 Students will go to a “raw” (uninhabited) dune location and make a temporary installation of their class projects. The students will have approximately 2 hours to work on site before sunset, and 2 hours after sunset (total of 6 hours on site). We’ll depart from campus in a large tour bus that will park by the side of the road at the location and be our “base station” as we work in the dunes. In terms of logistics it’s similar to going out for a short film shoot in the desert.
 
@@ -449,15 +449,16 @@ Due before start of next class
 
 ## IM Show
 
-Friday December 15, 3-6pm
+Tuesday December 10, 3-6pm
 
 - **Exhibit** your project in the IM End of Semester Show
 - **Take** photos / video of your installation in the show
 - **Deinstall** your work at end of show
-- **Update** your blog post with the documentation of your installation (due end of day Monday, Dec 18)
+- **Update** your blog post with the documentation of your installation (due end of day Sunday, Dec 15 - no extension possible)
 
 
-### Timeline
+### Timeline TBD
+<!--
 - Wed Dec 13 - Space setup (tables, power installed)
 - Thursday Dec 14 - Black Box Desert Media Art class setup
   - Black Box busy 11-5pm for rehearsals
@@ -469,7 +470,7 @@ Friday December 15, 3-6pm
   - Sand Team gets sand 5pm
       - Cart from IM lab
       - Shovel    
-- Friday Dec 15 - IM End of Semester Show - 3-6pm
+- Friday Dec 10 - IM End of Semester Show - 3-6pm
   - 12-2:30pm - Prayer time
   - 2:30pm - Get installation running
   - 3-5pm Installations open for viewing
@@ -482,3 +483,4 @@ Friday December 15, 3-6pm
 - Monday Dec 18 end of day
   - Add installation pictures / video to project webpage
 - Have a great summer!
+-->
