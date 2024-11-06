@@ -12,10 +12,10 @@
 - FALL BREAK
 - [Week 8](#week-81) – Class visit / Electronics in the Desert / Workshop: LEDs and Servos
 - [DESERT SITE VISIT](#desert-site-visit) – Sunday November 5
-- [Week 9](#week-91) – 3D Design with Tinkercad / Project Final Proposal Presentations
-- [Week 10](#week-101) – Requested topics / Work session
-- [Week 11](#week-111) – Telling your story – Exhibition Installations / Rapid Prototyping project review – Work session
-- [Week 12](#week-121) – Storyboard Presentations / Prototype Presentations – Work Session
+- [Week 9](#week-91) – 3D Design with Tinkercad / 
+- [Week 10](#week-101) – Project Final Proposal Presentations / Telling your story – Exhibition Installations - Work session
+- [Week 11](#week-111) – Storyboard Presentations / Rapid Prototyping project review – Work session
+- [Week 12](#week-121) – Prototype Presentations – Work Session
 - [FIELD INSTALLATION](#field-installation) – Sunday November 24
 - [Week 13](#week-131) – Field work debrief
 - [Week 14](#week-141) – Work session: Installation and video production / Present Final Project, Course Review
