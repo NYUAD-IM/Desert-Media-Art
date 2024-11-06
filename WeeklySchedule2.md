@@ -308,6 +308,7 @@ Due before start of next class
 ---
 
 ## Week 12.1
+- Collect requirements for final installations
 
 - 3D printing example
     - [Neopixel Ring Diffuser (Tinkercad)](https://www.tinkercad.com/things/kf2WVfSZfiD-neopixel-ring-diffuser)
