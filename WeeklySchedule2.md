@@ -487,8 +487,6 @@ Tuesday December 10, 5-8pm
 - You are responsible for returning all borrowed equipment and leaving your space in a clean state at the end of the show
     - Equipment that was checked out must be checked back in (returned and barcode scanned) 
 
-
-### Timeline TBD
 <!--
 - Wed Dec 13 - Space setup (tables, power installed)
 - Thursday Dec 14 - Black Box Desert Media Art class setup
