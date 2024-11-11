@@ -297,10 +297,18 @@ Due before start of next class
 ---
 
 ## Week 11.1
+- Desert Media Art at Dubai Design Week
+    - [Desert Media Art (Dubai Design Week)](https://www.dubaidesignweek.ae/programme/2024-programme/desert-media-art/)
+    - [NYUAD Participates in Dubai Design Week (NYUAD)](https://nyuad.nyu.edu/en/news/latest-news/arts-and-culture/2024/november/nyuad-artwork-featured-ddw.html)
+    - [Al Etihad Newspaper (Arabic)](https://www.aletihad.ae/news/%D8%AF%D9%86%D9%8A%D8%A7/4527048/%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D9%86%D9%8A%D9%88%D9%8A%D9%88%D8%B1%D9%83-%D8%A3%D8%A8%D9%88%D8%B8%D8%A8%D9%8A-%D8%AA%D8%B4%D8%A7%D8%B1%D9%83-%D9%81%D9%8A--%D8%AF%D8%A8%D9%8A-%D9%84%D9%84%D8%AA%D8%B5%D9%85%D9%8A%D9%85)
 
 - Storyboard presentations
     - Another group will present your storyboard
     - 5-7 minutes of feedback
+ 
+- Collect project material requests
+- IM End of Semester Show overview
+    - Each group needs to make an installation
 
 ### Homework – Week 11.1
 
