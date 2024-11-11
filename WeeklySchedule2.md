@@ -308,6 +308,7 @@ Due before start of next class
  
 - Collect project material requests
 - IM End of Semester Show overview
+    - Timeline below at [IM Show](#im-show) 
     - Each group needs to make an installation
 
 ### Homework – Week 11.1
@@ -470,12 +471,21 @@ Due before start of next class
 
 ## IM Show
 
-Tuesday December 10, 3-6pm
+Setup Monday Dec 9, time TBD
+- Set up your installation in the Black Box
+
+Tuesday December 10, 5-8pm
 
 - **Exhibit** your project in the IM End of Semester Show
 - **Take** photos / video of your installation in the show
 - **Deinstall** your work at end of show
 - **Update** your blog post with the documentation of your installation (due end of day Sunday, Dec 15 - no extension possible)
+
+- Your installation must be **up and running at 4:30pm** - this counts towards your grade for the final installation
+- Exhibition is open from 5-7pm - you must have someone present from your group at all times
+- Be ready to give a short tour / explanation of your project
+- You are responsible for returning all borrowed equipment and leaving your space in a clean state at the end of the show
+    - Equipment that was checked out must be checked back in (returned and barcode scanned) 
 
 
 ### Timeline TBD
