@@ -326,6 +326,10 @@ Due before start of next class
 Due before start of next class
 
 - **Post** an update with your project status to the class blog
+  - Current state of your project
+    - Details of technical design
+  - Description of interaction
+  - Remaining technical challenges to overcome
 
 ---
 
