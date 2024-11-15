@@ -334,6 +334,7 @@ Due before start of next class
 ---
 
 ## Week 12.1
+- Who attended tool training during the Intro to IM session?
 - Collect requirements for final installations
 
 - 3D printing example
