@@ -183,7 +183,7 @@ Announcements
             - [SparkFun - IR Distance Sensor (15-150cm) Sharp GP2Y0A02YK0F (IM Lab booking system)](https://nyuad-artsbooking.nyu.edu/wizard/resourcedetail.aspx?id=14472)
             - Connect output to an analog pin and read with pin.value ([example code](https://learn.adafruit.com/circuitpython-essentials/circuitpython-analog-in))
         - Digital infrared distance sensors
-            -     - [Adafruit VL53L1X Time of Flight Distance Sensor – ~30 to 4000mm](https://www.adafruit.com/product/3967) – laser distance sensor
+          - [Adafruit VL53L1X Time of Flight Distance Sensor – ~30 to 4000mm](https://www.adafruit.com/product/3967) – laser distance sensor
 
 
 
