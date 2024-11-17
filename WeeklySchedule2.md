@@ -336,7 +336,10 @@ Due before start of next class
 ---
 
 ## Week 12.1
-- Who attended tool training during the Intro to IM session?
+- Announcements
+    - Who attended tool training during the Intro to IM session?
+    - Update blog posts with featured image
+        - Edit post -> Set featured image 
 - Collect requirements for IM Show installations
     - 1 sandbox and 1 sand table available
 
@@ -448,7 +451,8 @@ Due before next class (Wednesday Dec 4)
     - **Post** your documentation video to the blog (embed from YouTube, Vimeo, etc)
 - **Finish** the webpage for your project on the class Wordpress
     - Written for someone seeing the project for the first time
-    - Edit the specific page for your project)
+    - Edit the specific _page_ for your project
+        - Wordpress -> Pages -> Edit page
     - Embed your project video
     - See existing projects for examples
 - **Prepare** to present your project to the class (10-15 minutes)
