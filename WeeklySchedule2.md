@@ -224,16 +224,15 @@ Due before start of next class
 - **Prepare** an 8 minute presentation of your idea
     
     - Overview of your concept
-    
+    - Relationship to previous work (e.g. inspiration from other artworks)
+    - Sketch or image explaining the proposed work
     - Explanation of the interaction
-    - Technical implementation
-    - Conclusion / what you hot to achieve
+    - Planned technical implementation
+    - Conclusion / what you hope to achieve
     - Example project proposal presentation – [(We Are) Lightcatchers (pdf)](https://desert.nyuadim.com/wp-content/uploads/2022/10/Light-Catchers-Presented-at-Prototyping-Lab.key.pdf)
 - **Post** your Project Proposal to the class blog – one post per group (due before next class)
-    - Overview picture / sketch
-    - 1 paragraph description of project (4-5 sentences)
-    - 1 paragraph explaining the interaction design and how the project relates to the desert context
-    - 1-2 paragraphs planned technical implementation
+    - See [Syllabus->Project Proposal](https://desert.nyuadim.com/syllabus/) for details of expectations / grading
+    - Link to your proposal presentation (link must be publicly accessible to be considered submitted)
 <!--
     - 1-2 paragraphs project implementation plan
         - How you will complete the project
