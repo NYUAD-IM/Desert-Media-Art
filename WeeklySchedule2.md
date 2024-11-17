@@ -475,7 +475,8 @@ Due before start of next class
 - **Prepare** to show your project during the IM End of Semester Show
 
 ---
-## Week 15 (Monday Dec 9)
+## Week 15
+- **Monday Dec 9**
 - Review project web pages
 - Set up for IM Show
 
