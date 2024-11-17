@@ -319,8 +319,9 @@ Due before start of next class
 ## Week 11.2
 
 **Work session**
-
-- Resolve any project issues before Field Installation
+- Project production
+- Implementation plans
+- Consultation for each group
 
 ### Homework – Week 11.2
 
@@ -336,16 +337,27 @@ Due before start of next class
 
 ## Week 12.1
 - Who attended tool training during the Intro to IM session?
-- Collect requirements for final installations
+- Collect requirements for IM Show installations
+    - 1 sandbox and 1 sand table available
 
-- 3D printing example
-    - [Neopixel Ring Diffuser (Tinkercad)](https://www.tinkercad.com/things/kf2WVfSZfiD-neopixel-ring-diffuser)
-    - Using [PrusaSlicer cut tool](https://help.prusa3d.com/article/cut-tool_1779) for cutting a small test piece for printing
-    
- 
+- Materials
+    - 4kg clear PETG
+    - Fabric
+    - Rotating bearings
+    - "Giant" servo
+    - What else is needed?
+
 - Project check-in
   - 3D prints?
   - Laser cutting?
+
+- Resolve any project issues for Field Installation
+    - Consultation for each group
+
+- 3D printing
+    - [Neopixel Ring Diffuser (Tinkercad)](https://www.tinkercad.com/things/kf2WVfSZfiD-neopixel-ring-diffuser)
+    - Using [PrusaSlicer cut tool](https://help.prusa3d.com/article/cut-tool_1779) for cutting a small test piece for printing    
+
 - Work session
 
 ### Homework – Week 12.1
@@ -368,7 +380,6 @@ Due before start of next class
 ## Week 12.2
 
 **Work Session**
-
  
 - Field installation overview / planning
   - Mandatory attendance
@@ -399,35 +410,29 @@ For full details see [DMA Field Trips Doc](https://docs.google.com/document/d/16
 ---
 
 ## Week 13.1
+- NO CLASS - Rest day after field installation
 
+### Homework – Week 13.1
+
+Due before start of next class
+- Think about IM Show installation - will need to create a sketch / floor plan in next class
+ 
+## Week 13.2
 - Field Work Debrief
 - Discussion on presenting Desert Media Art indoors
 - Final Project check-in
 - Final project names
 
-### Homework – Week 13.1
-
-Due before start of next class
-
-- **Work** on your documentation video
-- **Work** on your Final Installation and post to blog
-  - **Make a sketch** or sketches of the installation
-    - Overview with person for size
-    - Overhead floor plan with dimensions (how much floor space you need)
-  - **List** any requested equipment for your Final Installation
-    - Book equipment in Connect2
-
-## Week 13.2
-
 - Documentation Video check-in
 - Final Installation check-in
 - Prepare for Final Installation
+    - Create installation sketch / floor plan
     - Space allocation
     - Final logistics / equipment organization
 
 ### Homework – Week 13.2
 
-Due today (Dec 6)
+Due today (Nov 27)
 
 - **Plan** on your Final Installation
   - **Make a sketch** or sketches of the installation
@@ -438,28 +443,24 @@ Due today (Dec 6)
     - Book equipment in Connect2
     - Coordinate with Scene Shop if you want to build a sandbox there
    
-Due before next class
-- **Work on** your Documentation Video
-- **Work on** your project web page
-  - Start editing your project page
-    - https://desert.nyuadim.com/hekaya/
-    - https://desert.nyuadim.com/desertwhispers/
-    - https://desert.nyuadim.com/luminous/
-    - https://desert.nyuadim.com/nomad/ 
+Due before next class (Wednesday Dec 4)
+- **Finish** your Documentation Video
+    - **Post** your documentation video to the blog (embed from YouTube, Vimeo, etc)
+- **Finish** the webpage for your project on the class Wordpress
+    - Written for someone seeing the project for the first time
+    - Edit the specific page for your project)
+    - Embed your project video
+    - See existing projects for examples
+- **Prepare** to present your project to the class (10-15 minutes)
 ---
 
 ## Week 14.1
-- Work session – Installation, video production, web page
+- National Day Holiday - NO CLASS
 
 ### Homework – Week 14.1
 
 Due before start of next class
-
-- **Finish** the webpage for your project on the class Wordpress
-    - Written for someone seeing the project for the first time
-    - Embed your project video
-    - See existing projects for examples
-- **Prepare** to present your project to the class (10-15 minutes)
+- Complete the homework above for week 13.2 (previous class)
 
 
 ## Week 14.2
@@ -472,12 +473,23 @@ Due before start of next class
 ### Homework – Week 14.2
 
 - **Prepare** to show your project during the IM End of Semester Show
+
+---
+## Week 15 (Monday Dec 9)
+- Review project web pages
+- Set up for IM Show
+
+### Homework - Week 15
+- **Complete** your installation setup
+- **Have** your installation up and running by Tuesday 4:30pm (show opens at 5pm)
+- **Be ready** to give a short (5-8 minute) tour of your installation
+  - Mang will assess as you give visitors a tour of your installation
 - **Take** installation photos / video of your installation during the show
 - **Update** your project web page with two photos of your installation during the show
 
 ## IM Show
 
-Setup Monday Dec 9, time TBD
+Setup Monday Dec 9 during class
 - Set up your installation in the Black Box
 
 Tuesday December 10, 5-8pm
@@ -485,13 +497,15 @@ Tuesday December 10, 5-8pm
 - **Exhibit** your project in the IM End of Semester Show
 - **Take** photos / video of your installation in the show
 - **Deinstall** your work at end of show
-- **Update** your blog post with the documentation of your installation (due end of day Sunday, Dec 15 - no extension possible)
+- **Update** your blog post with the documentation of your installation (due end of day Friday, Dec 13 - no extension possible)
 
 - Your installation must be **up and running at 4:30pm** - this counts towards your grade for the final installation
 - Exhibition is open from 5-7pm - you must have someone present from your group at all times
 - Be ready to give a short tour / explanation of your project
+    - Your "presentation" of your installation to actual visitors will be assessed  
 - You are responsible for returning all borrowed equipment and leaving your space in a clean state at the end of the show
-    - Equipment that was checked out must be checked back in (returned and barcode scanned) 
+    - Equipment that was checked out must be checked back in (returned and barcode scanned)
+- Have a great break!
 
 <!--
 - Wed Dec 13 - Space setup (tables, power installed)
