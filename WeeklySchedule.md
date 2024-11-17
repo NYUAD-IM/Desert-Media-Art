@@ -10,16 +10,18 @@
 - [Week 6](#week-61) – Outdoor Interaction Design / Idea Lab
 - [Week 7](#week-71) – Idea Lab Presentations / Workshop: Sensors
 - FALL BREAK
-- [Week 8](WeeklySchedule2.md#week-81) – Electronics in the Desert / Workshop: LEDs and Servos
-- DESERT SITE VISIT – Sunday October 27
-- [Week 9](WeeklySchedule2.md#week-91) – Project Proposal Presentations
-- [Week 10](WeeklySchedule2.md#week-101) – Requested topics / Work session
-- [Week 11](WeeklySchedule2.md#week-111) – Telling your story – Exhibition Installations / Rapid Prototyping project review – Work session
-- [Week 12](WeeklySchedule2.md#week-121) – Storyboard Presentations / Prototype Presentations – Work Session
-- DESERT INSTALLATION – Sunday November 24
-- [Week 13](WeeklySchedule2.md#week-131) – Field work debrief
-- [Week 14](WeeklySchedule2.md#week-141) – Work session: Installation and video production / Present Final Project, Course Review
+- [Week 8](WeeklySchedule2.md#week-81) – MUJO Class visit / Project Proposal work session
+- [DESERT SITE VISIT](#desert-site-visit) – Sunday November 5
+- [Week 9](WeeklySchedule2.md#week-91) – Project Proposal work session / Workshop: Sensors
+- [Week 10](WeeklySchedule2.md#week-101) – Project Proposal Presentations / Telling your story – Exhibition Installations - Work session
+- [Week 11](WeeklySchedule2.md#week-111) – Storyboard Presentations / Workshop: Project production
+- [Week 12]WeeklySchedule2.md(#week-121) – Work Session / Final work session - Preparation for Field Installation
+- [FIELD INSTALLATION](WeeklySchedule2.md#field-installation) – Sunday November 24
+- [Week 13](WeeklySchedule2.md#week-131) – Field work debrief, Video work session
+- [Week 14](WeeklySchedule2.md#week-141) – National Day Holiday / DMA Film Festival, Project web pages, Course Review
+- [Week 15 (12/9)](WeeklySchedule2.md#week-15) - End of Semester Show installation
 - [IM SHOW](WeeklySchedule2.md#im-show) – Show Final Installation / Update installation documentation
+
 
 Note: Exact due dates for assignments and readings are indicated in Brightspace
 
