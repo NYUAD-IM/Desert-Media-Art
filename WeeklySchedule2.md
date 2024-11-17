@@ -10,15 +10,16 @@
 - [Week 6](WeeklySchedule.md#week-61) – Outdoor Interaction Design / Idea Lab
 - [Week 7](WeeklySchedule.md#week-71) – Idea Lab Presentations / Workshop: Idea Development
 - FALL BREAK
-- [Week 8](#week-81) – Class visit / Electronics in the Desert / Workshop: LEDs and Servos
+- [Week 8](#week-81) – MUJO Class visit / Project Proposal work session
 - [DESERT SITE VISIT](#desert-site-visit) – Sunday November 5
-- [Week 9](#week-91) – 3D Design with Tinkercad / 
-- [Week 10](#week-101) – Project Final Proposal Presentations / Telling your story – Exhibition Installations - Work session
-- [Week 11](#week-111) – Storyboard Presentations / Rapid Prototyping project review – Work session
-- [Week 12](#week-121) – Prototype Presentations – Work Session
+- [Week 9](#week-91) – Project Proposal work session / Workshop: Sensors
+- [Week 10](#week-101) – Project Proposal Presentations / Telling your story – Exhibition Installations - Work session
+- [Week 11](#week-111) – Storyboard Presentations / Workshop: Project production
+- [Week 12](#week-121) – Work Session / Final work session - Preparation for Field Installation
 - [FIELD INSTALLATION](#field-installation) – Sunday November 24
-- [Week 13](#week-131) – Field work debrief
-- [Week 14](#week-141) – Work session: Installation and video production / Present Final Project, Course Review
+- [Week 13](#week-131) – Field work debrief, Video work session
+- [Week 14](#week-141) – National Day Holiday / DMA Film Festival, Project web pages, Course Review
+- [Week 15 (12/9)](#week-15) - End of Semester Show installation
 - [IM SHOW](#im-show) – Show Final Installation / Update installation documentation
 
 Note: Exact due dates for assignments and readings are indicated in Brightspace
