@@ -15,7 +15,7 @@
 - [Week 9](WeeklySchedule2.md#week-91) – Project Proposal work session / Workshop: Sensors
 - [Week 10](WeeklySchedule2.md#week-101) – Project Proposal Presentations / Telling your story – Exhibition Installations - Work session
 - [Week 11](WeeklySchedule2.md#week-111) – Storyboard Presentations / Workshop: Project production
-- [Week 12]WeeklySchedule2.md(#week-121) – Work Session / Final work session - Preparation for Field Installation
+- [Week 12](#week-121) – Work Session / Final work session - Preparation for Field Installation
 - [FIELD INSTALLATION](WeeklySchedule2.md#field-installation) – Sunday November 24
 - [Week 13](WeeklySchedule2.md#week-131) – Field work debrief, Video work session
 - [Week 14](WeeklySchedule2.md#week-141) – National Day Holiday / DMA Film Festival, Project web pages, Course Review
