@@ -166,6 +166,8 @@ Due before start of next class
     - [PrusaSlicer](https://www.prusa3d.com/page/prusaslicer_424/)
         - Converts solid 3D model to code for 3D printer
         - Useful for estimating print time
+        - Choose Prusa MK4S IS (Input Shaper) as the printer
+        - Make sure to ask for supports and brim if model has overhangs or is very tall
 
 ### Homework – Week 2.2
 
