@@ -154,7 +154,7 @@ Due before start of next class
         - Tuesday Oct 8 - 9:55am-12:35pm (Intro to IM)
 - Workshop: 3D printing with IM Lab Instructor
     - IM Lab Print Farm
-        - 4x [Prusa MK4S](https://www.prusa3d.com/product/original-prusa-mk4s-3d-printer-5/)
+        - 4x [Prusa MK4S with Input Shaper](https://www.prusa3d.com/product/original-prusa-mk4s-3d-printer-5/)
         - Ultimaker also available
     - [Tinkercad](https://www.tinkercad.com/)
         - Entry-level 3D modeling by combining objects together
