@@ -444,6 +444,9 @@ Due today (Nov 27)
   - **Check** requested equipment for your Final Installation in [Projects Spreadsheet](https://docs.google.com/spreadsheets/d/1iJNpbhqkyNb6HogYLb8mV5AxyQxO05a-2gKaVRbXwR4/edit?usp=sharing)
     - Book equipment in Connect2
     - Coordinate with Scene Shop if you want to build a sandbox there
+
+Due by end of day Thursday Nov 28
+- Update [Project Spreadsheet](https://docs.google.com/spreadsheets/d/1iJNpbhqkyNb6HogYLb8mV5AxyQxO05a-2gKaVRbXwR4/edit?usp=sharing) with final project name
    
 Due before next class (Wednesday Dec 4)
 - **Finish** your Documentation Video
