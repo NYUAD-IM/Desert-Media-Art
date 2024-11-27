@@ -167,7 +167,7 @@ Due before start of next class
         - Converts solid 3D model to code for 3D printer
         - Useful for estimating print time
         - Choose Prusa MK4S IS (Input Shaper) as the printer
-        - Make sure to ask for supports and brim if model has overhangs or is very tall
+        - Make sure to ask for supports if model has overhang and brim if model is very tall or has a small adhesion surface to bed
 
 ### Homework – Week 2.2
 
