@@ -480,7 +480,9 @@ Due before start of next class
 
 ### Homework – Week 14.2
 
-- **Prepare** to show your project during the IM End of Semester Show
+- **Prepare** to setup your project on Monday in the Black Box
+- **Have** _everything_ ready to install at the Black Box at 12:45pm on Monday
+    - We only have 75 minutes to install
 
 ---
 ## Week 15
