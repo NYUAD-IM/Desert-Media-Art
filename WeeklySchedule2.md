@@ -474,9 +474,9 @@ Due before start of next class
 - Final Presentations / DMA Film Festival
 - Each group will present their project by giving a short “artist’s talk” / walkthrough of the project, project video, and installation
 - Review project web pages
+- Preparation for IM End of Semester Show
 - Course review
     - Please complete [DMA Course Feedback Questionnaire](https://go.blueja.io/qaj2tzCuV0WV-xHLGFJhxA)
-- Preparation for IM End of Semester Show
 
 ### Homework – Week 14.2
 
