@@ -473,7 +473,9 @@ Due before start of next class
 
 - Final Presentations / DMA Film Festival
 - Each group will present their project by giving a short “artist’s talk” / walkthrough of the project, project video, and installation
+- Review project web pages
 - Course review
+    - Please complete [DMA Course Feedback Questionnaire](https://go.blueja.io/qaj2tzCuV0WV-xHLGFJhxA)
 - Preparation for IM End of Semester Show
 
 ### Homework – Week 14.2
@@ -483,8 +485,9 @@ Due before start of next class
 ---
 ## Week 15
 - **Monday Dec 9**
-- Review project web pages
 - Set up for IM Show
+    - Bring all your equipment etc to the Black Box for 12:45pm sharp
+    - Set up until 2pm
 
 ### Homework - Week 15
 - **Complete** your installation setup
