@@ -10,7 +10,7 @@
 - [Week 6](#week-61) – Outdoor Interaction Design / Idea Lab
 - [Week 7](#week-71) – Idea Lab Presentations / Workshop: Sensors
 - FALL BREAK
-- [Week 8](WeeklySchedule2.md#week-81) – MUJO Class visit / Project Proposal work session
+- [Week 8](WeeklySchedule2.md#week-81) – Project Proposal work session
 - [DESERT SITE VISIT](#desert-site-visit) – Sunday November 5
 - [Week 9](WeeklySchedule2.md#week-91) – Project Proposal work session / Workshop: Sensors
 - [Week 10](WeeklySchedule2.md#week-101) – Project Proposal Presentations / Telling your story – Exhibition Installations - Work session
