@@ -45,8 +45,8 @@ Introduction
     - [Syllabus](https://desert.nyuadim.com/syllabus/)
     - [Schedule Overview](https://docs.google.com/spreadsheets/d/1UHKrTE_1LE3XZrwBPc6z2o0C35TFm3rHhnjkTC5FYvE/edit?usp=sharing)
     - Desert Field Trips
-        - [Site](https://goo.gl/maps/9WfF4DmenbHr1dcH6) visit Sunday Oct 27 (At least 1-2 per group) - 1:30pm-8:30pm 
-        - [Desert installation](https://desert.nyuadim.com/2023/11/29/2023-field-installation/) Sunday Nov 24 (Mandatory) - 12:30pm-9:30pm
+        - [Site](https://goo.gl/maps/9WfF4DmenbHr1dcH6) visit Sunday Oct 26 - 2:30pm-8:30pm 
+        - [Desert installation](https://desert.nyuadim.com/2023/11/29/2023-field-installation/) Sunday Nov 23 (Mandatory) - 12:30pm-9:30pm
     - [Assignments / Readings (Brightspace)](https://brightspace.nyu.edu/d2l/le/376920/discussions/List)
     - Discord #desertart
         - 3rd party server, optional but recommended
