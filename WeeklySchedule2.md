@@ -10,13 +10,13 @@
 - [Week 6](WeeklySchedule.md#week-61) – Outdoor Interaction Design / Idea Lab
 - [Week 7](WeeklySchedule.md#week-71) – Idea Lab Presentations / Workshop: Idea Development
 - FALL BREAK
-- [Week 8](#week-81) – MUJO Class visit / Project Proposal work session
-- [DESERT SITE VISIT](#desert-site-visit) – Sunday November 5
+- [Week 8](#week-81) – Project Proposal work session
+- [DESERT SITE VISIT](#desert-site-visit) – Sunday October 26
 - [Week 9](#week-91) – Project Proposal work session / Workshop: Sensors
 - [Week 10](#week-101) – Project Proposal Presentations / Telling your story – Exhibition Installations - Work session
 - [Week 11](#week-111) – Storyboard Presentations / Workshop: Project production
 - [Week 12](#week-121) – Work Session / Final work session - Preparation for Field Installation
-- [FIELD INSTALLATION](#field-installation) – Sunday November 24
+- [FIELD INSTALLATION](#field-installation) – Sunday November 23
 - [Week 13](#week-131) – Field work debrief, Video work session
 - [Week 14](#week-141) – National Day Holiday / DMA Film Festival, Project web pages, Course Review
 - [Week 15 (12/9)](#week-15) - End of Semester Show installation
@@ -34,8 +34,8 @@ Note: Exact due dates for assignments and readings are indicated in Brightspace
     - Desert Site Visit - this Sunday!
         - Site scouting - find the location for your installation
         - Recommended attendance
-        - Sign up at [DMA F2024 Field Trip Sign-up (Sheet)](https://docs.google.com/spreadsheets/d/1imRFU7NBYngs420RBw1VIBT79YkT-3d-Hn46mOPMQbc/edit?usp=sharing)
-        - Trip details at [Desert Media Art Field Trips - Fall 2024 (Doc)](https://docs.google.com/document/d/16QtXjvqj1A35x5loTsNKnWrLmUPk_LgMrLdogXFFjx4/edit?usp=sharing)
+        - Sign up at [DMA F2025 Field Trip Sign-up (Sheet)](https://docs.google.com/spreadsheets/d/1imRFU7NBYngs420RBw1VIBT79YkT-3d-Hn46mOPMQbc/edit?usp=sharing)
+        - Trip details at [Desert Media Art Field Trips - Fall 2025 (Doc)](https://docs.google.com/document/d/1bEuE3UtrdrHOnXfWZGM35K8exFS7YfjfBcvRjt-y7Uw/edit?usp=sharing)
         - Depart Welcome Center Sunday 1:30pm
         - Return Welcome Center 8pm (latest)
         - Preparation
@@ -52,11 +52,6 @@ Note: Exact due dates for assignments and readings are indicated in Brightspace
         - [Filming in the Desert Tips](https://desert.nyuadim.com/2021/11/01/filming-in-the-desert-tips/)
             - Cameras / phones can overheat when filming in the sun
             - Getting proper exposure can be difficult - strong sunlight makes it easy to be overexposed
-
-- Class Visit - Purring Tiger - MUJO
-    - [Purring Tiger](https://www.purringt.com/about)
-    - [Kiori Kawai](https://www.kiorikawai.com/) and [Aaron Sherwood](https://aaron-sherwood.com/)
-    - [MUJO - Live Performance & Installation (Purring Tiger)](https://www.purringt.com/#/mujo/)
  
 - Sensors introduction (time permitting)
     - What do you want to sense?
