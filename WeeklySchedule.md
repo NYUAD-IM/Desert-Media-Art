@@ -77,8 +77,18 @@ Due before start of next class
     - [Art Installations in the Desert](https://desert.nyuadim.com/2021/10/05/art-installations-in-the-desert/)
 - Tech overview
     - [CircuitPython](https://circuitpython.org/)
-        - [Adafruit Feather M4 Express](https://learn.adafruit.com/adafruit-feather-m4-express-atsamd51/overview)
-        - [Adafruit Prop-Maker FeatherWing](https://www.adafruit.com/product/3988)
+        - [Adafruit RP2040 Prop-Maker Feather](https://learn.adafruit.com/adafruit-rp2040-prop-maker-feather)
+            - Programmed using CircuitPython (for this class)
+            - Built-in file storage (drag and drop from computer)
+            - Works on breadboard or with stacked "Feather" boards
+            - Audio amplifier for speaker
+            - Neopixel connection
+            - Servo motor connection
+            - Battery charger
+            - I2C digital bus (STEMMA/QT) for connection external sensors/actuators without soldering
+        - Older kit from previous classes
+            - [Adafruit Feather M4 Express](https://learn.adafruit.com/adafruit-feather-m4-express-atsamd51/overview)
+            - [Adafruit Prop-Maker FeatherWing](https://www.adafruit.com/product/3988)
     - Motors, sensors, light, sound
     - Laser cutting
         - [Inkscape](https://inkscape.org/), [Illustrator](https://www.adobe.com/ae_en/products/illustrator.html)
