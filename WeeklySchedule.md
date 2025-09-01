@@ -145,6 +145,12 @@ Due before start of next class
     - [CircuitPython NeoPixel](https://learn.adafruit.com/adafruit-feather-m4-express-atsamd51/circuitpython-neopixel)
     - [CircuitPython Audio Out](https://desert.nyuadim.com/2022/04/01/tutorial-for-sound-on-prop-maker-m4-express/)
  
+- IM Lab Tool Training
+    - Tool training is required to use the tools in the IM Lab (saws, drills, etc.)
+    - Fill in [DMA Tool Training form](https://forms.gle/a9rz8qDZLaD3d2jA7)
+    - Those who have not completed tool training within the last two years can join training sessions in IM Lab for other classes
+        - Times TBD
+ 
 ### Homework
 - **Sign up** for [Tinkercad](https://www.tinkercad.com/)
 - **Complete** ["Let's Learn Tinkercad!" tutorial](https://www.tinkercad.com/learn/overview/O8XV0X1IRXTXGIH?collectionId=OSZ5W2BL1W5N51F&type=designs)
@@ -154,13 +160,7 @@ Due before start of next class
 ## Week 2.2
 - Announcements
     - Reading responses and individual exercises must be post in Brightspace->Discussions
-        - Due night before class so we can discuss 
-        - Generally not accepted more than 5 days late
-- IM Lab Tool Training
-    - Tool training is required to use the tools in the IM Lab (saws, drills, etc.)
-    - Fill in [DMA Tool Training form](https://forms.gle/B8diUH9xoRRPzYVf6)
-    - Those who have not completed tool training within the last two years can join training sessions in IM Lab for other classes
-        - Times TBD
+        - Due before class so we can discuss 
 - Workshop: 3D printing with IM Lab Instructor
     - IM Lab Print Farm
         - 4x [Prusa MK4S with Input Shaper](https://www.prusa3d.com/product/original-prusa-mk4s-3d-printer-5/)
