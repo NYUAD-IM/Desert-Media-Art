@@ -160,8 +160,7 @@ Due before start of next class
     - Tool training is required to use the tools in the IM Lab (saws, drills, etc.)
     - Fill in [DMA Tool Training form](https://forms.gle/B8diUH9xoRRPzYVf6)
     - Those who have not completed tool training within the last two years can join training sessions in IM Lab for other classes
-        - Monday Sept 16 - 3:35pm-6pm (Intro to IM)
-        - Tuesday Oct 8 - 9:55am-12:35pm (Intro to IM)
+        - Times TBD
 - Workshop: 3D printing with IM Lab Instructor
     - IM Lab Print Farm
         - 4x [Prusa MK4S with Input Shaper](https://www.prusa3d.com/product/original-prusa-mk4s-3d-printer-5/)
@@ -181,7 +180,7 @@ Due before start of next class
 
 ### Homework – Week 2.2
 
-Due before start of next class - Monday Sept 9 (late if submitted after class starts)
+Due before start of next class - Monday Sept 8 (late if submitted after class starts)
 
 - **Create** Tinkercad 3D model for a base or light diffuser for the [M4 Express board](https://learn.adafruit.com/adafruit-metro-m4-express-featuring-atsamd51/overview)
     - Find the complete instructions in Brightspace -> Discussions -> Exercise 1
