@@ -152,6 +152,8 @@ Due before start of next class
         - Times TBD
  
 ### Homework
+Due before start of next class
+
 - **Sign up** for [Tinkercad](https://www.tinkercad.com/)
 - **Complete** ["Let's Learn Tinkercad!" tutorial](https://www.tinkercad.com/learn/overview/O8XV0X1IRXTXGIH?collectionId=OSZ5W2BL1W5N51F&type=designs)
 - **Complete** ["Simple Heart Ring" tutorial](https://www.tinkercad.com/learn/overview/O1LA9G5IYKFZ15B?collectionId=OSZ5W2BL1W5N51F&type=designs)
