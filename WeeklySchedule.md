@@ -182,7 +182,7 @@ Due before start of next class
 
 ### Homework – Week 2.2
 
-Due before start of next class - Monday Sept 8 (late if submitted after class starts)
+Due before start of class - Wednesday Sept 10 (late if submitted after class starts)
 
 - **Create** Tinkercad 3D model for a base or light diffuser for the [M4 Express board](https://learn.adafruit.com/adafruit-metro-m4-express-featuring-atsamd51/overview)
     - Find the complete instructions in Brightspace -> Discussions -> Exercise 1
@@ -197,9 +197,21 @@ Due before start of next class - Monday Sept 8 (late if submitted after class st
     - [CircuitPython NeoPixel](https://learn.adafruit.com/adafruit-feather-m4-express-atsamd51/circuitpython-neopixel)
     - [CircuitPython Audio Out](https://desert.nyuadim.com/2022/04/01/tutorial-for-sound-on-prop-maker-m4-express/)
 
-## Week 3
+# Week 3
+
+## Week 3.1
+**Asynchronous class**
+- Mang will be at Ars Electronica where we are showing [Eye of the Sand](https://ars.electronica.art/panic/en/view/eye-of-the-sand-21738ddb450c81c094a6ef42e97d1e01/) in the [NYUAD IM SENSE_ERR exhbition](https://ars.electronica.art/panic/en/view/sense_err-20d38ddb450c814b8295ff41bfc0b51b/)
+- Complete your TinkerCAD assignment on your own time
+- Read through CircuitPython tutorials listed above
+- We will have plenty of face time on our field trips!
+
+## Week 3.2
+
 - Announcement
   - [IM Lab Resources](https://www.nyuadim.com/resources/) - equipment booking, lab hours, policies, etc
+
+- Review TinkerCAD homework
 
 - **Workshop** Arduino / CircuitPython
 - Distribute class kits
@@ -249,7 +261,7 @@ Due before start of next class - Monday Sept 8 (late if submitted after class st
 
 ### Homework – Week 3
 
-Due Sunday night, before class
+Due Monday, before class
 
 - **Exercise 2 – RGB Hello World**
     
