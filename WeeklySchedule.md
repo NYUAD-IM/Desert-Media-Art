@@ -161,8 +161,8 @@ Due before start of next class
 
 ## Week 2.2
 - Announcements
-    - Reading responses and individual exercises must be post in Brightspace->Discussions
-        - Due before class so we can discuss 
+    - Tool training now includes advanced saw (chop saw, panel saw, bandsaw)
+        - Training session is available in Scene Shop Thursday starting at 3:20pm
 - Workshop: 3D printing with IM Lab Instructor
     - IM Lab Print Farm
         - 4x [Prusa MK4S with Input Shaper](https://www.prusa3d.com/product/original-prusa-mk4s-3d-printer-5/)
@@ -184,7 +184,7 @@ Due before start of next class
 
 Due before start of class - Wednesday Sept 10 (late if submitted after class starts)
 
-- **Create** Tinkercad 3D model for a base or light diffuser for the [M4 Express board](https://learn.adafruit.com/adafruit-metro-m4-express-featuring-atsamd51/overview)
+- **Create** Tinkercad 3D model that is suitable for 3D printing
     - Find the complete instructions in Brightspace -> Discussions -> Exercise 1
     - **Post** your work in Brightspace -> Discussions
 
