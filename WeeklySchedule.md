@@ -187,6 +187,7 @@ Due before start of class - Wednesday Sept 10 (late if submitted after class sta
 - **Create** Tinkercad 3D model that is suitable for 3D printing
     - Find the complete instructions in Brightspace -> Discussions -> Exercise 1
     - **Post** your work in Brightspace -> Discussions
+    - See [How to Import and Export SVG Files in Tinkercad](https://www.tinkercad.com/blog/import-and-export-svg-files-tinkercad) for how to import external shapes made in Illustrator, Inkscape, or other vector editors
 
 - **Read** through these tutorials to prepare for the CircuitPython workshop
     
