@@ -201,14 +201,10 @@ Due before start of class - Wednesday Sept 10 (late if submitted after class sta
 # Week 3
 
 ## Week 3.1
-**Asynchronous class**
-- Mang will be at Ars Electronica where we are showing [Eye of the Sand](https://ars.electronica.art/panic/en/view/eye-of-the-sand-21738ddb450c81c094a6ef42e97d1e01/) in the [NYUAD IM SENSE_ERR exhbition](https://ars.electronica.art/panic/en/view/sense_err-20d38ddb450c814b8295ff41bfc0b51b/)
-- Complete your TinkerCAD assignment on your own time
-- Read through CircuitPython tutorials listed above
-- We will have plenty of face time on our field trips!
+Mandatory Tool Training with Dustin (IM Lab Instructor)
+- Meet in IM Lab
 
 ## Week 3.2
-
 - Announcement
   - [IM Lab Resources](https://www.nyuadim.com/resources/) - equipment booking, lab hours, policies, etc
 
