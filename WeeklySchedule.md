@@ -206,6 +206,8 @@ Mandatory Tool Training with Dustin (IM Lab Instructor)
 
 ## Week 3.2
 - Announcement
+  - Tool training attendance / makeup
+      - Anyone who did not complete tool training needs to coordinate with Dustin <dustinfoster@nyu.edu>
   - [IM Lab Resources](https://www.nyuadim.com/resources/) - equipment booking, lab hours, policies, etc
 
 - Review TinkerCAD homework
