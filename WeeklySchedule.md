@@ -283,12 +283,6 @@ Due Monday, before class
     - **Print** your object ([book the 3D printer](https://nyuad-artsbooking.nyu.edu/)) and **add a photo** of your print to your discussion post
     - One paragraph response: How did your print turn out compared to your design? What issues do you see with the print and how will you improve for next time?
 
-- **Exercise 2 – RGB Hello World**
-    
-    - _Look at Brightspace -> Discussions -> Exercise 2 for the full instructions for the exercise_
-    - **Create** a CircuitPython script that makes a simple animation using the onboard RGB LED
-    
-    - **Post** a link to your script and your documentation to Brightspace -> Discussions -> Exercises -> Exercise 2
 - **Pickup** Field Guide To Emirates (required text) from the Bookstore
 - **Reading 2** - Field Guide to Emirates
     - **Post** in Brightspace -> Discussions -> Readings -> Reading 2
@@ -317,6 +311,13 @@ Due Monday, before class
 - Introduction to Rapid Prototyping Assignment
 
 ## Homework – Week 4.1
+
+- **Exercise 2 – RGB Hello World**
+    
+    - _Look at Brightspace -> Discussions -> Exercise 2 for the full instructions for the exercise_
+    - **Create** a CircuitPython script that makes a simple animation using the onboard RGB LED
+    
+    - **Post** a link to your script and your documentation to Brightspace -> Discussions -> Exercises -> Exercise 2
 
 **Finish soldering** your power switch
 
