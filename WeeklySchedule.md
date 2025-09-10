@@ -211,6 +211,7 @@ Mandatory Tool Training with Dustin (IM Lab Instructor)
   - [IM Lab Resources](https://www.nyuadim.com/resources/) - equipment booking, lab hours, policies, etc
 
 - Review TinkerCAD homework
+- Start 3D prints
 
 - **Workshop** Arduino / CircuitPython
 - Distribute class kits
