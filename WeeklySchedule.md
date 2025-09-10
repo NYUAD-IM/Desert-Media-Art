@@ -218,11 +218,15 @@ Mandatory Tool Training with Dustin (IM Lab Instructor)
 - Distribute class kits
 - [How do I learn Python?](https://learn.adafruit.com/welcome-to-circuitpython/how-do-i-learn-python "How do I learn Python?")
 - Download [Mu Editor](https://codewith.mu/)
+
+<!--
 - Update CircuitPython to version 9.x (stable) on your board
     - Update instructions [https://learn.adafruit.com/adafruit-feather-m4-express-atsamd51/circuitpython](https://learn.adafruit.com/adafruit-feather-m4-express-atsamd51/circuitpython)
     - Download the UF2 file [https://circuitpython.org/board/feather\_m4\_express/](https://circuitpython.org/board/feather_m4_express/)
+-->
+
 - Workshop
-    - Using Mu
+    - Using [Mu editor]https://codewith.mu/)
     - Basic blink
     - Installing CircuitPython libraries
     - Using the on-board NeoPixel RGB LED
@@ -263,6 +267,9 @@ Mandatory Tool Training with Dustin (IM Lab Instructor)
 ### Homework – Week 3
 
 Due Monday, before class
+- **Exercise 1** - 3D printing
+    - **Print** your object and **add a photo** of your print to your discussion post
+    - One paragraph response: How did your print turn out compared to your design? What issues do you see with the print and how will you improve for next time?
 
 - **Exercise 2 – RGB Hello World**
     
