@@ -235,11 +235,16 @@ Mandatory Tool Training with Dustin (IM Lab Instructor)
     - Installing CircuitPython libraries
     - Using the on-board NeoPixel RGB LED
 - CircuitPython Examples
-    - [Hello World (blink LED)](https://learn.adafruit.com/adafruit-feather-m4-express-atsamd51/creating-and-editing-code)
-    - [RGB LED](https://learn.adafruit.com/adafruit-feather-m4-express-atsamd51/circuitpython-internal-rgb-led) – includes the necessary libraries for Exercise 2: RGB Hello World
-    - [NeoPixels](https://learn.adafruit.com/adafruit-feather-m4-express-atsamd51/circuitpython-neopixel)
+    - [Using CircuitPython on RP2040 Prop Maker](https://learn.adafruit.com/adafruit-rp2040-prop-maker-feather/circuitpython)
+    - [Hello World (blink LED)](https://learn.adafruit.com/adafruit-rp2040-prop-maker-feather/blink)
+    - [Builtin NeoPixel RGB LED](https://learn.adafruit.com/adafruit-rp2040-prop-maker-feather/neopixel) – includes the necessary libraries for Exercise 2: RGB Hello World
+    - [Sound + Motion](https://learn.adafruit.com/adafruit-rp2040-prop-maker-feather/prop-maker-example)
+
+<!--      
     - [Sound](https://desert.nyuadim.com/2022/04/01/tutorial-for-sound-on-prop-maker-m4-express/)
     - [Servo](https://desert.nyuadim.com/2022/04/01/tutorial-for-moving-servo-on-m4-express/)
+-->
+
 - [CircuitPython Essentials](https://learn.adafruit.com/circuitpython-essentials/circuitpython-essentials)
     - [Pins and Modules](https://learn.adafruit.com/circuitpython-essentials/circuitpython-pins-and-modules)
     - [Digital In and Out](https://learn.adafruit.com/circuitpython-essentials/circuitpython-digital-in-out)
@@ -261,11 +266,14 @@ Mandatory Tool Training with Dustin (IM Lab Instructor)
     - Update your Feather board to the latest bootloader and CircuitPython version (9.x)
     - Get your simple on-board LED blinking
     - Get your RGB NeoPixel changing colours
-        -  See [Internal RGB LED](https://learn.adafruit.com/adafruit-feather-m4-express-atsamd51/circuitpython-internal-rgb-led)
+        -  See [Internal RGB LED](https://learn.adafruit.com/adafruit-rp2040-prop-maker-feather/neopixel)
 
 - Soldering (time permitting)
     - [Resources for soldering](https://github.com/michaelshiloh/resourcesForClasses#soldering)
+ 
+<!--
     - [Adafruit Feather M4 Express Assembly](https://learn.adafruit.com/adafruit-feather-m4-express-atsamd51/assembly)
+-->    
     - Battery demonstration
 
 ### Homework – Week 3
