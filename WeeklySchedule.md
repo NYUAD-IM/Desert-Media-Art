@@ -272,7 +272,7 @@ Mandatory Tool Training with Dustin (IM Lab Instructor)
 
 Due Monday, before class
 - **Exercise 1** - 3D printing
-    - **Print** your object and **add a photo** of your print to your discussion post
+    - **Print** your object ([book the 3D printer](https://nyuad-artsbooking.nyu.edu/)) and **add a photo** of your print to your discussion post
     - One paragraph response: How did your print turn out compared to your design? What issues do you see with the print and how will you improve for next time?
 
 - **Exercise 2 – RGB Hello World**
