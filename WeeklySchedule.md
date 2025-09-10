@@ -228,7 +228,7 @@ Mandatory Tool Training with Dustin (IM Lab Instructor)
 - Workshop
     - (Re)Introduction to class kit
         - [Adafruit RP2040 Prop-Maker Feather](https://learn.adafruit.com/adafruit-rp2040-prop-maker-feather)
-        - [All class components](https://docs.google.com/spreadsheets/d/1HRlQtZLUKh0WrjukIdpkrULyG5zmgzrp0r7UGMDrOL0/edit?usp=sharing)
+        - [Desert Media Art class kit](https://docs.google.com/spreadsheets/d/1HRlQtZLUKh0WrjukIdpkrULyG5zmgzrp0r7UGMDrOL0/edit?usp=sharing)
         - [Music Devices class kit](https://docs.google.com/spreadsheets/d/1E7wj5a9iZ-vE2lGYsUak2XLuWMRjYg9C7a8kJ_WtPjM/edit?usp=sharing) - we have some spares / donations of these parts
     - Using [Mu editor](https://codewith.mu/)
     - Basic blink
