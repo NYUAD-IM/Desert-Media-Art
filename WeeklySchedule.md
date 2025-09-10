@@ -271,11 +271,11 @@ Mandatory Tool Training with Dustin (IM Lab Instructor)
 
 - Soldering (time permitting)
     - [Resources for soldering](https://github.com/michaelshiloh/resourcesForClasses#soldering)
+- Battery demonstration
  
 <!--
     - [Adafruit Feather M4 Express Assembly](https://learn.adafruit.com/adafruit-feather-m4-express-atsamd51/assembly)
--->    
-    - Battery demonstration
+--> 
 
 ### Homework – Week 3
 
