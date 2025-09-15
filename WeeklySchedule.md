@@ -284,6 +284,12 @@ Due Monday, before class
     - **Post** in Brightspace -> Discussions -> Readings -> Reading 2
 
 ## Week 4.1
+Announcements
+- IM Community Gathering
+    - Thursday Sept 18 6:30-8pm
+    - Between C3-153 & C3-155
+    - Pizza! 
+
 - 3D printing design resources
     - [Design for 3D printing (shapr3d)](https://www.shapr3d.com/blog/design-for-3d-printing)
     - [Ultimate Guide: How to design for 3D Printing (wikifactory)](https://wikifactory.com/+wikifactory/stories/ultimate-guide-how-to-design-for-3d-printing)
