@@ -306,6 +306,24 @@ Announcements
     - Exercises
         - [Sound](https://desert.nyuadim.com/2022/04/01/tutorial-for-sound-on-prop-maker-m4-express/)
         - [Servo](https://desert.nyuadim.com/2022/04/01/tutorial-for-moving-servo-on-m4-express/)
+      
+Visual Studio Code with CircuitPython
+- Download [Visual Studio Code](https://code.visualstudio.com/)
+- Open the CIRCUITPY/code.py file
+    - Install Python when prompted
+- Make sure to Trust whenever prompted
+- Disable PyLance (excessive error highlighting)
+    - View->Extensions->Search->"PyLance" and clicking Disable
+- Install [Serial Monitor](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-serial-monitor)
+    - Install from [Serial Monitor webpage](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-serial-monitor) or View->Extensions->Search->"Serial Monitor" and click install
+    - To open the Serial Monitor
+        - Terminal->New Terminal
+        - Click on the Serial Monitor tab
+        - Select the Port (e.g. /dev/tty.usbmodem... - Adafruit)
+        - Click Start Monitoring
+    - Note: you may have to reselect the port and click Start Monitoring if you manually reset the board
+
+        
 - Introduction to Rapid Prototyping Assignment
 
 ## Homework – Week 4.1
