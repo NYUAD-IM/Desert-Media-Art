@@ -288,13 +288,18 @@ Announcements
 - IM Community Gathering
     - Thursday Sept 18 6:30-8pm
     - Between C3-153 & C3-155
-    - Pizza! 
+    - Pizza!
+    - 
+
+
 
 - 3D printing design resources
     - [Design for 3D printing (shapr3d)](https://www.shapr3d.com/blog/design-for-3d-printing)
     - [Ultimate Guide: How to design for 3D Printing (wikifactory)](https://wikifactory.com/+wikifactory/stories/ultimate-guide-how-to-design-for-3d-printing)
 - Reading dicussion
 - Workshop – CircuitPython / Servos / Sound
+    - Install CircuitPython on RP2040 Prop-Maker
+        -  [Install CircuitPython](https://learn.adafruit.com/adafruit-rp2040-prop-maker-feather/circuitpython)
     - Solder Feather boards
         - [Resources for soldering](https://github.com/michaelshiloh/resourcesForClasses#soldering)
     - Battery demonstration
