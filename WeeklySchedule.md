@@ -268,11 +268,6 @@ Mandatory Tool Training with Dustin (IM Lab Instructor)
     - Get your simple on-board LED blinking
     - Get your RGB NeoPixel changing colours
         -  See [Internal RGB LED](https://learn.adafruit.com/adafruit-rp2040-prop-maker-feather/neopixel)
-
-- Soldering (time permitting)
-    - [Resources for soldering](https://github.com/michaelshiloh/resourcesForClasses#soldering)
-- Battery demonstration
- 
 <!--
     - [Adafruit Feather M4 Express Assembly](https://learn.adafruit.com/adafruit-feather-m4-express-atsamd51/assembly)
 --> 
@@ -289,22 +284,13 @@ Due Monday, before class
     - **Post** in Brightspace -> Discussions -> Readings -> Reading 2
 
 ## Week 4.1
-- Announcements
-    - Tool training validity is now 2 years, then have to do full training
-        - Need training? Contact Ume <ume.hussein@nyu.edu> to schedule
-    - Do you want to host an IM workshop? Contact Instructor Stefania
-![IM Workshop](https://intro.nyuadim.com/wp-content/uploads/2024/09/im_workshop.png?raw=true)
-
-      
 - 3D printing design resources
     - [Design for 3D printing (shapr3d)](https://www.shapr3d.com/blog/design-for-3d-printing)
     - [Ultimate Guide: How to design for 3D Printing (wikifactory)](https://wikifactory.com/+wikifactory/stories/ultimate-guide-how-to-design-for-3d-printing)
 - Reading dicussion
-- Light rave
 - Workshop – CircuitPython / Servos / Sound
     - Solder Feather boards
         - [Resources for soldering](https://github.com/michaelshiloh/resourcesForClasses#soldering)
-        - [Adafruit Feather M4 Express Assembly](https://learn.adafruit.com/adafruit-feather-m4-express-atsamd51/assembly)
     - Battery demonstration
     - Exercises
         - [Sound](https://desert.nyuadim.com/2022/04/01/tutorial-for-sound-on-prop-maker-m4-express/)
@@ -325,7 +311,7 @@ Due Monday, before class
 ---
 
 ## Week 4.2
-- Look at homework (soldering)
+- Light rave
 - Desert Ecology and Culture
 - Discuss Reading
     - The latitude band of deserts shifts on a ~20,000 year cycle
@@ -334,24 +320,33 @@ Due Monday, before class
         - [Moreeb Dune (تل مرعب)](https://en.wikipedia.org/wiki/Moreeb_Dune)
         - [Moreeb Dune (Google Maps)](https://goo.gl/maps/Mw7RZ4LDLPWNyF2r8)
 - [Desert Media Art around the Gulf](https://desert.nyuadim.com/desert-media-art-in-the-gulf/ "Desert Media Art in the Gulf")
+
 - [Multimeters (Adafruit)](https://learn.adafruit.com/multimeters/overview)
     - For continuity testing with our multimeters, make sure switch is set to  Ω / (beep) and press the blue button to cycle into the beep mode
     - The probes should be in COM and VΩ
     - The multimeter will beep when the resistance (Ω) is low. OL on the meter indicates "Over Limit" (i.e. extremely high resistance / not connected)
- 
 <img src="https://intro.nyuadim.com/wp-content/uploads/2024/09/Multimeter_continuity.jpg"  alt="Multimeter continuity" width=500 />
+- Soldering
+    - [Resources for soldering](https://github.com/michaelshiloh/resourcesForClasses#soldering)
+
+- Workshop: Soldering
+    - Solder your power switch
+ 
 
 ### Homework – Week 4.2
 
 Due before start of next class
 
+<!--
 - **Finish soldering** your M4 Express board with long stacking headers
     - [Soldering Stacking Headers Tutorial](https://desert.nyuadim.com/2022/09/14/soldering-stacking-headers/)
-- **Solder** the connector to your speaker
+-->
+ 
+- **Solder** wires to your speaker
     - [Tutorial for sound](https://desert.nyuadim.com/2022/04/01/tutorial-for-sound-on-prop-maker-m4-express/)
     - Make sure you use the right connector! It should fit in the "SPEAKER" socket on your Prop Maker Featherwing
     - The polarity of the connection to the speaker is not important
-- **Solder** the connector to your NeoPixel ring
+- **Solder** wires to your NeoPixel ring
     - [Tutorial for Neopixels](https://desert.nyuadim.com/2022/10/25/tutorial-neopixels-with-prop-maker-featherwing/)
 
 - Start thinking about project ideas
