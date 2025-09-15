@@ -225,6 +225,25 @@ Mandatory Tool Training with Dustin (IM Lab Instructor)
     - Download the UF2 file [https://circuitpython.org/board/feather\_m4\_express/](https://circuitpython.org/board/feather_m4_express/)
 -->
 
+
+### Homework – Week 3
+
+Due Monday, before class
+- **Exercise 1** - 3D printing
+    - **Print** your object ([book the 3D printer](https://nyuad-artsbooking.nyu.edu/)) and **add a photo** of your print to your discussion post
+    - One paragraph response: How did your print turn out compared to your design? What issues do you see with the print and how will you improve for next time?
+
+- **Pickup** Field Guide To Emirates (required text) from the Bookstore
+- **Reading 2** - Field Guide to Emirates
+    - **Post** in Brightspace -> Discussions -> Readings -> Reading 2
+
+## Week 4.1
+Announcements
+- IM Community Gathering
+    - Thursday Sept 18 6:30-8pm
+    - Between C3-153 & C3-155
+    - Pizza!
+
 - Workshop
     - (Re)Introduction to class kit
         - [Adafruit RP2040 Prop-Maker Feather](https://learn.adafruit.com/adafruit-rp2040-prop-maker-feather)
@@ -261,10 +280,9 @@ Mandatory Tool Training with Dustin (IM Lab Instructor)
 - GitHub (optional but recommended)
     - Learning GitHub – [1.1: Introduction – Git and GitHub for Poets (Coding Train)](https://www.youtube.com/watch?v=BCQHnlnPusY)
     - Add this .gitignore file to your repository – [.gitignore](https://github.com/NYUAD-IM/Desert-Media-Art/blob/main/.gitignore)
-        - Mac Finder files and compiled Python code (.pyc) will be ignored
-
-- In-class Assignment
+        - Mac Finder files and compiled Python code (.pyc) will be ignored- In-class Assignment
     - Update your Feather board to the latest bootloader and CircuitPython version (9.x)
+       - [RP2040 Prop-Maker CircuitPython Quickstart](https://learn.adafruit.com/adafruit-rp2040-prop-maker-feather/circuitpython)
     - Get your simple on-board LED blinking
     - Get your RGB NeoPixel changing colours
         -  See [Internal RGB LED](https://learn.adafruit.com/adafruit-rp2040-prop-maker-feather/neopixel)
@@ -272,40 +290,6 @@ Mandatory Tool Training with Dustin (IM Lab Instructor)
     - [Adafruit Feather M4 Express Assembly](https://learn.adafruit.com/adafruit-feather-m4-express-atsamd51/assembly)
 --> 
 
-### Homework – Week 3
-
-Due Monday, before class
-- **Exercise 1** - 3D printing
-    - **Print** your object ([book the 3D printer](https://nyuad-artsbooking.nyu.edu/)) and **add a photo** of your print to your discussion post
-    - One paragraph response: How did your print turn out compared to your design? What issues do you see with the print and how will you improve for next time?
-
-- **Pickup** Field Guide To Emirates (required text) from the Bookstore
-- **Reading 2** - Field Guide to Emirates
-    - **Post** in Brightspace -> Discussions -> Readings -> Reading 2
-
-## Week 4.1
-Announcements
-- IM Community Gathering
-    - Thursday Sept 18 6:30-8pm
-    - Between C3-153 & C3-155
-    - Pizza!
-    - 
-
-
-
-- 3D printing design resources
-    - [Design for 3D printing (shapr3d)](https://www.shapr3d.com/blog/design-for-3d-printing)
-    - [Ultimate Guide: How to design for 3D Printing (wikifactory)](https://wikifactory.com/+wikifactory/stories/ultimate-guide-how-to-design-for-3d-printing)
-- Reading dicussion
-- Workshop – CircuitPython / Servos / Sound
-    - Install CircuitPython on RP2040 Prop-Maker
-        -  [Install CircuitPython](https://learn.adafruit.com/adafruit-rp2040-prop-maker-feather/circuitpython)
-    - Solder Feather boards
-        - [Resources for soldering](https://github.com/michaelshiloh/resourcesForClasses#soldering)
-    - Battery demonstration
-    - Exercises
-        - [Sound](https://desert.nyuadim.com/2022/04/01/tutorial-for-sound-on-prop-maker-m4-express/)
-        - [Servo](https://desert.nyuadim.com/2022/04/01/tutorial-for-moving-servo-on-m4-express/)
       
 Visual Studio Code with CircuitPython
 - Download [Visual Studio Code](https://code.visualstudio.com/)
@@ -322,9 +306,7 @@ Visual Studio Code with CircuitPython
         - Select the Port (e.g. /dev/tty.usbmodem... - Adafruit)
         - Click Start Monitoring
     - Note: you may have to reselect the port and click Start Monitoring if you manually reset the board
-
         
-- Introduction to Rapid Prototyping Assignment
 
 ## Homework – Week 4.1
 
@@ -335,11 +317,10 @@ Visual Studio Code with CircuitPython
     
     - **Post** a link to your script and your documentation to Brightspace -> Discussions -> Exercises -> Exercise 2
 
-**Finish soldering** your power switch
-
 ---
 
 ## Week 4.2
+- Battery demonstration
 - Light rave
 - Desert Ecology and Culture
 - Discuss Reading
@@ -360,7 +341,11 @@ Visual Studio Code with CircuitPython
 
 - Workshop: Soldering
     - Solder your power switch
- 
+
+ - Introduction to Rapid Prototyping Assignment
+- 3D printing design resources
+    - [Design for 3D printing (shapr3d)](https://www.shapr3d.com/blog/design-for-3d-printing)
+    - [Ultimate Guide: How to design for 3D Printing (wikifactory)](https://wikifactory.com/+wikifactory/stories/ultimate-guide-how-to-design-for-3d-printing)
 
 ### Homework – Week 4.2
 
