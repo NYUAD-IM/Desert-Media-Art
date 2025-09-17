@@ -338,11 +338,12 @@ Visual Studio Code with CircuitPython
 <img src="https://intro.nyuadim.com/wp-content/uploads/2024/09/Multimeter_continuity.jpg"  alt="Multimeter continuity" width=500 />
 - Soldering
     - [Resources for soldering](https://github.com/michaelshiloh/resourcesForClasses#soldering)
+    - [Soldering NeoPixels](https://learn.adafruit.com/make-it-glow-how-to-solder-neopixels-a-beginners-guide/techniques)
 
 - Workshop: Soldering
     - Solder your power switch
 
- - Introduction to Rapid Prototyping Assignment
+- Introduction to Rapid Prototyping Assignment
 - 3D printing design resources
     - [Design for 3D printing (shapr3d)](https://www.shapr3d.com/blog/design-for-3d-printing)
     - [Ultimate Guide: How to design for 3D Printing (wikifactory)](https://wikifactory.com/+wikifactory/stories/ultimate-guide-how-to-design-for-3d-printing)
@@ -360,8 +361,26 @@ Due before start of next class
     - [Tutorial for sound](https://desert.nyuadim.com/2022/04/01/tutorial-for-sound-on-prop-maker-m4-express/)
     - Make sure you use the right connector! It should fit in the "SPEAKER" socket on your Prop Maker Featherwing
     - The polarity of the connection to the speaker is not important
-- **Solder** wires to your NeoPixel ring
+- **Solder** wires to your NeoPixel ring and strip
     - [Tutorial for Neopixels](https://desert.nyuadim.com/2022/10/25/tutorial-neopixels-with-prop-maker-featherwing/)
+        - Note: you only need to solder wires to the strip / ring and then [use the screw terminals on the RP2040 Prop-Maker board](https://learn.adafruit.com/adafruit-rp2040-prop-maker-feather/prop-maker-example#wiring-3148148)
+        - Enable the external NeoPixel power and use ```EXTERNAL_NEOPIXELS``` to access the external NeoPixel strip
+        - [Example code](https://learn.adafruit.com/adafruit-rp2040-prop-maker-feather/prop-maker-example#example-code-3148143)
+     
+```
+# enable external power pin
+# provides power to the external components
+external_power = DigitalInOut(board.EXTERNAL_POWER)
+external_power.direction = Direction.OUTPUT
+external_power.value = True
+
+# external neopixels
+num_pixels = 30
+pixels = neopixel.NeoPixel(board.EXTERNAL_NEOPIXELS, num_pixels)
+pixels.brightness = 0.3
+rainbow = Rainbow(pixels, speed=0.05, period=2)
+```
+
 
 - Start thinking about project ideas
 - **Download** [Inkscape](https://inkscape.org/)
