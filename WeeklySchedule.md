@@ -369,10 +369,17 @@ Due before start of next class
     - Leave Data Ouput open for now. Later we can use the Data Output to connect to the Data Input of another ring. 
     - You only need to solder wires to the strip / ring and then [use the screw terminals on the RP2040 Prop-Maker board](https://learn.adafruit.com/adafruit-rp2040-prop-maker-feather/prop-maker-example#wiring-3148148)
 - Do *not* solder anything to your Prop-Maker board for now
+
 - Run the [Prop-Maker example](https://learn.adafruit.com/adafruit-rp2040-prop-maker-feather/prop-maker-example) to test your work
     - Make sure to download the project bundle and copy the library and wav file to your board
     - Connect your components to the screw terminals on your Prop-Maker board using the small screwdrivers at the back of the IM Lab
     - The servo connects to the servo header (make sure to observe the polarity!)
+
+<img src="Media/Neopixel_ring.jpeg" width="80%"><br/>NeoPixel ring connections
+
+<img src="Media/Soldered.jpeg" width="80%"><br/>Soldered parts
+
+<img src="Media/All_together.jpeg" width="80%"><br/>Parts connected to Prop-Maker with code running
 
 <!--
         - Enable the external NeoPixel power and use ```EXTERNAL_NEOPIXELS``` to access the external NeoPixel strip
