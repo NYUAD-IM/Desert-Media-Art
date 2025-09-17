@@ -357,14 +357,23 @@ Due before start of next class
 - **Finish soldering** your M4 Express board with long stacking headers
     - [Soldering Stacking Headers Tutorial](https://desert.nyuadim.com/2022/09/14/soldering-stacking-headers/)
 -->
- 
+
+- **Solder** wires to your button
+    - The button is non-polarized (it doesn't matter which wire we will hook up) so use the *same colour* for both wires, and *not* black or red
 - **Solder** wires to your speaker
-    - [Tutorial for sound](https://desert.nyuadim.com/2022/04/01/tutorial-for-sound-on-prop-maker-m4-express/)
-    - Make sure you use the right connector! It should fit in the "SPEAKER" socket on your Prop Maker Featherwing
-    - The polarity of the connection to the speaker is not important
+    - The polarity of the connection to the speaker is only important if you have multiple speakers (for example in a home stereo)
 - **Solder** wires to your NeoPixel ring and strip
-    - [Tutorial for Neopixels](https://desert.nyuadim.com/2022/10/25/tutorial-neopixels-with-prop-maker-featherwing/)
-        - Note: you only need to solder wires to the strip / ring and then [use the screw terminals on the RP2040 Prop-Maker board](https://learn.adafruit.com/adafruit-rp2040-prop-maker-feather/prop-maker-example#wiring-3148148)
+    - Use red for 5V DC power
+    - Use black for GND (ground)
+    - Use another colour for Data Input
+    - Leave Data Ouput open for now. Later we can use the Data Output to connect to the Data Input of another ring. 
+    - You only need to solder wires to the strip / ring and then [use the screw terminals on the RP2040 Prop-Maker board](https://learn.adafruit.com/adafruit-rp2040-prop-maker-feather/prop-maker-example#wiring-3148148)
+- Do *not* solder anything to your Prop-Maker board for now
+- Run the [Prop-Maker example](https://learn.adafruit.com/adafruit-rp2040-prop-maker-feather/prop-maker-example) to test your work
+    - Make sure to download the project bundle and copy the library and wav file to your board
+    - Connect your components to the screw terminals on your Prop-Maker board using the small screwdrivers at the back of the IM Lab
+
+<!--
         - Enable the external NeoPixel power and use ```EXTERNAL_NEOPIXELS``` to access the external NeoPixel strip
         - [Example code](https://learn.adafruit.com/adafruit-rp2040-prop-maker-feather/prop-maker-example#example-code-3148143)
      
@@ -381,7 +390,7 @@ pixels = neopixel.NeoPixel(board.EXTERNAL_NEOPIXELS, num_pixels)
 pixels.brightness = 0.3
 rainbow = Rainbow(pixels, speed=0.05, period=2)
 ```
-
+-->
 
 - Start thinking about project ideas
 - **Download** [Inkscape](https://inkscape.org/)
