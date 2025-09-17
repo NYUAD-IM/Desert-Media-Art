@@ -359,9 +359,9 @@ Due before start of next class
 -->
 
 - **Solder** wires to your button
-    - The button is non-polarized (it doesn't matter which wire we will hook up) so use the *same colour* for both wires, and *not* black or red
+    - The button is non-polarized (it doesn't matter which wire we will hook up) so I suggest to use the *same colour* for both wires, and *not* black or red (reserve those for gnd / negative and power / positive)
 - **Solder** wires to your speaker
-    - The polarity of the connection to the speaker is only important if you have multiple speakers (for example in a home stereo)
+    - The polarity of the connection to the speaker is only important if you have multiple speakers (for example in a home stereo) so suggest to make both wires the same colour or you could use black / red consistently for multiple speakers
 - **Solder** wires to your NeoPixel ring and strip
     - Use red for 5V DC power
     - Use black for GND (ground)
@@ -372,6 +372,7 @@ Due before start of next class
 - Run the [Prop-Maker example](https://learn.adafruit.com/adafruit-rp2040-prop-maker-feather/prop-maker-example) to test your work
     - Make sure to download the project bundle and copy the library and wav file to your board
     - Connect your components to the screw terminals on your Prop-Maker board using the small screwdrivers at the back of the IM Lab
+    - The servo connects to the servo header (make sure to observe the polarity!)
 
 <!--
         - Enable the external NeoPixel power and use ```EXTERNAL_NEOPIXELS``` to access the external NeoPixel strip
