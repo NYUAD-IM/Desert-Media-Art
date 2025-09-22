@@ -428,7 +428,7 @@ rainbow = Rainbow(pixels, speed=0.05, period=2)
 Due before start of next class
 
 - Have a look at these tutorials to get familiar with servos / sound / light
-- [RGB LED](https://learn.adafruit.com/adafruit-feather-m4-express-atsamd51/circuitpython-internal-rgb-led)
+- [NeoPixels with CircuitPython](https://learn.adafruit.com/circuitpython-essentials/circuitpython-neopixel)
 - [Sound](https://desert.nyuadim.com/2022/04/01/tutorial-for-sound-on-prop-maker-m4-express/)
 - [Servo](https://desert.nyuadim.com/2022/04/01/tutorial-for-moving-servo-on-m4-express/)
 - **Exercise – Create and post** a 2D design
