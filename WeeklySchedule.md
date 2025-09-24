@@ -400,6 +400,9 @@ rainbow = Rainbow(pixels, speed=0.05, period=2)
 ```
 -->
 
+- **Read** [Proceedings of the Digital Naturalism Conference](https://archive.org/details/dinacon-2019-single-page-lulu-a-5-printed-2/DINACON%202019%20single%20page%20lulu%20-%20A5_printed2/)
+    - **Post** a reading response via Brightspace
+
 - Start thinking about project ideas
 - **Download** [Inkscape](https://inkscape.org/)
 - **Watch** [Inkscape explained in 5 minutes (YouTube)](https://www.youtube.com/watch?v=pa6a7oz7vEE)
@@ -407,36 +410,6 @@ rainbow = Rainbow(pixels, speed=0.05, period=2)
 ---
 
 ## Week 5.1
-- 2D Design for Laser Cutting
-    - [Inkscape](https://inkscape.org/)
-    - [Inkscape 11 minute tutorial (YouTube)](https://youtu.be/-_KJZPOYBeA)
-    - [Inkscape basic tutorial](https://inkscape.org/doc/tutorials/basic/tutorial-basic.html)
-    - [Inkscape Tutorials (YouTube)](https://www.youtube.com/watch?v=8f011wdiW7g&list=PLqazFFzUAPc5lOQwDoZ4Dw2YSXtO7lWNv&index=1)
-    - [Inkscape design for laser cutting (YouTube)](https://youtu.be/IzaiISOzXHo)
-    - [Inkscape Tutorial: Prepare your files for laser cutting](https://www.sculpteo.com/en/prepare-your-file-laser-cutting/prepare-your-model-laser-cutting-inkscape/)
-    - [Convert Text To A Path In Inkscape](https://logosbynick.com/convert-text-to-a-path-in-inkscape/)
-        - “Freeze” text into a simple vector, e.g. when preparing a file for laser cutting on a machine that won’t have your font
-    - Inkscape Essential Training on LinkedIn Learning: [https://www.linkedin.com/learning/inkscape-essential-training-9975138](https://www.linkedin.com/learning/inkscape-essential-training-9975138)
-    - MakerCase: [https://en.makercase.com/](https://en.makercase.com/)
-        - Online lasercut box design
-     
-- Laser cutter booking
-    - [IM Lab Resources](https://www.nyuadim.com/resources/)
-
-### Homework – Week 5.1
-
-Due before start of next class
-
-- Have a look at these tutorials to get familiar with servos / sound / light
-- [NeoPixels with CircuitPython](https://learn.adafruit.com/circuitpython-essentials/circuitpython-neopixel)
-- [Sound](https://desert.nyuadim.com/2022/04/01/tutorial-for-sound-on-prop-maker-m4-express/)
-- [Servo](https://desert.nyuadim.com/2022/04/01/tutorial-for-moving-servo-on-m4-express/)
-- **Exercise – Create and post** a 2D design
-    - See Brightspace -> Discussions -> Exercises -> Exercise – Inkscape for details
-
----
-
-## Week 5.2
 
 - Workshop: Sound, NeoPixels, Servo
     - Changing between different sketches on your CircuitPython board
@@ -454,14 +427,56 @@ Due before start of next class
         - Solder wires to your potentiometer and connect it to your breadboard
         - Wiring diagram for Feather M4 Express is in the tutorial
 
+
+### Homework – Week 5.1
+
+Due before start of next class
+
+- Have a look at these tutorials to get familiar with servos / sound / light
+- [NeoPixels with CircuitPython](https://learn.adafruit.com/circuitpython-essentials/circuitpython-neopixel)
+- [Sound](https://desert.nyuadim.com/2022/04/01/tutorial-for-sound-on-prop-maker-m4-express/)
+- [Servo](https://desert.nyuadim.com/2022/04/01/tutorial-for-moving-servo-on-m4-express/)
+
+---
+
+## Week 5.2
+- Any questions from the Prop-Maker example?
+- Reading Discussion - Dinacon
+
+- Cardboard prototypes
+    - [Cardboard Fundamentals (Adafruit)](https://learn.adafruit.com/cardboard-fundamentals)
+    - [Project Creates Adaptive Equipment for Kids out of Cardboard (YouTube)](https://www.youtube.com/watch?v=UhmcAnV1oQs)
+    - Prototyping demo
+        - [City Refl3ctor](https://michaelang.com/cityrefl3ctor) demo
+
+- 2D Design for Laser Cutting
+    - [Inkscape](https://inkscape.org/)
+    - [Inkscape 11 minute tutorial (YouTube)](https://youtu.be/-_KJZPOYBeA)
+    - [Inkscape basic tutorial](https://inkscape.org/doc/tutorials/basic/tutorial-basic.html)
+    - [Inkscape Tutorials (YouTube)](https://www.youtube.com/watch?v=8f011wdiW7g&list=PLqazFFzUAPc5lOQwDoZ4Dw2YSXtO7lWNv&index=1)
+    - [Inkscape design for laser cutting (YouTube)](https://youtu.be/IzaiISOzXHo)
+    - [Inkscape Tutorial: Prepare your files for laser cutting](https://www.sculpteo.com/en/prepare-your-file-laser-cutting/prepare-your-model-laser-cutting-inkscape/)
+    - [Convert Text To A Path In Inkscape](https://logosbynick.com/convert-text-to-a-path-in-inkscape/)
+        - “Freeze” text into a simple vector, e.g. when preparing a file for laser cutting on a machine that won’t have your font
+    - Inkscape Essential Training on LinkedIn Learning: [https://www.linkedin.com/learning/inkscape-essential-training-9975138](https://www.linkedin.com/learning/inkscape-essential-training-9975138)
+    - MakerCase: [https://en.makercase.com/](https://en.makercase.com/)
+        - Online lasercut box design
+     
+- Laser cutter booking
+    - [IM Lab Resources](https://www.nyuadim.com/resources/)
+
+- Introduction to Rapid Prototyping assignment
+
 ### Homework – Week 5.2
 
 Due before start of next class
 
+<!--
 - **Complete** the [servo tutorial](https://desert.nyuadim.com/2022/04/01/tutorial-for-moving-servo-on-m4-express/)
+-->
 
-- **Read** [Proceedings of the Digital Naturalism Conference](https://archive.org/details/dinacon-2019-single-page-lulu-a-5-printed-2/DINACON%202019%20single%20page%20lulu%20-%20A5_printed2/)
-    - **Post** a reading response via Brightspace
+- **Exercise – Create and post** a 2D design
+    - See Brightspace -> Discussions -> Exercises -> Exercise – Inkscape for details
 
 - **Start** thinking about final project ideas
 
