@@ -416,17 +416,6 @@ rainbow = Rainbow(pixels, speed=0.05, period=2)
         - Write your sound code in e.g. `sound_sketch.py`
         - Write your RGB code in e.g. `rgb_sketch.py`
         - Inside code.py, change between `import sound_sketch` and `import rgb_sketch`
-    - IN CLASS mp3 example: [Tutorial for Sound](https://desert.nyuadim.com/2022/04/01/tutorial-for-sound-on-prop-maker-m4-express/)
-    - IN CLASS NeoPixel example: [Tutorial for NeoPixel Ring](https://desert.nyuadim.com/2022/10/25/tutorial-neopixels-with-prop-maker-featherwing/)
-    - IN CLASS (time permitting) [Tutorial for Servo](https://desert.nyuadim.com/2022/04/01/tutorial-for-moving-servo-on-m4-express/)
-    - [Adafruit Prop Maker CircuitPython examples](https://learn.adafruit.com/adafruit-prop-maker-featherwing/circuitpython)
-    - [CircuitPython MP3 Audio](https://learn.adafruit.com/circuitpython-essentials/circuitpython-mp3-audio)
-    - Installing CircuitPython libraries
-        - Copy the .mpy file into your CIRCUITPY/lib folder
-    - [CircuitPython Analog In](https://learn.adafruit.com/circuitpython-essentials/circuitpython-analog-in)
-        - Solder wires to your potentiometer and connect it to your breadboard
-        - Wiring diagram for Feather M4 Express is in the tutorial
-
 
 ### Homework – Week 5.1
 
@@ -441,6 +430,37 @@ Due before start of next class
 
 ## Week 5.2
 - Any questions from the Prop-Maker example?
+
+- Workshop: Sound, NeoPixels, Servo continued
+    - Installing CircuitPython libraries
+        - [CircuitPython Libraries overview](https://learn.adafruit.com/welcome-to-circuitpython/circuitpython-libraries)
+        - [Library bundle download for CircuitPython 9.x](https://circuitpython.org/libraries)
+    - IN CLASS mp3 example:
+        - [CircuitPython MP3 Audio](https://learn.adafruit.com/circuitpython-essentials/circuitpython-mp3-audio)
+        - [RP2040_PropMaker mp3example.py (GitHub)](https://github.com/NYUAD-IM/Desert-Media-Art/blob/main/Code/RP2040_PropMaker/mp3example.py)
+            - Example adapted for our board
+ 
+To make your own .mp3, use the following settings:
+- bit rate: anywhere from 16 to 320 kb/s (lower will be smaller, higher is better quality)
+- sample rate: 22050Hz or 44100Hz are recommended, although 16kHz, 24kHz, and 48kHz should also work
+- channels: mono or stereo
+- must be DRM free
+- *Recommended settings:* 22050Hz, 16kbps, Constant Bit Rate (CB), Mono
+
+<img src="https://desert.nyuadim.com/wp-content/uploads/2022/04/audacity_settings2.png" width="75%"/>
+
+Example export settings with [Audacity](https://www.audacityteam.org/)
+
+More examples:
+- IN CLASS NeoPixel example: [Tutorial for NeoPixel Ring](https://desert.nyuadim.com/2022/10/25/tutorial-neopixels-with-prop-maker-featherwing/)
+- IN CLASS (time permitting) [Tutorial for Servo](https://desert.nyuadim.com/2022/04/01/tutorial-for-moving-servo-on-m4-express/)
+- [Adafruit Prop Maker CircuitPython examples](https://learn.adafruit.com/adafruit-prop-maker-featherwing/circuitpython)
+- [CircuitPython MP3 Audio](https://learn.adafruit.com/circuitpython-essentials/circuitpython-mp3-audio)
+- Installing CircuitPython libraries
+    - Copy the .mpy file into your CIRCUITPY/lib folder
+- [CircuitPython Analog In](https://learn.adafruit.com/circuitpython-essentials/circuitpython-analog-in)
+    - Try using GPIO pin on terminal block
+
 - Reading Discussion - Dinacon
 
 - Cardboard prototypes
