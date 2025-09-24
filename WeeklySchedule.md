@@ -498,6 +498,7 @@ Due before start of next class
 - **Exercise – Create and post** a 2D design
     - See Brightspace -> Discussions -> Exercises -> Exercise – Inkscape for details
 
+- **Design** your prototype device
 - **Start** thinking about final project ideas
 
 # Week 6
