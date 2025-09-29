@@ -508,6 +508,8 @@ Due before start of next class
 - Introduction to [Final Project](https://desert.nyuadim.com/2022/09/27/final-project/)
 - [Class Resources](https://desert.nyuadim.com/class-resources/)
     - Growing list of resources about e.g. 3D printing
+- [How To Solder Headers: A Beginner Tutorial (YouTube)](https://www.youtube.com/watch?v=Z0joOKaQ43A)
+- [Using EN enable pin to power down board](https://learn.adafruit.com/adafruit-rp2040-prop-maker-feather/power-management#enable-pin-3122388)
 - Interactive Outdoor Artworks
     - [Environmental Art](https://desert.nyuadim.com/2021/10/27/environmental-art/)
     - [Performance Art and Installation](https://desert.nyuadim.com/2021/10/05/performance-art-in-the-desert/)
@@ -561,16 +563,19 @@ Due before start of next class
 
 
 ## Week 6.2
-
+In-Class Work Session
+- Work on your prototype assignment
+- Ask any questions now!
+- Possible to use machines with booking
 
 ### Homework
 Due before start of next class
 
-- **Be ready to share** one final project idea
-- **Work** on Exercise 4 - Prototype Device
+- **Finish** Exercise 4 - Prototype Device
     - Good idea to book your time on the laser cutter and 3D printers!
 
 ## Week 7.1
+<!--
 - Laser fiesta!
     - Who is ready to laser cut?
     - Divide into groups of two
@@ -578,6 +583,7 @@ Due before start of next class
         - Can print on paper at 100% to double check
     - We will cut as many designs as are ready / possible
     - Other cuts to be booked through Connect2
+-->
 
 - Idea Lab (postponed to Wednesday, time permitting)
     - Opening remarks
