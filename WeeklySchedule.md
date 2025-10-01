@@ -542,8 +542,11 @@ Soldering
 - [How To Solder Headers: A Beginner Tutorial (YouTube)](https://www.youtube.com/watch?v=Z0joOKaQ43A)
 - [Using EN enable pin to power down board](https://learn.adafruit.com/adafruit-rp2040-prop-maker-feather/power-management#enable-pin-3122388)
 - Soldering demo using [FeatherWing Doubler](https://www.adafruit.com/product/2890)
-- Analog in demo
-    - [analogin_demo.py (GitHub)](https://github.com/NYUAD-IM/Desert-Media-Art/blob/main/Code/analogin_demo.py)
+
+Analog in demo
+<img src="https://github.com/user-attachments/assets/dc4cac51-be7d-4f91-ab73-9ebc7d08646a" width="75%"/>
+
+- [analogin_demo.py (GitHub)](https://github.com/NYUAD-IM/Desert-Media-Art/blob/main/Code/analogin_demo.py)
  
 Interactive Outdoor Artworks
 - [Environmental Art](https://desert.nyuadim.com/2021/10/27/environmental-art/)
