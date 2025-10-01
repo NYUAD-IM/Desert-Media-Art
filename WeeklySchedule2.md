@@ -67,7 +67,18 @@ Note: Exact due dates for assignments and readings are indicated in Brightspace
   - Fill in [Desert Media Art Projects](https://docs.google.com/spreadsheets/d/1iJNpbhqkyNb6HogYLb8mV5AxyQxO05a-2gKaVRbXwR4/edit?usp=sharing) with Project Name, Group Members, Project Description, Inspiration, and Tech
   - What are you going to look for when we go to the desert?
 
-
+- Electronics in the Field
+    - Ruggedization
+    - Strain relief
+    - Enclosures
+    - Battery power
+    - Work Examples
+        - [City Refl3ctor](https://desert.nyuadim.com/wp-admin/undefined) – Michael Ang
+        - [Space Robots in the Desert](https://desert.nyuadim.com/2021/10/30/space-robots-in-the-desert/)
+        - [Unnatural Language](https://www.michaelang.com/project/unnatural-language)
+    - [Light-Up Costumes in Harsh Environments
+ (Adafruit)](https://learn.adafruit.com/light-up-costumes-in-harsh-environments)
+        - Has good examples of waterproof soldered wires
 
 - **Workshop**: LEDs and Servos
     - [Tutorial – NeoPixels with Prop-Maker FeatherWing](https://desert.nyuadim.com/2022/10/25/tutorial-neopixels-with-prop-maker-featherwing/)
