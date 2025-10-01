@@ -544,8 +544,8 @@ Soldering
 - Soldering demo using [FeatherWing Doubler](https://www.adafruit.com/product/2890)
 
 Analog in demo
-- [analogin_demo.py (GitHub)](https://github.com/NYUAD-IM/Desert-Media-Art/blob/main/Code/analogin_demo.
-<img src="https://github.com/user-attachments/assets/dc4cac51-be7d-4f91-ab73-9ebc7d08646a" width="75%"/>py)
+- [analogin_demo.py (GitHub)](https://github.com/NYUAD-IM/Desert-Media-Art/blob/main/Code/analogin_demo.py)
+<img src="https://github.com/user-attachments/assets/dc4cac51-be7d-4f91-ab73-9ebc7d08646a" width="75%"/>
  
 Interactive Outdoor Artworks
 - [Environmental Art](https://desert.nyuadim.com/2021/10/27/environmental-art/)
