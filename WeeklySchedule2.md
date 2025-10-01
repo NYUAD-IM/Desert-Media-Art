@@ -55,6 +55,11 @@ Note: Exact due dates for assignments and readings are indicated in Brightspace
  
 - Sensors introduction (time permitting)
     - What do you want to sense?
+ 
+- Form final project groups
+    - Refine project ideas
+    - Update [Desert Media Art Project Spreadsheet](https://docs.google.com/spreadsheets/d/1iJNpbhqkyNb6HogYLb8mV5AxyQxO05a-2gKaVRbXwR4/edit?usp=sharing) (sign in with NYU account to edit)
+
 
 ## Week 8.2
 - Project check-in
@@ -109,7 +114,7 @@ Due before start of next class
 
 ## Desert Site Visit
 
-### Sunday October 27
+### Sunday October 26
 
 Visit site near Sweihan to see location for final installation and learn about desert ecology.
 
