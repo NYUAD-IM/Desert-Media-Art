@@ -535,7 +535,8 @@ Due before start of next class
     - [Sound](https://desert.nyuadim.com/2022/04/01/tutorial-for-sound-on-prop-maker-m4-express/)
 
 ## Week 6.2
-Field scouting – [Abu Dhabi Desert Road](https://desert.nyuadim.com/2023/10/15/abu-dhabi-desert-road/)
+Field scouting
+– [Abu Dhabi Desert Road](https://desert.nyuadim.com/2023/10/15/abu-dhabi-desert-road/)
 
 Soldering
 - [How To Solder Headers: A Beginner Tutorial (YouTube)](https://www.youtube.com/watch?v=Z0joOKaQ43A)
