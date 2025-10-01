@@ -543,18 +543,18 @@ Soldering
 - Soldering demo using [FeatherWing Doubler](https://www.adafruit.com/product/2890)
  
 Interactive Outdoor Artworks
-    - [Environmental Art](https://desert.nyuadim.com/2021/10/27/environmental-art/)
-    - [Performance Art and Installation](https://desert.nyuadim.com/2021/10/05/performance-art-in-the-desert/)
-    - [Art Installations in the Desert](https://desert.nyuadim.com/2021/10/05/art-installations-in-the-desert/)
-    - Project ideas
-        - Simple robot
-            - [Tutorial: Wheggo v.1 Workshop](https://desert.nyuadim.com/2022/03/11/tutorial-wheggo-v-1-workshop/)
-            - [Wheggo II Out in the Desert](https://desert.nyuadim.com/2021/12/12/wheggo-ii-out-in-the-desert/)
-        - [Dune Field Modulator](https://www.michaelang.com/project/dune-field-modulator)
-        - [Unnatural Language](https://www.michaelang.com/project/unnatural-language)
-        - [Lux Swarm](https://www.michaelang.com/project/lux-swarm)
-        - [Adafruit CircuitPython Wearables](https://learn.adafruit.com/search?q=circuitpython&categoriesLvl0=Wearables)
-        - [Adafruit CircuitPython Robotics](https://learn.adafruit.com/search?q=circuitpython&categoriesLvl0=Robotics%2520%2526%2520CNC)
+- [Environmental Art](https://desert.nyuadim.com/2021/10/27/environmental-art/)
+- [Performance Art and Installation](https://desert.nyuadim.com/2021/10/05/performance-art-in-the-desert/)
+- [Art Installations in the Desert](https://desert.nyuadim.com/2021/10/05/art-installations-in-the-desert/)
+- Project ideas
+    - Simple robot
+        - [Tutorial: Wheggo v.1 Workshop](https://desert.nyuadim.com/2022/03/11/tutorial-wheggo-v-1-workshop/)
+        - [Wheggo II Out in the Desert](https://desert.nyuadim.com/2021/12/12/wheggo-ii-out-in-the-desert/)
+    - [Dune Field Modulator](https://www.michaelang.com/project/dune-field-modulator)
+    - [Unnatural Language](https://www.michaelang.com/project/unnatural-language)
+    - [Lux Swarm](https://www.michaelang.com/project/lux-swarm)
+    - [Adafruit CircuitPython Wearables](https://learn.adafruit.com/search?q=circuitpython&categoriesLvl0=Wearables)
+    - [Adafruit CircuitPython Robotics](https://learn.adafruit.com/search?q=circuitpython&categoriesLvl0=Robotics%2520%2526%2520CNC)
 
 
 In-Class Work Session
