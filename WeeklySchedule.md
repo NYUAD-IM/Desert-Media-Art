@@ -7,11 +7,11 @@
 - [Week 3](#week-3) – Workshop: CircuitPython, Desert Ecology and Culture / Workshop: Motors, Sound, Light
 - [Week 4](#week-41) – Workshop: Sound, Motors – 2D Design for Laser Cutting / Workshop: 3D Printing
 - [Week 5](#week-51) – Workshop: Laser Cutting / Workshop: Sensors
-- [Week 6](#week-61) – Outdoor Interaction Design / Idea Lab
-- [Week 7](#week-71) – Idea Lab Presentations / Workshop: Sensors
+- [Week 6](#week-61) – Outdoor Interaction Design / Work session
+- [Week 7](#week-71) – Share midterm project / Idea Lab
 - FALL BREAK
 - [Week 8](WeeklySchedule2.md#week-81) – Project Proposal work session
-- [DESERT SITE VISIT](#desert-site-visit) – Sunday November 5
+- [DESERT SITE VISIT](#desert-site-visit) – Sunday October 26
 - [Week 9](WeeklySchedule2.md#week-91) – Project Proposal work session / Workshop: Sensors
 - [Week 10](WeeklySchedule2.md#week-101) – Project Proposal Presentations / Telling your story – Exhibition Installations - Work session
 - [Week 11](WeeklySchedule2.md#week-111) – Storyboard Presentations / Workshop: Project production
