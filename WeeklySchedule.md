@@ -570,9 +570,9 @@ In-Class Work Session
 
 ### Homework
 Due before start of next class
-
-- **Finish** Exercise 4 - Prototype Device
-    - Good idea to book your time on the laser cutter and 3D printers!
+- **Start** thinking about final project ideas
+- **Work** on your Rapid Prototype
+    - **Book** time on the machines that you need
 
 ## Week 7.1
 <!--
@@ -584,13 +584,8 @@ Due before start of next class
     - We will cut as many designs as are ready / possible
     - Other cuts to be booked through Connect2
 -->
+- Project work session
 
-- Idea Lab (postponed to Wednesday, time permitting)
-    - Opening remarks
-    - Share project ideas (come to front of class and share idea)
-    - Form groups
-    - Refine project ideas
-    - Update [Desert Media Art Project Spreadsheet](https://docs.google.com/spreadsheets/d/1iJNpbhqkyNb6HogYLb8mV5AxyQxO05a-2gKaVRbXwR4/edit?usp=sharing) (sign in with NYU account to edit)
 - Field scouting – [Abu Dhabi Desert Road](https://desert.nyuadim.com/2023/10/15/abu-dhabi-desert-road/)
 
 ### Homework – Week 7.1
@@ -607,11 +602,16 @@ Due before start of next class
 
 - Midterm Prototype presentations
 
+- Idea Lab
+    - Opening remarks
+    - Share project ideas (come to front of class and share idea)
+
 ### Homework – Week 7.2
 
 Due before start of next class
 
 - Think about your final project
+    - Start making groups
 - Spend time outside and look through the lens of Desert Media Art
 - Pay attention to how the light changes during the day and imagine your project at different times based on the sun
     - [Abu Dhabi Sunset and Sunrise Times](https://www.timeanddate.com/sun/united-arab-emirates/abu-dhabi)
