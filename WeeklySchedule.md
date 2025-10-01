@@ -548,19 +548,6 @@ Due before start of next class
     - [Servos](https://desert.nyuadim.com/2022/04/01/tutorial-for-moving-servo-on-m4-express/)
     - [DC motors](https://learn.adafruit.com/adafruit-stepper-dc-motor-featherwing/overview) - yellow hobby motor
     - [Sound](https://desert.nyuadim.com/2022/04/01/tutorial-for-sound-on-prop-maker-m4-express/)
-- Electronics in the Field
-    - Ruggedization
-    - Strain relief
-    - Enclosures
-    - Battery power
-    - Work Examples
-        - [City Refl3ctor](https://desert.nyuadim.com/wp-admin/undefined) – Michael Ang
-        - [Space Robots in the Desert](https://desert.nyuadim.com/2021/10/30/space-robots-in-the-desert/)
-        - [Unnatural Language](https://www.michaelang.com/project/unnatural-language)
-    - [Light-Up Costumes in Harsh Environments
- (Adafruit)](https://learn.adafruit.com/light-up-costumes-in-harsh-environments)
-        - Has good examples of waterproof soldered wires
-
 
 ## Week 6.2
 In-Class Work Session
