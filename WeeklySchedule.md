@@ -584,6 +584,12 @@ Due before start of next class
     - Other cuts to be booked through Connect2
 -->
 - Other topics TBD
+- Animal tracks in the desert
+    - [Animals of the Arabian desert - learn about animal tracks in the Dubai Desert Conservation Reserve
+ (YouTube](https://www.youtube.com/watch?v=tpcJ7jcCl9Q)
+    - [Animal Traces](https://enhg.org/bulletin/b15/15_22.htm)
+    - [Wildlife of the Arabian Desert](https://www.wilddocu.de/wildlife-of-the-arabian-desert/)
+
 - Project work session
   
 ### Homework – Week 7.1
