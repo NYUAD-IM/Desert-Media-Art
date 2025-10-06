@@ -8,7 +8,7 @@
 - [Week 4](#week-41) – Workshop: Sound, Motors – 2D Design for Laser Cutting / Workshop: 3D Printing
 - [Week 5](#week-51) – Workshop: Laser Cutting / Workshop: Sensors
 - [Week 6](#week-61) – Outdoor Interaction Design / Work session
-- [Week 7](#week-71) – Share midterm project / Idea Lab
+- [Week 7](#week-71) – Work session / Share midterm project + Idea Lab
 - FALL BREAK
 - [Week 8](WeeklySchedule2.md#week-81) – Project Proposal work session
 - [DESERT SITE VISIT](#desert-site-visit) – Sunday October 26
