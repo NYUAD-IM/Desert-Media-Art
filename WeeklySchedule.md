@@ -591,9 +591,8 @@ Due before start of next class
 Due before start of next class
 - **Finish** your individual prototype
 - **Post** your project documentation to Brightspace
-- **Be ready** to share your project in class
-    - Someone else will try your project
-    - We will give each other feedback
+- **Be ready** to show your prototype project in class
+- **Be ready** to share your final project idea in class
 ---
 
 ## Week 7.2
