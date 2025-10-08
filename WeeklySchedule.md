@@ -605,6 +605,21 @@ Due before start of next class
 
 - Midterm Prototype presentations
 
+General feedback
+- lead with concept
+- ask for help
+    - probably someone else has solved the same problem
+    - I can cover additional topics in class
+- wiring enable switch
+    - connect EN to GND to disable the power to the RP2040 and accessories but still have battery charger connected 
+    - [Power Management - ENable Pin](https://learn.adafruit.com/adafruit-rp2040-prop-maker-feather/power-management#enable-pin-31223880)
+- distance sensor
+    - can use this circuit [Ultrasonic Sonar Distance Sensors](https://learn.adafruit.com/ultrasonic-sonar-distance-sensors/python-circuitpython#step-3046479)
+- Neopixel wiring, color sequence
+    - [DMA RGBWW Neopixel tutorial](https://desert.nyuadim.com/2022/10/26/tutorial-rgbw-neopixels/)
+- audio format and volume
+    - [recommended settings for making MP3s](https://github.com/NYUAD-IM/Desert-Media-Art/blob/main/WeeklySchedule.md#week-52)
+
 - Idea Lab
     - Opening remarks
     - Share project ideas (come to front of class and share idea)
