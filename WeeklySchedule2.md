@@ -30,7 +30,7 @@ Note: Exact due dates for assignments and readings are indicated in Brightspace
 
 ## Week 8.1
 - Announcements
-    - Midterm grading in progress
+    - AI discussion
     - Desert Site Visit - this Sunday!
         - Site scouting - find the location for your installation
         - Recommended attendance
@@ -52,13 +52,13 @@ Note: Exact due dates for assignments and readings are indicated in Brightspace
         - [Filming in the Desert Tips](https://desert.nyuadim.com/2021/11/01/filming-in-the-desert-tips/)
             - Cameras / phones can overheat when filming in the sun
             - Getting proper exposure can be difficult - strong sunlight makes it easy to be overexposed
- 
-- Sensors introduction (time permitting)
-    - What do you want to sense?
- 
+  
 - Form final project groups
     - Refine project ideas
     - Update [Desert Media Art Project Spreadsheet](https://docs.google.com/spreadsheets/d/1iJNpbhqkyNb6HogYLb8mV5AxyQxO05a-2gKaVRbXwR4/edit?usp=sharing) (sign in with NYU account to edit)
+
+- Sensors
+    - What do you want to sense?
 
 
 ## Week 8.2
