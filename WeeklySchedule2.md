@@ -36,7 +36,7 @@ Note: Exact due dates for assignments and readings are indicated in Brightspace
         - Recommended attendance
         - Sign up at [DMA F2025 Field Trip Sign-up (Sheet)](https://docs.google.com/spreadsheets/d/1imRFU7NBYngs420RBw1VIBT79YkT-3d-Hn46mOPMQbc/edit?usp=sharing)
         - Trip details at [Desert Media Art Field Trips - Fall 2025 (Doc)](https://docs.google.com/document/d/1bEuE3UtrdrHOnXfWZGM35K8exFS7YfjfBcvRjt-y7Uw/edit?usp=sharing)
-        - Depart Welcome Center Sunday 1:30pm
+        - Depart Welcome Center Sunday 2:30pm
         - Return Welcome Center 8pm (latest)
         - Preparation
             - Dress for the weather
