@@ -12,7 +12,7 @@
 - FALL BREAK
 - [Week 8](#week-81) – Project Proposal work session
 - [DESERT SITE VISIT](#desert-site-visit) – Sunday October 26
-- [Week 9](#week-91) – Project Proposal work session / Workshop: Sensors
+- [Week 9](#week-91) – Project Proposal presentations / Telling your story, Ruggedization
 - [Week 10](#week-101) – Project Proposal Presentations / Telling your story – Exhibition Installations - Work session
 - [Week 11](#week-111) – Storyboard Presentations / Workshop: Project production
 - [Week 12](#week-121) – Work Session / Final work session - Preparation for Field Installation
@@ -59,6 +59,44 @@ Note: Exact due dates for assignments and readings are indicated in Brightspace
 
 - Sensors
     - What do you want to sense?
+ 
+### Project Proposal (details from syllabus)
+
+Create a 5-7 paragraph proposal for your project including the following points:
+
+-   Overview
+
+-   Concept
+
+-   Relationship to previous work (e.g. inspiration from other artworks)
+
+-   Sketch or image explaining the proposed work
+
+-   Planned technical implementation
+
+Post your project proposal to the class blog:
+
+-   The written project proposal and sketches (described above)
+
+-   Link to your presentation
+
+Present your proposal in class:
+
+-   5-7 minutes of explaining / pitching your project
+
+-   Use slides (and if you have a physical prototype you can show it)
+
+-   10 minutes of feedback with the class
+
+Rubric:
+
+-   Concept Development - 5 points
+
+-   Feasibility - 5 points
+
+-   Presentation - 5 points
+
+Total / 15 points = 10% of final grade
 
 
 ## Week 8.2
@@ -67,28 +105,6 @@ Note: Exact due dates for assignments and readings are indicated in Brightspace
   - Fill in [Desert Media Art Projects](https://docs.google.com/spreadsheets/d/1iJNpbhqkyNb6HogYLb8mV5AxyQxO05a-2gKaVRbXwR4/edit?usp=sharing) with Project Name, Group Members, Project Description, Inspiration, and Tech
   - What are you going to look for when we go to the desert?
 
-- Electronics in the Field
-    - Ruggedization
-    - Strain relief
-    - Enclosures
-    - Battery power
-    - Work Examples
-        - [City Refl3ctor](https://desert.nyuadim.com/wp-admin/undefined) – Michael Ang
-        - [Space Robots in the Desert](https://desert.nyuadim.com/2021/10/30/space-robots-in-the-desert/)
-        - [Unnatural Language](https://www.michaelang.com/project/unnatural-language)
-    - [Light-Up Costumes in Harsh Environments
- (Adafruit)](https://learn.adafruit.com/light-up-costumes-in-harsh-environments)
-        - Has good examples of waterproof soldered wires
-
-- **Workshop**: LEDs and Servos
-    - [Tutorial – NeoPixels with Prop-Maker FeatherWing](https://desert.nyuadim.com/2022/10/25/tutorial-neopixels-with-prop-maker-featherwing/)
-    - [Tutorial – RGBW NeoPixels](https://desert.nyuadim.com/2022/10/26/tutorial-rgbw-neopixels/) (the small NeoPixel bar we use in class is RGBW)
-    - [Tutorial for moving servo on M4 Express](https://desert.nyuadim.com/2022/04/01/tutorial-for-moving-servo-on-m4-express/)
-    - [Prop-Maker FeatherWing pinouts](https://learn.adafruit.com/adafruit-prop-maker-featherwing/pinouts)
-    - [Prop-Maker FeatherWing CircuitPython examples](https://learn.adafruit.com/adafruit-prop-maker-featherwing/circuitpython)
-    - [FancyLED library](https://learn.adafruit.com/fancyled-library-for-circuitpython?view=all)
-        - Advanced colour blending, etc
-    - [3W LED example (DMA GitHub)](https://github.com/NYUAD-IM/Desert-Media-Art/blob/main/Code/bigled.py)
 
 **3D Printing Resources**
 
@@ -119,7 +135,12 @@ Due before Sunday
 
 Due before start of next class
 
-- **Start working** on Project Final Proposal (due Week 9.2 - Wednesday November 8)
+- **Finish** your Project Final Proposal (due Monday October 27)
+    - Details in syllabus and above
+ 
+- **Post** your Project Final Proposal to the class blog (see Brightspace for login info)
+    - Use your group login
+    - Set featured image and "Fall 2025" category
 
 ---
 
@@ -147,31 +168,34 @@ Announcements
 - Setup and final presentations in Black Box on Monday December 9 during class
 
 - Field trip discussion
-    - [Gaia GPS](https://www.gaiagps.com/) - offline mapping
 
-- Project Proposal work session
-
-**Project-based Production topics**
-
-**3D Printing Resources**
-
-- [Tinkercad](https://www.tinkercad.com/)
-    - Online 3D design tool
-    - [Learning Tinkercad](https://www.tinkercad.com/learn/designs?collectionId=OSZ5W2BL1W5N51F)
-    - Tutorial example – [making a duffel button](https://www.tinkercad.com/learn/overview/OYGK7F8IYEQ4BP0?collectionId=OSZ5W2BL1W5N51F)
-    - [Getting Started with 3D Printing Using Tinkercad (Sparkfun)](https://learn.sparkfun.com/tutorials/getting-started-with-3d-printing-using-tinkercad/all)
-
-**Project Final Proposal Checkins**
-
-### Homework – Week 9.1
-- **Work on** your Project Proposal and presentation (due Monday Nov 4)
-
+- Project Proposal presentations
 
 ## Week 9.2
-- Blog posts
-  - Set featured image and "Fall 2024" category
     
-- Project Proposal checkins
+- Electronics in the Field
+    - Ruggedization
+    - Strain relief
+    - Enclosures
+    - Battery power
+    - Work Examples
+        - [City Refl3ctor](https://desert.nyuadim.com/wp-admin/undefined) – Michael Ang
+        - [Space Robots in the Desert](https://desert.nyuadim.com/2021/10/30/space-robots-in-the-desert/)
+        - [Unnatural Language](https://www.michaelang.com/project/unnatural-language)
+    - [Light-Up Costumes in Harsh Environments
+ (Adafruit)](https://learn.adafruit.com/light-up-costumes-in-harsh-environments)
+        - Has good examples of waterproof soldered wires
+
+- **Workshop**: LEDs and Servos
+    - [Tutorial – NeoPixels with Prop-Maker FeatherWing](https://desert.nyuadim.com/2022/10/25/tutorial-neopixels-with-prop-maker-featherwing/)
+    - [Tutorial – RGBW NeoPixels](https://desert.nyuadim.com/2022/10/26/tutorial-rgbw-neopixels/) (the small NeoPixel bar we use in class is RGBW)
+    - [Tutorial for moving servo on M4 Express](https://desert.nyuadim.com/2022/04/01/tutorial-for-moving-servo-on-m4-express/)
+    - [Prop-Maker FeatherWing pinouts](https://learn.adafruit.com/adafruit-prop-maker-featherwing/pinouts)
+    - [Prop-Maker FeatherWing CircuitPython examples](https://learn.adafruit.com/adafruit-prop-maker-featherwing/circuitpython)
+    - [FancyLED library](https://learn.adafruit.com/fancyled-library-for-circuitpython?view=all)
+        - Advanced colour blending, etc
+    - [3W LED example (DMA GitHub)](https://github.com/NYUAD-IM/Desert-Media-Art/blob/main/Code/bigled.py)
+
 
 - Workshop: Sensors and Project-based topics
     
@@ -226,32 +250,11 @@ Announcements
 ### Homework – Week 9.2
 
 Due before start of next class
-
-- **Finish** your Project Proposal post and presentation
-
-- **Prepare** an 8 minute presentation of your idea
-    
-    - Overview of your concept
-    - Relationship to previous work (e.g. inspiration from other artworks)
-    - Sketch or image explaining the proposed work
-    - Explanation of the interaction
-    - Planned technical implementation
-    - Conclusion / what you hope to achieve
-    - Example project proposal presentation – [(We Are) Lightcatchers (pdf)](https://desert.nyuadim.com/wp-content/uploads/2022/10/Light-Catchers-Presented-at-Prototyping-Lab.key.pdf)
-- **Post** your Project Proposal to the class blog – one post per group (due before next class)
-    - See [Syllabus->Project Proposal](https://desert.nyuadim.com/syllabus/) for details of expectations / grading
-    - Link to your proposal presentation (link must be publicly accessible to be considered submitted)
-<!--
-    - 1-2 paragraphs project implementation plan
-        - How you will complete the project
-        - What tech you still need to implement, fabrication techniques
-            - e.g. what sensors you will use, 3D printing, etc
--->
+- TBD
 
 ---
 
 ## Week 10.1
-- Project proposal presentations
 
 - **Workshop** Project Production
 - Work on projects in lab
