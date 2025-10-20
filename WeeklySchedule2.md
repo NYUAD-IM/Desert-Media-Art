@@ -145,9 +145,8 @@ For full details see [Desert Media Art 2024 - Field Trips (Doc)](https://docs.go
 ## Week 9.1
 Announcements
 - IM End of Semester Showcase
-    - Tuesday 10 December (last day of classes) 5:00 - 8:00 pm (performances 7:00 - 8:00)
-- Setup in Black Box on Monday 9 December, time TBD
-- Desert Media Art will be showcased in [Dubai Design Week](https://www.dubaidesignweek.ae/) in Atrium 7
+    - Tuesday December 9
+- Setup and final presentations in Black Box on Monday December 9 during class
 
 - Field trip discussion
     - [Gaia GPS](https://www.gaiagps.com/) - offline mapping
