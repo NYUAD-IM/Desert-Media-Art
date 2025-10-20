@@ -135,9 +135,7 @@ Back to campus 8pm (latest)
 
 For full details see [Desert Media Art 2024 - Field Trips (Doc)](https://docs.google.com/document/d/16QtXjvqj1A35x5loTsNKnWrLmUPk_LgMrLdogXFFjx4/edit?usp=sharing)
 
-- Bring water
-- Bring lunch!
-- Dress for the sun (hat, sunscreen)
+- Dress for the sun (hat, sunscreen, consider long sleeves to keep the sun off)
 - Closed toed shoes may be better for hot sand
 
 ---
