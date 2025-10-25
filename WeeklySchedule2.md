@@ -46,6 +46,7 @@ Note: Exact due dates for assignments and readings are indicated in Brightspace
             - Water bottle
             - Can bring an initial prototype
             - Can bring camera for test shooting
+            - May want a sweater to wear on the bus (air conditioning)
         - What are factors affecting the local ecology?
         - What plants and animals are living in the area?
         - Take some reference photos to use while developing your installation
