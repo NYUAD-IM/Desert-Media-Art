@@ -220,10 +220,14 @@ Telling your story / Documenting your work / Exhibition Installation
 
 - Exhibition Installations
 
+- Work on storyboard and implementation plan
+
 - Project check-ins
     - What's your story?
     - What's your technical implementation
-- Work on storyboard and implementation plan
+        - Any sensors to choose?
+        - Any materials to order?
+        - General problems to resolve?
 
 ### Storyboard Assignment
 - Same information as in [Syllabus](https://desert.nyuadim.com/syllabus/)
@@ -325,41 +329,30 @@ Due before start of next class
 - Your storyboard will be presented by another group and then you will receive and respond to feedback
   - Usual format of 5-7 minutes presentation with 5-10 minutes of feedback
 
+
+### Homework – Week 10.1
+
+- **Work** on your Project Production
+
+## Week 10.2
 - **Workshop** Project Production
 - Work on projects in lab
 - Consult on any problem areas
 
 - References
   - [Sensor Plotting with Mu and CircuitPython](https://learn.adafruit.com/sensor-plotting-with-mu-and-circuitpython/capacitive-touch) - see raw touch sensor values
-  - [Prop-maker Featherwing Pinouts](https://learn.adafruit.com/adafruit-prop-maker-featherwing/pinouts)
-    - Note: A0 is used for audio amplifier
-
-### Homework – Week 10.1
-
-- **Work** on your Rapid Prototyping design
-
-## Week 10.2
 
 
 ### Homework – Week 10.2
 
 Due before start of next class
-- **Finish** your Storyboard - details in [syllabus](https://desert.nyuadim.com/syllabus/)
-- **Post** your storyboard on the blog 
+- **Post** a progress update to your blog
+  - What work have you done?
+  - What technical problems are still in progress?
   
 ---
 
 ## Week 11.1
-- Desert Media Art at Dubai Design Week
-    - [Desert Media Art (Dubai Design Week)](https://www.dubaidesignweek.ae/programme/2024-programme/desert-media-art/)
-    - [NYUAD Participates in Dubai Design Week (NYUAD)](https://nyuad.nyu.edu/en/news/latest-news/arts-and-culture/2024/november/nyuad-artwork-featured-ddw.html)
-    - [Al Etihad Newspaper (Arabic)](https://www.aletihad.ae/news/%D8%AF%D9%86%D9%8A%D8%A7/4527048/%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D9%86%D9%8A%D9%88%D9%8A%D9%88%D8%B1%D9%83-%D8%A3%D8%A8%D9%88%D8%B8%D8%A8%D9%8A-%D8%AA%D8%B4%D8%A7%D8%B1%D9%83-%D9%81%D9%8A--%D8%AF%D8%A8%D9%8A-%D9%84%D9%84%D8%AA%D8%B5%D9%85%D9%8A%D9%85)
-
-- Storyboard presentations
-    - Another group will present your storyboard
-    - 5-7 minutes of feedback
- 
-- Collect project material requests
 - IM End of Semester Show overview
     - Timeline below at [IM Show](#im-show) 
     - Each group needs to make an installation
@@ -379,28 +372,14 @@ Due before start of next class
 
 Due before start of next class
 
-- **Post** an update with your project status to the class blog
-  - Current state of your project
-    - Details of technical design
-  - Description of interaction
-  - Remaining technical challenges to overcome
+**Keep working** :)
 
 ---
 
 ## Week 12.1
-- Announcements
-    - Who attended tool training during the Intro to IM session?
-    - Update blog posts with featured image
-        - Edit post -> Set featured image 
 - Collect requirements for IM Show installations
-    - 1 sandbox and 1 sand table available
 
 - Materials
-    - 4kg clear PETG
-    - Fabric
-    - Rotating bearings
-    - "Giant" servo
-    - What else is needed?
 
 - Project check-in
   - 3D prints?
@@ -420,16 +399,7 @@ Due before start of next class
 Due before start of next class
 
 - **Keep working** on your project
-- **Book** time on laser cutter, 3D printers
-<!--
-- **Post** your prototype status to the class blog
-    
-    - Photos / video of the prototype
-    - Technical explanation of how it works (e.g. code, 3D designs, schematics)
-    
-    - What you hope to achieve in the desert
--->
-- **Be ready** to show your prototype in class
+- **Book** time on laser cutter, 3D printers if needed
 - **Get ready** for the field installation!
 
 ## Week 12.2
@@ -454,23 +424,43 @@ Due before start of next class
 
 # Field Installation
 
-## Sunday November 24
+## Sunday November 23
 
 ## Depart Welcome Center 1:30pm – Return 9:30pm (latest)
 
 Students will go to a “raw” (uninhabited) dune location and make a temporary installation of their class projects. The students will have approximately 2 hours to work on site before sunset, and 1 hour after sunset. We’ll depart from campus in a bus that will park by the side of the road at the location and be our “base station” as we work in the dunes. In terms of logistics it’s similar to going out for a short film shoot in the desert.
 
-For full details see [DMA Field Trips Doc](https://docs.google.com/document/d/16QtXjvqj1A35x5loTsNKnWrLmUPk_LgMrLdogXFFjx4/edit?usp=sharing)
+For full details see [DMA Field Trips Doc](https://docs.google.com/document/d/1bEuE3UtrdrHOnXfWZGM35K8exFS7YfjfBcvRjt-y7Uw/edit?usp=drive_link)
 
 ---
 
 ## Week 13.1
-- NO CLASS - Rest day after field installation
+- Asynchronous / NO class in lab - Rest day after field installation
+- **Note:** homework for Wednesday!
+
+### Project Production Documentation
+Document your project production on the class blog. Include the following:
+
+-   2-3 paragraphs explaining the technical aspects of how your project works
+-   What are the inputs (e.g. sensors) and outputs?
+-   How does the interaction work?
+-   Your source code included in the page or as a link to your code on GitHub
+-   Links to your 2D and 3D designs
+-   2-3 pictures that show technical details of your project
+-   Your written content must be included in the post (e.g. no links to Google Docs)
+
+Rubric:
+-   Code quality - 10 points
+-   Design and Fabrication - 10 points
+-   Interaction Design - 10 points
+
+Total / 30 points = 15% of final grade
 
 ### Homework – Week 13.1
 
 Due before start of next class
-- Think about IM Show installation - will need to create a sketch / floor plan in next class
+- **Post** your Project Production documentation to the class blog
+- Think about IM Show installation - you will need to create a sketch / floor plan in next class
  
 ## Week 13.2
 - Field Work Debrief
