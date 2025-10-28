@@ -176,6 +176,7 @@ Announcements
     - Project production finished - Friday Nov 21
     - Field Installation - Sunday Nov 23
         - On-site filming
+    - Project Production blog post (technical details) - Wednesday Nov 26
     - Project Video - Monday Dec 1
     - Project Web Page (without installation photos) - Monday Dec 1
     - IM Show installation setup - Monday Dec 8
@@ -222,6 +223,29 @@ Telling your story / Documenting your work / Exhibition Installation
     - What's your story?
     - What's your technical implementation
 - Work on storyboard and implementation plan
+
+### Storyboard Assignment
+- Same information as in [Syllabus](https://desert.nyuadim.com/syllabus/)
+
+Create a storyboard for your documentation video. The storyboard should tell the story of your project and how the interaction works. The storyboard should include the opening title and closing credits.
+
+The storyboard must:
+-   Show the script of your video in a sequence of panels
+-   Show the interaction of your project with the environment / participants
+-   Show the context of your project (location / environment)
+-   Allow the class to understand your project from the storyboard alone
+
+Post your storyboard as a link to a PDF to the class blog.
+
+Present your storyboard in class:
+-   5-7 minutes going through storyboard - presented by another group using only the storyboard
+-   10 minutes of feedback with class
+
+Rubric:
+-   Concept / Story - 10 points
+-   Communication - 10 points
+
+Total / 20 points = 5% of final grade
 
 
 ### Additional technical resources ###
