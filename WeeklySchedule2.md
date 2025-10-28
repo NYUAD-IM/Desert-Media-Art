@@ -214,6 +214,7 @@ Telling your story / Documenting your work / Exhibition Installation
 - Documenting your work
 - [How to Make a Storyboard for Video](https://photography.tutsplus.com/tutorials/how-to-make-a-storyboard-for-video--cms-26374)
 - [Storyboarding](https://owenroberts.github.io/commlab/video-storyboards.html)
+- [Jurassic Park Storyboards](https://www.jurassicworlduniverse.com/jurassic-park/images/storyboards/)
 - [Filming in the Desert Tips](https://desert.nyuadim.com/2021/11/01/filming-in-the-desert-tips/)
 - Protecting video equipment from sand
 - Introduction to Storyboard Assignment
