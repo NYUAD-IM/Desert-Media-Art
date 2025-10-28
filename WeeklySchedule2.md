@@ -163,31 +163,70 @@ For full details see [Desert Media Art 2024 - Field Trips (Doc)](https://docs.go
 ---
 
 ## Week 9.1
-Announcements
-- IM End of Semester Showcase
-    - Tuesday December 9
-- Setup and final presentations in Black Box on Monday December 9 during class
-
 - Field trip discussion
 
 - Project Proposal presentations
 
 ## Week 9.2
-    
-- Electronics in the Field
-    - Ruggedization
-    - Strain relief
-    - Enclosures
-    - Battery power
-    - Work Examples
-        - [City Refl3ctor](https://desert.nyuadim.com/wp-admin/undefined) – Michael Ang
-        - [Space Robots in the Desert](https://desert.nyuadim.com/2021/10/30/space-robots-in-the-desert/)
-        - [Unnatural Language](https://www.michaelang.com/project/unnatural-language)
-    - [Light-Up Costumes in Harsh Environments
- (Adafruit)](https://learn.adafruit.com/light-up-costumes-in-harsh-environments)
-        - Has good examples of waterproof soldered wires
+Announcements
+- Upcoming due dates
+    - Storyboard - Monday Nov 3
+    - Project status blog post - Monday Nov 10
+    - Project production "90% done" / feature freeze (recommended) - Wednesday Nov 18
+    - Project production finished - Friday Nov 21
+    - Field Installation - Sunday Nov 23
+        - On-site filming
+    - Project Video - Monday Dec 1
+    - Project Web Page (without installation photos) - Monday Dec 1
+    - IM Show installation setup - Monday Dec 8
+    - Final installation / IM End of Semester Show - Tuesday Dec 9
+    - Project Web Page (updated with installation photos) - Friday Dec 12 (no extension possible)
 
-- **Workshop**: LEDs and Servos
+- IM End of Semester Showcase
+    - Tuesday December 9
+- Setup and final presentations in Black Box on Monday December 9 during class
+
+Electronics in the Field
+- Ruggedization
+- Strain relief
+- Enclosures
+- Battery power
+    - [Adafruit RP2040 Prop-Maker Feather -> Power Management](https://learn.adafruit.com/adafruit-rp2040-prop-maker-feather/power-management)
+    - Easiest is to use a USB power bank, but test to make sure it doesn't automatically power off
+    - Can use LiPo battery for portable / wearable devices
+        - [Li-Ion & LiPoly Batteries (Adafruit)](https://learn.adafruit.com/li-ion-and-lipoly-batteries/overview)
+        - LiPo batteries can be a fire hazard, make sure not to damage them or over-charge!
+        - In case of fire in lab use security phone and exit the lab
+        - [Wire a toggle switch between the RP2040 ENable pin and ground](https://learn.adafruit.com/adafruit-rp2040-prop-maker-feather/power-management#enable-pin-3122388)
+            - When EN is connected to ground the RP2040 power is disabled but the battery charger is still active and can charge the battery from USB
+- Work Examples
+    - [City Refl3ctor](https://desert.nyuadim.com/wp-admin/undefined) – Michael Ang
+    - [Space Robots in the Desert](https://desert.nyuadim.com/2021/10/30/space-robots-in-the-desert/)
+    - [Unnatural Language](https://www.michaelang.com/project/unnatural-language)
+- [Light-Up Costumes in Harsh Environments
+(Adafruit)](https://learn.adafruit.com/light-up-costumes-in-harsh-environments)
+    - Has good examples of waterproof soldered wires
+
+
+Telling your story / Documenting your work / Exhibition Installation
+
+- Documenting your work
+- [How to Make a Storyboard for Video](https://photography.tutsplus.com/tutorials/how-to-make-a-storyboard-for-video--cms-26374)
+- [Filming in the Desert Tips](https://desert.nyuadim.com/2021/11/01/filming-in-the-desert-tips/)
+- Protecting video equipment from sand
+- Introduction to Storyboard Assignment
+
+- Exhibition Installations
+
+- Project check-ins
+    - What's your story?
+    - What's your technical implementation
+- Work on storyboard and implementation plan
+
+
+### Additional technical resources ###
+
+- LEDs and Servos
     - [Tutorial – NeoPixels with Prop-Maker FeatherWing](https://desert.nyuadim.com/2022/10/25/tutorial-neopixels-with-prop-maker-featherwing/)
     - [Tutorial – RGBW NeoPixels](https://desert.nyuadim.com/2022/10/26/tutorial-rgbw-neopixels/) (the small NeoPixel bar we use in class is RGBW)
     - [Tutorial for moving servo on M4 Express](https://desert.nyuadim.com/2022/04/01/tutorial-for-moving-servo-on-m4-express/)
@@ -197,8 +236,7 @@ Announcements
         - Advanced colour blending, etc
     - [3W LED example (DMA GitHub)](https://github.com/NYUAD-IM/Desert-Media-Art/blob/main/Code/bigled.py)
 
-- Workshop: Sensors and Project-based topics
-    
+- Sensors    
     - Check EC2 booking system for sensors
         - [Equipment / Laser Cutter Booking](https://nyuad-artsbooking.nyu.edu/) (NYU Network/VPN Required)
             - e.g have IR range sensor available
@@ -219,11 +257,11 @@ Announcements
           - [Time of Flight sensor example code (DMA GitHub)](https://github.com/NYUAD-IM/Desert-Media-Art/blob/main/Code/tof_distance.py)
 
 
-
     - Potentiometers (typically used for user input - not usually considered a environmental sensor)
         - [What is a potentiometer?](https://www.electrical4u.com/potentiometer/)
         - [Read potentiometer from CircuitPython](https://learn.adafruit.com/make-it-change-potentiometers/circuitpython)
-    - [M4 Express Feather Pinouts](https://learn.adafruit.com/adafruit-feather-m4-express-atsamd51/pinouts)
+    - [RP2040 Prop-Maker Feather -> Pinout -> Analog Pins](https://learn.adafruit.com/adafruit-rp2040-prop-maker-feather/pinouts#analog-pins-3147625)
+        - Shows which pins can be used to read analog voltages
     - [CircuitPython Command REPL](https://learn.adafruit.com/welcome-to-circuitpython/the-repl)
         - Stop program with Command-C (sometimes)
     
@@ -251,11 +289,16 @@ Announcements
 ### Homework – Week 9.2
 
 Due before start of next class
-- TBD
+- **Finish** your Storyboard
+- **Post** your Storyboard documentation to the class blog
+- Your storyboard will be presented by a **different** group - make sure the story is clear to someone else from the storyboard alone
 
 ---
 
 ## Week 10.1
+- Storyboard presentations and feedback
+- Your storyboard will be presented by another group and then you will receive and respond to feedback
+  - Usual format of 5-7 minutes presentation with 5-10 minutes of feedback
 
 - **Workshop** Project Production
 - Work on projects in lab
@@ -271,33 +314,6 @@ Due before start of next class
 - **Work** on your Rapid Prototyping design
 
 ## Week 10.2
-Announcements
-- Upcoming due dates
-    - Project Storyboard - Monday Nov 11
-    - Project status blog post - Monday Nov 18
-    - Sunday Nov 24 Field Installation
-        - Rapid Prototype (project production)
-        - Project on-site filming
-    - Project Video - Wednesday Dec 4 (after National Day break)
-    - Project Web Page (without installation photos) - Monday Dec 9
-    - IM End of Semester Show - Tuesday Dec 10
-        - Project Installation
-    - Project Web Page (updated with installation photos) - Friday Dec 13 (no extension possible)
-
-Telling your story / Documenting your work / Exhibition Installation
-
-- Documenting your work
-- [How to Make a Storyboard for Video](https://photography.tutsplus.com/tutorials/how-to-make-a-storyboard-for-video--cms-26374)
-- [Filming in the Desert Tips](https://desert.nyuadim.com/2021/11/01/filming-in-the-desert-tips/)
-- Protecting video equipment from sand
-- Introduction to Storyboard Assignment
-
-- Exhibition Installations
-
-- Project check-ins
-    - What's your story?
-    - What's your technical implementation
-- Work on storyboard and implementation plan
 
 
 ### Homework – Week 10.2
