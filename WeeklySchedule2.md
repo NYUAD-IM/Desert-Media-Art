@@ -377,7 +377,10 @@ Due before start of next class
 ---
 
 ## Week 12.1
-- Collect requirements for IM Show installations
+- Prepare for Final Installation
+    - Create installation sketch / floor plan
+    - Space allocation
+    - Logistics / equipment organization
 
 - Materials
 
@@ -470,14 +473,10 @@ Due before start of next class
 
 - Documentation Video check-in
 - Final Installation check-in
-- Prepare for Final Installation
-    - Create installation sketch / floor plan
-    - Space allocation
-    - Final logistics / equipment organization
 
 ### Homework – Week 13.2
 
-Due today (Nov 27)
+Due today (Nov 26)
 
 - **Plan** on your Final Installation
   - **Make sketches**  of the installation
@@ -488,53 +487,46 @@ Due today (Nov 27)
     - Book equipment in Connect2
     - Coordinate with Scene Shop if you want to build a sandbox there
 
-Due by end of day Thursday Nov 28
 - Update [Project Spreadsheet](https://docs.google.com/spreadsheets/d/1iJNpbhqkyNb6HogYLb8mV5AxyQxO05a-2gKaVRbXwR4/edit?usp=sharing) with final project name
    
-Due before next class (Wednesday Dec 4)
+Due before next class (Monday Dec 1)
 - **Finish** your Documentation Video
-    - **Post** your documentation video to the blog (embed from YouTube, Vimeo, etc)
 - **Finish** the webpage for your project on the class Wordpress
     - Written for someone seeing the project for the first time
     - Edit the specific _page_ for your project
         - Wordpress -> Pages -> Edit page
     - Embed your project video
     - See existing projects for examples
-- **Prepare** to present your project to the class (10-15 minutes)
+- **Prepare** to present your project web page and video in class (Dec 1)
+- **Plan** for setting up your project in the Black Box (Dec 8)
+  - Make any last arrangements for equipment, etc.
 ---
 
 ## Week 14.1
-- National Day Holiday - NO CLASS
-
-### Homework – Week 14.1
-
-Due before start of next class
-- Complete the homework above for week 13.2 (previous class)
-
-
-## Week 14.2
-
 - Final Presentations / DMA Film Festival
 - Each group will present their project by giving a short “artist’s talk” / walkthrough of the project, project video, and installation
 - Review project web pages
 - Preparation for IM End of Semester Show
 - Course review
-    - Please complete [DMA Course Feedback Questionnaire](https://go.blueja.io/qaj2tzCuV0WV-xHLGFJhxA)
+    - Please complete [DMA Course Feedback Questionnaire]()
 
-### Homework – Week 14.2
+### Homework – Week 14.1
 
-- **Prepare** to setup your project on Monday in the Black Box
-- **Have** _everything_ ready to install at the Black Box at 12:45pm on Monday
-    - We only have 75 minutes to install
+Due before start of next class
+- Make sure everything is ready for setup in the Black Box on Monday after the holiday
+
+
+## Week 14.2
+- National Day Holiday - NO CLASS
 
 ---
-## Week 15
-- **Monday Dec 9**
+## Week 15.1
+- **Monday Dec 9** 12:45pm - 3:25pm (long class)
 - Set up for IM Show
     - Bring all your equipment etc to the Black Box for 12:45pm sharp
-    - Set up until 2pm
+    - Set up until 2:30pm then run through installations
 
-### Homework - Week 15
+### Homework - Week 15.1
 - **Complete** your installation setup
 - **Have** your installation up and running by Tuesday 4:30pm (show opens at 5pm)
 - **Be ready** to give a short (5-8 minute) tour of your installation
@@ -542,17 +534,13 @@ Due before start of next class
 - **Take** installation photos / video of your installation during the show
 - **Update** your project web page with two photos of your installation during the show
 
-## IM Show
-
-Setup Monday Dec 9 during class
-- Set up your installation in the Black Box
-
+## Week 15.2 IM Show
 Tuesday December 10, 5-8pm
 
 - **Exhibit** your project in the IM End of Semester Show
 - **Take** photos / video of your installation in the show
 - **Deinstall** your work at end of show
-- **Update** your blog post with the documentation of your installation (due end of day Friday, Dec 13 - no extension possible)
+- **Update** your blog post with the documentation of your installation (due end of day Friday, Dec 12 - no extension possible)
 
 - Your installation must be **up and running at 4:30pm** - this counts towards your grade for the final installation
 - Exhibition is open from 5-7pm - you must have someone present from your group at all times
