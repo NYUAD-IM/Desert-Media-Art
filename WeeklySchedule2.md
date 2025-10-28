@@ -20,7 +20,7 @@
 - [Week 13](#week-131) – Field work debrief, Video work session
 - [Week 14](#week-141) – National Day Holiday / DMA Film Festival, Project web pages, Course Review
 - [Week 15 (12/9)](#week-15) - End of Semester Show installation
-- [IM SHOW](#im-show) – Show Final Installation / Update installation documentation
+- [IM SHOW (12/10)](#im-show) – Show Final Installation / Update installation documentation
 
 Note: Exact due dates for assignments and readings are indicated in Brightspace
 
