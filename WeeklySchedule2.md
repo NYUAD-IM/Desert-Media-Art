@@ -197,7 +197,6 @@ Announcements
         - Advanced colour blending, etc
     - [3W LED example (DMA GitHub)](https://github.com/NYUAD-IM/Desert-Media-Art/blob/main/Code/bigled.py)
 
-
 - Workshop: Sensors and Project-based topics
     
     - Check EC2 booking system for sensors
@@ -217,6 +216,7 @@ Announcements
             - Connect output to an analog pin and read with pin.value ([example code](https://learn.adafruit.com/circuitpython-essentials/circuitpython-analog-in))
         - Digital infrared distance sensors
           - [Adafruit VL53L1X Time of Flight Distance Sensor – ~30 to 4000mm](https://www.adafruit.com/product/3967) – laser distance sensor
+          - [Time of Flight sensor example code (DMA GitHub)](https://github.com/NYUAD-IM/Desert-Media-Art/blob/main/Code/tof_distance.py)
 
 
 
