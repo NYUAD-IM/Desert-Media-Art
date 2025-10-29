@@ -256,7 +256,10 @@ Total / 20 points = 5% of final grade
 
 ### Additional technical resources ###
 
+- [FeatherWing Doubler](https://www.adafruit.com/product/2890)
+
 - LEDs and Servos
+    - [NeoPixel Überguide (Adafruit)](https://learn.adafruit.com/adafruit-neopixel-uberguide/the-magic-of-neopixels) 
     - [Tutorial – NeoPixels with Prop-Maker FeatherWing](https://desert.nyuadim.com/2022/10/25/tutorial-neopixels-with-prop-maker-featherwing/)
     - [Tutorial – RGBW NeoPixels](https://desert.nyuadim.com/2022/10/26/tutorial-rgbw-neopixels/) (the small NeoPixel bar we use in class is RGBW)
     - [Tutorial for moving servo on M4 Express](https://desert.nyuadim.com/2022/04/01/tutorial-for-moving-servo-on-m4-express/)
