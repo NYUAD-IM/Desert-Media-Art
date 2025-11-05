@@ -339,6 +339,28 @@ Due before start of next class
 - **Work** on your Project Production
 
 ## Week 10.2
+- NeoPixels
+    - [NeoPixel Überguide (Adafruit)](https://learn.adafruit.com/adafruit-neopixel-uberguide/the-magic-of-neopixels)
+    - [Powering NeoPixels](https://learn.adafruit.com/adafruit-neopixel-uberguide/powering-neopixels)
+    - [RP2040 Prop-Maker Power Management](https://learn.adafruit.com/adafruit-rp2040-prop-maker-feather/power-management)
+      - The USB 5V or battery power is applied to the external screw terminal if you enable the power
+    - [Circuit diagram | Halo Sword](https://learn.adafruit.com/halo-energy-sword-rp2040/circuit-diagram)
+        - Shows how to connect NeoPixels powered by a direct LiPo battery
+        - Make sure to wire the enable switch so you can switch off the power!
+        
+- Power considerations
+    - [Watts vs Volts](https://au.rs-online.com/web/content/discovery/ideas-and-advice/difference-watts-vs-volts-guide)
+    - Watt-hours is a measure of total energy
+    - NeoPixels typically run at 5V
+    - Each NeoPixel takes ~60mA at full brightness (RGB)
+      - = .3W
+      - So 1 meter of 30 LED/m NeoPixels could take 9.0W (max brightness)
+    - A normal 5V USB-A port can supply up to 2A (5V x 2A = 10W)
+    - So from a USB power bank you could power ~2m of 30led/m NeoPixels at 50% brightness
+    - A normal PCB can take ~1A max
+        - For >1m (30 LEDs) you should connect power more directly to strip
+    - For the RP2040 Prop-Maker 2A is probably ok (designed to power NeoPixels)
+   
 - **Workshop** Project Production
 - Work on projects in lab
 - Consult on any problem areas
