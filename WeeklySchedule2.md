@@ -356,6 +356,7 @@ Due before start of next class
       - = .3W
       - So 1 meter of 30 LED/m NeoPixels could take 9.0W (max brightness)
     - A normal 5V USB-A port can supply up to 2A (5V x 2A = 10W)
+        - ~30 pixels at full brightness 
     - So from a USB power bank you could power ~2m of 30led/m NeoPixels at 50% brightness
     - A normal PCB can take ~1A max
         - For >1m (30 LEDs) you should connect power more directly to strip
