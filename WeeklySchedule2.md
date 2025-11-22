@@ -490,7 +490,7 @@ Total / 30 points = 15% of final grade
 
 Due before start of next class
 - **Post** your Project Production documentation to the class blog
-- Think about IM Show installation - you will need to create a sketch / floor plan in next class
+- Think about your IM Show installation - you will need to create a sketch / floor plan in next class
  
 ## Week 13.2
 - Field Work Debrief
@@ -517,6 +517,17 @@ Due today (Nov 26)
 - Update [Project Spreadsheet](https://docs.google.com/spreadsheets/d/1iJNpbhqkyNb6HogYLb8mV5AxyQxO05a-2gKaVRbXwR4/edit?usp=sharing) with final project name
    
 Due before next class (Monday Dec 1)
+- **Book** any required equipment for your final installation using Connect2
+- **Plan** for setting up your project in the Black Box (Dec 8)
+  - Make any last arrangements for equipment, etc.
+---
+
+## Week 14.1
+- Final installation and video preparation
+
+### Homework – Week 14.1
+
+Due before start of next class
 - **Finish** your Documentation Video
 - **Finish** the webpage for your project on the class Wordpress
     - Written for someone seeing the project for the first time
@@ -525,11 +536,9 @@ Due before next class (Monday Dec 1)
     - Embed your project video
     - See existing projects for examples
 - **Prepare** to present your project web page and video in class (Dec 1)
-- **Plan** for setting up your project in the Black Box (Dec 8)
-  - Make any last arrangements for equipment, etc.
----
+- **Make** sure everything is ready for setup in the Black Box on Monday
 
-## Week 14.1
+## Week 14.2
 - Final Presentations / DMA Film Festival
 - Each group will present their project by giving a short “artist’s talk” / walkthrough of the project, project video, and installation
 - Review project web pages
@@ -537,21 +546,13 @@ Due before next class (Monday Dec 1)
 - Course review
     - Please complete [DMA Course Feedback Questionnaire]()
 
-### Homework – Week 14.1
-
-Due before start of next class
-- Make sure everything is ready for setup in the Black Box on Monday after the holiday
-
-
-## Week 14.2
-- National Day Holiday - NO CLASS
 
 ---
 ## Week 15.1
-- **Monday Dec 9** 12:45pm - 3:25pm (long class)
+- **Monday Dec 9** 12:45pm - 2:00pm
 - Set up for IM Show
     - Bring all your equipment etc to the Black Box for 12:45pm sharp
-    - Set up until 2:30pm then run through installations
+    - Set up until 2:00pm
 
 ### Homework - Week 15.1
 - **Complete** your installation setup
