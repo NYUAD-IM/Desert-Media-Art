@@ -549,7 +549,7 @@ Due before start of next class
 
 ---
 ## Week 15.1
-- **Monday Dec 9** 12:45pm - 2:00pm
+- **Monday Dec 9** 12:45pm - 2:00pm - **Meet in the Black Box with all your gear**
 - Set up for IM Show
     - Bring all your equipment etc to the Black Box for 12:45pm sharp
     - Set up until 2:00pm
