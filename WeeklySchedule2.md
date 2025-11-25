@@ -495,7 +495,7 @@ Due before start of next class
 ## Week 13.2
 - Field Work Debrief
 - Discussion on presenting Desert Media Art indoors
-- Final project names
+- Final project names in [Project Spreadsheet](https://docs.google.com/spreadsheets/d/1iJNpbhqkyNb6HogYLb8mV5AxyQxO05a-2gKaVRbXwR4/edit?usp=sharing)
 - IM Show installations
     - Plan final installation
     - Make final installation floor plan
