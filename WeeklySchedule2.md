@@ -495,11 +495,12 @@ Due before start of next class
 ## Week 13.2
 - Field Work Debrief
 - Discussion on presenting Desert Media Art indoors
-- Final Project check-in
 - Final project names
-
+- IM Show installations
+    - Plan final installation
+    - Make final installation floor plan
+ 
 - Documentation Video check-in
-- Final Installation check-in
 
 ### Homework – Week 13.2
 
