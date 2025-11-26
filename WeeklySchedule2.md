@@ -564,7 +564,7 @@ Due before start of next class
 - **Update** your project web page with two photos of your installation during the show
 
 ## Week 15.2 IM Show
-Tuesday December 10, 5-8pm
+Tuesday December 9, 5-8pm
 
 - **Exhibit** your project in the IM End of Semester Show
 - **Take** photos / video of your installation in the show
