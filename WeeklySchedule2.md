@@ -511,6 +511,7 @@ Due today (Nov 26)
     - Sketch 1 - Overview with person for size to understand how the installation looks
     - Sketch 2 - Overhead floor plan with dimensions (how much floor space you need)
     - Approximate sizes in cm for any plinths and tables
+  - **Post** your sketches to the class website as blog posts
   - **Check out** requested equipment for your Final Installation in [Projects Spreadsheet](https://docs.google.com/spreadsheets/d/1iJNpbhqkyNb6HogYLb8mV5AxyQxO05a-2gKaVRbXwR4/edit?usp=sharing)
     - Book equipment in Connect2
     - Coordinate with Scene Shop if you want to build a sandbox there
