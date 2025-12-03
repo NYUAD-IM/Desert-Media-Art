@@ -546,7 +546,7 @@ Due before start of next class
 - Review project web pages
 - Preparation for IM End of Semester Show
 - Course review
-    - Please complete [DMA Course Feedback Questionnaire]()
+    - Please complete [DMA Course Feedback Questionnaire](https://go.blueja.io/zttu5yWR9kqxKzdMpego-g)
 
 
 ---
