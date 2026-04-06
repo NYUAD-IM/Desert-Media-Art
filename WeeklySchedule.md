@@ -340,6 +340,7 @@ Visual Studio Code with CircuitPython
 - Soldering
     - [Resources for soldering](https://github.com/michaelshiloh/resourcesForClasses#soldering)
     - [Soldering NeoPixels](https://learn.adafruit.com/make-it-glow-how-to-solder-neopixels-a-beginners-guide/techniques)
+    - [The Only LED Strip Soldering Tutorial You'll Ever Need (YouTube)](https://www.youtube.com/watch?v=98t4NzqtD3E)
 
 - Workshop: Soldering
     - Solder your power switch
