@@ -45,12 +45,12 @@ Introduction
     - [Syllabus](https://desert.nyuadim.com/syllabus/)
     - [Schedule Overview](https://docs.google.com/spreadsheets/d/1UHKrTE_1LE3XZrwBPc6z2o0C35TFm3rHhnjkTC5FYvE/edit?usp=sharing)
     - Desert Field Trips
-        - [Site](https://goo.gl/maps/9WfF4DmenbHr1dcH6) visit Sunday Oct 26 - 2:30pm-8:30pm 
-        - [Desert installation](https://desert.nyuadim.com/2023/11/29/2023-field-installation/) Sunday Nov 23 (Mandatory) - 12:30pm-9:30pm
-    - [Assignments / Readings (Brightspace)](https://brightspace.nyu.edu/d2l/le/376920/discussions/List)
+        - [Site](https://goo.gl/maps/9WfF4DmenbHr1dcH6) visit Sunday Nov 1 - 2:30pm-8:30pm 
+        - [Desert installation](https://desert.nyuadim.com/2023/11/29/2023-field-installation/) Sunday Nov 29 (Mandatory) - 12:30pm-9:30pm
+    - [Assignments / Readings (Brightspace)](https://brightspace.nyu.edu/d2l/le/607311/discussions/List)
     - Discord #desertart
         - 3rd party server, optional but recommended
-        - [#desertart invite link on Brightspace](https://brightspace.nyu.edu/d2l/le/lessons/376920/units/10130825)
+        - [#desertart invite link on Brightspace](https://brightspace.nyu.edu/d2l/le/lessons/607311/units/13791376)
         - Post interesting links, ask for / give help (all count for participation)
     - Textbook at bookstore
     - Class kits will be distributed in class
@@ -67,7 +67,7 @@ Due before start of next class
 - **Find** an interesting desert media art project and link it in your Brightspace response. Be prepared to discuss the project in class
 - **Post** your reading response via Brightspace Discussions
 - **Join Discord** (optional) #desertart
-    - Sign up link in [Brightspace->Content->Overview/Links](https://brightspace.nyu.edu/d2l/le/lessons/376920/units/10130825)
+    - Sign up link in [Brightspace->Content->Overview/Links](https://brightspace.nyu.edu/d2l/le/lessons/607311/units/13791376)
 
 ## Week 1.2
 
