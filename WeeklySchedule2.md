@@ -11,12 +11,12 @@
 - [Week 7](WeeklySchedule.md#week-71) – Idea Lab Presentations / Workshop: Idea Development
 - FALL BREAK
 - [Week 8](#week-81) – Project Proposal work session
-- [DESERT SITE VISIT](#desert-site-visit) – Sunday October 26
+- [DESERT SITE VISIT](#desert-site-visit) – Sunday Nov 1
 - [Week 9](#week-91) – Project Proposal presentations / Telling your story, Ruggedization
 - [Week 10](#week-101) – Project Proposal Presentations / Telling your story – Exhibition Installations - Work session
 - [Week 11](#week-111) – Storyboard Presentations / Workshop: Project production
 - [Week 12](#week-121) – Work Session / Final work session - Preparation for Field Installation
-- [FIELD INSTALLATION](#field-installation) – Sunday November 23
+- [FIELD INSTALLATION](#field-installation) – Sunday November 29
 - [Week 13](#week-131) – Field work debrief, Video work session
 - [Week 14](#week-141) – National Day Holiday / DMA Film Festival, Project web pages, Course Review
 - [Week 15 (12/9)](#week-15) - End of Semester Show installation
@@ -34,8 +34,8 @@ Note: Exact due dates for assignments and readings are indicated in Brightspace
     - Desert Site Visit - this Sunday!
         - Site scouting - find the location for your installation
         - Recommended attendance
-        - Sign up at [DMA F2025 Field Trip Sign-up (Sheet)](https://docs.google.com/spreadsheets/d/1imRFU7NBYngs420RBw1VIBT79YkT-3d-Hn46mOPMQbc/edit?usp=sharing)
-        - Trip details at [Desert Media Art Field Trips - Fall 2025 (Doc)](https://docs.google.com/document/d/1bEuE3UtrdrHOnXfWZGM35K8exFS7YfjfBcvRjt-y7Uw/edit?usp=sharing)
+        - Sign up at [DMA F2026 Field Trip Sign-up (Sheet)](https://docs.google.com/spreadsheets/d/1848p9X0mV2EeYU2s-N2HzhZR2FUHfehSeurKkR3rzP8/edit?usp=sharing)
+        - Trip details at [Desert Media Art Field Trips - Fall 2026 (Doc)](https://docs.google.com/document/d/1rAgECUaRT8WyQ45wNPfjBh8934AeU34FUBnv7Og722Q/edit?usp=sharing)
         - Depart Welcome Center Sunday 2:30pm
         - Return Welcome Center 8pm (latest)
         - Preparation
@@ -155,7 +155,7 @@ Depart Welcome Center 2:30pm
 
 Back to campus 8pm (latest)
 
-For full details see [Desert Media Art 2024 - Field Trips (Doc)](https://docs.google.com/document/d/16QtXjvqj1A35x5loTsNKnWrLmUPk_LgMrLdogXFFjx4/edit?usp=sharing)
+For full details see [Desert Media Art 2026 - Field Trips (Doc)](https://docs.google.com/document/d/1rAgECUaRT8WyQ45wNPfjBh8934AeU34FUBnv7Og722Q/edit?usp=sharing)
 
 - Dress for the sun (hat, sunscreen, consider long sleeves to keep the sun off)
 - Closed toed shoes may be better for hot sand
@@ -454,7 +454,7 @@ Due before start of next class
 
 # Field Installation
 
-## Sunday November 23
+## Sunday November 29
 
 ## Depart Welcome Center 1:30pm – Return 9:30pm (latest)
 
@@ -518,7 +518,7 @@ Due today (Nov 26)
 
 - Update [Project Spreadsheet](https://docs.google.com/spreadsheets/d/1iJNpbhqkyNb6HogYLb8mV5AxyQxO05a-2gKaVRbXwR4/edit?usp=sharing) with final project name
    
-Due before next class (Monday Dec 1)
+Due before next class
 - **Book** any required equipment for your final installation using Connect2
 - **Plan** for setting up your project in the Black Box (Dec 8)
   - Make any last arrangements for equipment, etc.
@@ -551,7 +551,7 @@ Due before start of next class
 
 ---
 ## Week 15.1
-- **Monday Dec 8** 12:45pm - 2:00pm - **Meet in the Black Box with all your gear**
+- **TBD** 12:45pm - 2:00pm - **Meet in the Black Box with all your gear**
 - Set up for IM Show
     - Bring all your equipment etc to the Black Box for 12:45pm sharp
     - Set up until 2:00pm
@@ -565,7 +565,7 @@ Due before start of next class
 - **Update** your project web page with two photos of your installation during the show
 
 ## Week 15.2 IM Show
-Tuesday December 9, 5-8pm
+TBD, 5-8pm
 
 - **Exhibit** your project in the IM End of Semester Show
 - **Take** photos / video of your installation in the show
