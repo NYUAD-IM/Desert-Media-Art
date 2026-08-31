@@ -144,12 +144,14 @@ Due before start of next class
     
     - [CircuitPython NeoPixel](https://learn.adafruit.com/adafruit-feather-m4-express-atsamd51/circuitpython-neopixel)
     - [CircuitPython Audio Out](https://desert.nyuadim.com/2022/04/01/tutorial-for-sound-on-prop-maker-m4-express/)
- 
+
+<!--
 - IM Lab Tool Training
     - Tool training is required to use the tools in the IM Lab (saws, drills, etc.)
     - Fill in [DMA Tool Training form](https://forms.gle/a9rz8qDZLaD3d2jA7)
     - Those who have not completed tool training within the last two years can join training sessions in IM Lab for other classes
         - Times TBD
+-->
  
 ### Homework
 Due before start of next class
