@@ -58,14 +58,6 @@ Introduction
 ### Homework – Week 1.1
 
 Due before start of next class
-
-- **Read** [Desert X 2020 AlUla](https://desertx.org/dx/desert-x-alula-2020)
-    - Pick one installation and write 2-3 paragraphs of response in Brightspace->Discussions->Reading 1:
-        - What draws you to this particular installation?
-        - How does the piece incorporate the desert context?
-        - How does placing the piece in the desert change the meaning of the work?
-- **Find** an interesting desert media art project and link it in your Brightspace response. Be prepared to discuss the project in class
-- **Post** your reading response via Brightspace Discussions
 - **Join Discord** (optional) #desertart
     - Sign up link in [Brightspace->Content->Overview/Links](https://brightspace.nyu.edu/d2l/le/lessons/607311/units/13791376)
 
@@ -100,6 +92,14 @@ Due before start of next class
 ### Homework – Week 1.2
 
 Due before start of next class
+
+- **Read** [Desert X 2020 AlUla](https://desertx.org/dx/desert-x-alula-2020)
+    - Pick one installation and write 2-3 paragraphs of response in Brightspace->Discussions->Reading 1:
+        - What draws you to this particular installation?
+        - How does the piece incorporate the desert context?
+        - How does placing the piece in the desert change the meaning of the work?
+- **Find** an interesting desert media art project and link it in your Brightspace response. Be prepared to discuss the project in class
+- **Post** your reading response via Brightspace Discussions
 
 - **Pick up book** from Bookstore (if staying in class)
 ---
