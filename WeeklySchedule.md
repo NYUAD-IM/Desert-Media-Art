@@ -163,7 +163,7 @@ Due before start of next class
 
 
 ## Week 2.2
-- Workshop: 3D printingr
+- Workshop: 3D printing
     - IM Lab Print Farm
         - 8x [Prusa MK4S with Input Shaper](https://www.prusa3d.com/product/original-prusa-mk4s-3d-printer-5/)
         - Ultimaker also available
