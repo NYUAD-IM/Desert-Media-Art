@@ -162,12 +162,9 @@ Due before start of next class
 
 
 ## Week 2.2
-- Announcements
-    - Tool training now includes advanced saw (chop saw, panel saw, bandsaw)
-        - Training session is available in Scene Shop Thursday starting at 3:20pm
-- Workshop: 3D printing with IM Lab Instructor
+- Workshop: 3D printingr
     - IM Lab Print Farm
-        - 4x [Prusa MK4S with Input Shaper](https://www.prusa3d.com/product/original-prusa-mk4s-3d-printer-5/)
+        - 8x [Prusa MK4S with Input Shaper](https://www.prusa3d.com/product/original-prusa-mk4s-3d-printer-5/)
         - Ultimaker also available
     - [Tinkercad](https://www.tinkercad.com/)
         - Entry-level 3D modeling by combining objects together
