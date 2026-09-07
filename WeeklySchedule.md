@@ -128,6 +128,7 @@ Due before start of next class
             - [Tinkercad tutorials](https://www.tinkercad.com/learn)
         - [Autodesk Fusion](https://www.tinkercad.com/dashboard)
             - Personal and educational licenses available
+    - [IM Lab Prusa MKS guide](https://docs.google.com/document/d/1XrHokqfJ_hH5zrb6NeWioqEvGPj6kmGMXJDExUIzwYI/edit?usp=sharing)
     - Community models
         - User uploaded models
         - Quality varies
