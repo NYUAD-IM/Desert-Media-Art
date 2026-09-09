@@ -204,17 +204,15 @@ Due before start of class - Wednesday Sept 10 (late if submitted after class sta
 # Week 3
 
 ## Week 3.1
-Mandatory Tool Training with Dustin (IM Lab Instructor)
-- Meet in IM Lab
+- Homework review
+- Reading discussion
 
 ## Week 3.2
 - Announcement
-  - Reminder - pick up the course textbook from the Bookstore!
   - Tool training attendance / makeup
       - Anyone who did not complete tool training needs to coordinate with Dustin <dustinfoster@nyu.edu>
   - [IM Lab Resources](https://www.nyuadim.com/resources/) - equipment booking, lab hours, policies, etc
 
-- Review TinkerCAD homework
 - Start 3D prints
 
 - **Workshop** Arduino / CircuitPython
