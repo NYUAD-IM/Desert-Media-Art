@@ -163,7 +163,10 @@ Due before start of next class
 
 
 ## Week 2.2
+- Announcements
+    - Pick up book from Bookstore 
 - Workshop: 3D printing
+    - [IM Lab - Prusa MK4S 3D Printing guide](https://docs.google.com/document/d/1XrHokqfJ_hH5zrb6NeWioqEvGPj6kmGMXJDExUIzwYI/edit?tab=t.0)
     - IM Lab Print Farm
         - 8x [Prusa MK4S with Input Shaper](https://www.prusa3d.com/product/original-prusa-mk4s-3d-printer-5/)
         - Ultimaker also available
