@@ -179,7 +179,7 @@ In-class Assignment:
 - Use the Tinkercad 2D sketch tool to design your letter
     - [Tinkercad Sketch Workspace Tutorial (All3DP)](https://all3dp.com/2/tinkercad-sketch-workspace-tutorial/)
     - [Start with 2D Sketching in Tinkercad (YouTube)](https://www.youtube.com/watch?v=br0GmiYw840)
-- Your letter should be maximum 2cm x 2cm x 2mm thick (15 minutes print time or less)
+- Your letter should be maximum 3cm x 3cm x 3mm thick (15 minutes print time or less)
 - Assemble your letters into word art with the rest of the class!
 
  <img width="782" height="771" alt="Screenshot 2026-09-09 at 2 23 15 PM" src="https://github.com/user-attachments/assets/407e0ff6-68f4-402a-8edd-2e592145a27c" />
