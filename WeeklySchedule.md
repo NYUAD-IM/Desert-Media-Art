@@ -137,15 +137,6 @@ Due before start of next class
         - [Thingiverse](https://www.thingiverse.com/)
         - [Cults 3D](https://cults3d.com/)
 
-- Arduino / CircuitPython
-    
-    - [Getting started with CircuitPython](https://desert.nyuadim.com/2022/02/28/getting-ready-for-circuitpython-featherwing-m4-express/)
-    
-    - [CircuitPython Internal RGB LED](https://learn.adafruit.com/adafruit-feather-m4-express-atsamd51/circuitpython-internal-rgb-led)
-    
-    - [CircuitPython NeoPixel](https://learn.adafruit.com/adafruit-feather-m4-express-atsamd51/circuitpython-neopixel)
-    - [CircuitPython Audio Out](https://desert.nyuadim.com/2022/04/01/tutorial-for-sound-on-prop-maker-m4-express/)
-
 <!--
 - IM Lab Tool Training
     - Tool training is required to use the tools in the IM Lab (saws, drills, etc.)
@@ -188,9 +179,27 @@ Due before start of next class
 Due before start of class - Wednesday Sept 10 (late if submitted after class starts)
 
 - **Create** Tinkercad 3D model that is suitable for 3D printing
-    - Find the complete instructions in Brightspace -> Discussions -> Exercise 1
+    - Find the complete instructions in Brightspace -> Discussions -> Exercise 1 3D Model
     - **Post** your work in Brightspace -> Discussions
     - See [How to Import and Export SVG Files in Tinkercad](https://www.tinkercad.com/blog/import-and-export-svg-files-tinkercad) for how to import external shapes made in Illustrator, Inkscape, or other vector editors
+ 
+- **Complete** the Reading Response in Brightspace -> Discussions -> Reading 1 Field Guide to Emirates
+
+# Week 3
+
+## Week 3.1
+- Homework review
+- Reading discussion
+- Distribute class kits
+- Introduction to CircuitPython
+    - [Getting started with CircuitPython](https://desert.nyuadim.com/2022/02/28/getting-ready-for-circuitpython-featherwing-m4-express/)
+    
+    - [CircuitPython Internal RGB LED](https://learn.adafruit.com/adafruit-feather-m4-express-atsamd51/circuitpython-internal-rgb-led)
+    
+    - [CircuitPython NeoPixel](https://learn.adafruit.com/adafruit-feather-m4-express-atsamd51/circuitpython-neopixel)
+    - [CircuitPython Audio Out](https://desert.nyuadim.com/2022/04/01/tutorial-for-sound-on-prop-maker-m4-express/)
+
+### Homework
 
 - **Read** through these tutorials to prepare for the CircuitPython workshop
     
@@ -201,11 +210,6 @@ Due before start of class - Wednesday Sept 10 (late if submitted after class sta
     - [CircuitPython NeoPixel](https://learn.adafruit.com/adafruit-feather-m4-express-atsamd51/circuitpython-neopixel)
     - [CircuitPython Audio Out](https://desert.nyuadim.com/2022/04/01/tutorial-for-sound-on-prop-maker-m4-express/)
 
-# Week 3
-
-## Week 3.1
-- Homework review
-- Reading discussion
 
 ## Week 3.2
 - Announcement
@@ -216,7 +220,6 @@ Due before start of class - Wednesday Sept 10 (late if submitted after class sta
 - Start 3D prints
 
 - **Workshop** Arduino / CircuitPython
-- Distribute class kits
 - [How do I learn Python?](https://learn.adafruit.com/welcome-to-circuitpython/how-do-i-learn-python "How do I learn Python?")
 - Download [Mu Editor](https://codewith.mu/)
 
