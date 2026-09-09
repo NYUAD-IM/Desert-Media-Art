@@ -182,6 +182,12 @@ In-class Assignment:
 - Your letter should be maximum 2cm x 2cm x 2mm thick (15 minutes print time or less)
 - Assemble your letters into word art with the rest of the class!
 
+ <img width="782" height="771" alt="Screenshot 2026-09-09 at 2 23 15 PM" src="https://github.com/user-attachments/assets/407e0ff6-68f4-402a-8edd-2e592145a27c" />
+
+<img width="814" height="704" alt="Screenshot 2026-09-09 at 2 23 45 PM" src="https://github.com/user-attachments/assets/631be748-802c-4af4-89df-8373454a34b1" />
+
+
+
 ### Homework – Week 2.2
 
 Due before start of class - Wednesday Sept 10 (late if submitted after class starts)
