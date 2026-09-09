@@ -173,6 +173,14 @@ Due before start of next class
         - Useful for estimating print time
         - Choose Prusa MK4S IS (Input Shaper) as the printer
         - Make sure to ask for supports if model has overhang and brim if model is very tall or has a small adhesion surface to bed
+          
+In-class Assignment:
+- Design and print a letter from your name using Tinkercad and the Prusa MK4S
+- Use the Tinkercad 2D sketch tool to design your letter
+    - [Tinkercad Sketch Workspace Tutorial (All3DP)](https://all3dp.com/2/tinkercad-sketch-workspace-tutorial/)
+    - [Start with 2D Sketching in Tinkercad (YouTube)](https://www.youtube.com/watch?v=br0GmiYw840)
+- Your letter should be maximum 2cm x 2cm x 2mm thick (15 minutes print time or less)
+- Assemble your letters into word art with the rest of the class!
 
 ### Homework – Week 2.2
 
