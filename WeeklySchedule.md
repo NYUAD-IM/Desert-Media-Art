@@ -11,12 +11,12 @@
 - [Week 7](#week-71) – Work session / Share midterm project + Idea Lab
 - FALL BREAK
 - [Week 8](WeeklySchedule2.md#week-81) – Project Proposal work session
-- [DESERT SITE VISIT](#desert-site-visit) – Sunday October 26
+- [DESERT SITE VISIT](#desert-site-visit) – Sunday November 1
 - [Week 9](WeeklySchedule2.md#week-91) – Project Proposal work session / Workshop: Sensors
 - [Week 10](WeeklySchedule2.md#week-101) – Project Proposal Presentations / Telling your story – Exhibition Installations - Work session
 - [Week 11](WeeklySchedule2.md#week-111) – Storyboard Presentations / Workshop: Project production
 - [Week 12](#week-121) – Work Session / Final work session - Preparation for Field Installation
-- [FIELD INSTALLATION](WeeklySchedule2.md#field-installation) – Sunday November 24
+- [FIELD INSTALLATION](WeeklySchedule2.md#field-installation) – Sunday November 29
 - [Week 13](WeeklySchedule2.md#week-131) – Field work debrief, Video work session
 - [Week 14](WeeklySchedule2.md#week-141) – National Day Holiday / DMA Film Festival, Project web pages, Course Review
 - [Week 15 (12/9)](WeeklySchedule2.md#week-15) - End of Semester Show installation
@@ -45,12 +45,12 @@ Introduction
     - [Syllabus](https://desert.nyuadim.com/syllabus/)
     - [Schedule Overview](https://docs.google.com/spreadsheets/d/1UHKrTE_1LE3XZrwBPc6z2o0C35TFm3rHhnjkTC5FYvE/edit?usp=sharing)
     - Desert Field Trips
-        - [Site](https://goo.gl/maps/9WfF4DmenbHr1dcH6) visit Sunday Oct 26 - 2:30pm-8:30pm 
-        - [Desert installation](https://desert.nyuadim.com/2023/11/29/2023-field-installation/) Sunday Nov 23 (Mandatory) - 12:30pm-9:30pm
-    - [Assignments / Readings (Brightspace)](https://brightspace.nyu.edu/d2l/le/376920/discussions/List)
+        - [Site](https://goo.gl/maps/9WfF4DmenbHr1dcH6) visit Sunday Nov 1 - 2:30pm-8:30pm 
+        - [Desert installation](https://desert.nyuadim.com/2023/11/29/2023-field-installation/) Sunday Nov 29 (Mandatory) - 12:30pm-9:30pm
+    - [Assignments / Readings (Brightspace)](https://brightspace.nyu.edu/d2l/le/607311/discussions/List)
     - Discord #desertart
         - 3rd party server, optional but recommended
-        - [#desertart invite link on Brightspace](https://brightspace.nyu.edu/d2l/le/lessons/376920/units/10130825)
+        - [#desertart invite link on Brightspace](https://brightspace.nyu.edu/d2l/le/lessons/607311/units/13791376)
         - Post interesting links, ask for / give help (all count for participation)
     - Textbook at bookstore
     - Class kits will be distributed in class
@@ -58,16 +58,8 @@ Introduction
 ### Homework – Week 1.1
 
 Due before start of next class
-
-- **Read** [Desert X 2020 AlUla](https://desertx.org/dx/desert-x-alula-2020)
-    - Pick one installation and write 2-3 paragraphs of response in Brightspace->Discussions->Reading 1:
-        - What draws you to this particular installation?
-        - How does the piece incorporate the desert context?
-        - How does placing the piece in the desert change the meaning of the work?
-- **Find** an interesting desert media art project and link it in your Brightspace response. Be prepared to discuss the project in class
-- **Post** your reading response via Brightspace Discussions
 - **Join Discord** (optional) #desertart
-    - Sign up link in [Brightspace->Content->Overview/Links](https://brightspace.nyu.edu/d2l/le/lessons/376920/units/10130825)
+    - Sign up link in [Brightspace->Content->Overview/Links](https://brightspace.nyu.edu/d2l/le/lessons/607311/units/13791376)
 
 ## Week 1.2
 
@@ -101,6 +93,14 @@ Due before start of next class
 
 Due before start of next class
 
+- **Read** [Desert X 2020 AlUla](https://desertx.org/dx/desert-x-alula-2020)
+    - Pick one installation and write 2-3 paragraphs of response in Brightspace->Discussions->Reading 1:
+        - What draws you to this particular installation?
+        - How does the piece incorporate the desert context?
+        - How does placing the piece in the desert change the meaning of the work?
+- **Find** an interesting desert media art project and link it in your Brightspace response. Be prepared to discuss the project in class
+- **Post** your reading response via Brightspace Discussions
+
 - **Pick up book** from Bookstore (if staying in class)
 ---
 
@@ -128,6 +128,7 @@ Due before start of next class
             - [Tinkercad tutorials](https://www.tinkercad.com/learn)
         - [Autodesk Fusion](https://www.tinkercad.com/dashboard)
             - Personal and educational licenses available
+    - [IM Lab Prusa MKS guide](https://docs.google.com/document/d/1XrHokqfJ_hH5zrb6NeWioqEvGPj6kmGMXJDExUIzwYI/edit?usp=sharing)
     - Community models
         - User uploaded models
         - Quality varies
@@ -136,20 +137,13 @@ Due before start of next class
         - [Thingiverse](https://www.thingiverse.com/)
         - [Cults 3D](https://cults3d.com/)
 
-- Arduino / CircuitPython
-    
-    - [Getting started with CircuitPython](https://desert.nyuadim.com/2022/02/28/getting-ready-for-circuitpython-featherwing-m4-express/)
-    
-    - [CircuitPython Internal RGB LED](https://learn.adafruit.com/adafruit-feather-m4-express-atsamd51/circuitpython-internal-rgb-led)
-    
-    - [CircuitPython NeoPixel](https://learn.adafruit.com/adafruit-feather-m4-express-atsamd51/circuitpython-neopixel)
-    - [CircuitPython Audio Out](https://desert.nyuadim.com/2022/04/01/tutorial-for-sound-on-prop-maker-m4-express/)
- 
+<!--
 - IM Lab Tool Training
     - Tool training is required to use the tools in the IM Lab (saws, drills, etc.)
     - Fill in [DMA Tool Training form](https://forms.gle/a9rz8qDZLaD3d2jA7)
     - Those who have not completed tool training within the last two years can join training sessions in IM Lab for other classes
         - Times TBD
+-->
  
 ### Homework
 Due before start of next class
@@ -161,11 +155,11 @@ Due before start of next class
 
 ## Week 2.2
 - Announcements
-    - Tool training now includes advanced saw (chop saw, panel saw, bandsaw)
-        - Training session is available in Scene Shop Thursday starting at 3:20pm
-- Workshop: 3D printing with IM Lab Instructor
+    - Pick up book from Bookstore 
+- Workshop: 3D printing
+    - [IM Lab - Prusa MK4S 3D Printing guide](https://docs.google.com/document/d/1XrHokqfJ_hH5zrb6NeWioqEvGPj6kmGMXJDExUIzwYI/edit?tab=t.0)
     - IM Lab Print Farm
-        - 4x [Prusa MK4S with Input Shaper](https://www.prusa3d.com/product/original-prusa-mk4s-3d-printer-5/)
+        - 8x [Prusa MK4S with Input Shaper](https://www.prusa3d.com/product/original-prusa-mk4s-3d-printer-5/)
         - Ultimaker also available
     - [Tinkercad](https://www.tinkercad.com/)
         - Entry-level 3D modeling by combining objects together
@@ -179,15 +173,47 @@ Due before start of next class
         - Useful for estimating print time
         - Choose Prusa MK4S IS (Input Shaper) as the printer
         - Make sure to ask for supports if model has overhang and brim if model is very tall or has a small adhesion surface to bed
+          
+In-class Assignment:
+- Design and print a letter from your name using Tinkercad and the Prusa MK4S
+- Use the Tinkercad 2D sketch tool to design your letter
+    - [Tinkercad Sketch Workspace Tutorial (All3DP)](https://all3dp.com/2/tinkercad-sketch-workspace-tutorial/)
+    - [Start with 2D Sketching in Tinkercad (YouTube)](https://www.youtube.com/watch?v=br0GmiYw840)
+- Your letter should be maximum 3cm x 3cm x 3mm thick (15 minutes print time or less)
+- Assemble your letters into word art with the rest of the class!
+
+ <img width="782" height="771" alt="Screenshot 2026-09-09 at 2 23 15 PM" src="https://github.com/user-attachments/assets/407e0ff6-68f4-402a-8edd-2e592145a27c" />
+
+<img width="814" height="704" alt="Screenshot 2026-09-09 at 2 23 45 PM" src="https://github.com/user-attachments/assets/631be748-802c-4af4-89df-8373454a34b1" />
+
+
 
 ### Homework – Week 2.2
 
 Due before start of class - Wednesday Sept 10 (late if submitted after class starts)
 
 - **Create** Tinkercad 3D model that is suitable for 3D printing
-    - Find the complete instructions in Brightspace -> Discussions -> Exercise 1
+    - Find the complete instructions in Brightspace -> Discussions -> Exercise 1 3D Model
     - **Post** your work in Brightspace -> Discussions
     - See [How to Import and Export SVG Files in Tinkercad](https://www.tinkercad.com/blog/import-and-export-svg-files-tinkercad) for how to import external shapes made in Illustrator, Inkscape, or other vector editors
+ 
+- **Complete** the Reading Response in Brightspace -> Discussions -> Reading 1 Field Guide to Emirates
+
+# Week 3
+
+## Week 3.1
+- Homework review
+- Reading discussion
+- Distribute class kits
+- Introduction to CircuitPython
+    - [Getting started with CircuitPython](https://desert.nyuadim.com/2022/02/28/getting-ready-for-circuitpython-featherwing-m4-express/)
+    
+    - [CircuitPython Internal RGB LED](https://learn.adafruit.com/adafruit-feather-m4-express-atsamd51/circuitpython-internal-rgb-led)
+    
+    - [CircuitPython NeoPixel](https://learn.adafruit.com/adafruit-feather-m4-express-atsamd51/circuitpython-neopixel)
+    - [CircuitPython Audio Out](https://desert.nyuadim.com/2022/04/01/tutorial-for-sound-on-prop-maker-m4-express/)
+
+### Homework
 
 - **Read** through these tutorials to prepare for the CircuitPython workshop
     
@@ -198,24 +224,12 @@ Due before start of class - Wednesday Sept 10 (late if submitted after class sta
     - [CircuitPython NeoPixel](https://learn.adafruit.com/adafruit-feather-m4-express-atsamd51/circuitpython-neopixel)
     - [CircuitPython Audio Out](https://desert.nyuadim.com/2022/04/01/tutorial-for-sound-on-prop-maker-m4-express/)
 
-# Week 3
-
-## Week 3.1
-Mandatory Tool Training with Dustin (IM Lab Instructor)
-- Meet in IM Lab
 
 ## Week 3.2
 - Announcement
-  - Reminder - pick up the course textbook from the Bookstore!
-  - Tool training attendance / makeup
-      - Anyone who did not complete tool training needs to coordinate with Dustin <dustinfoster@nyu.edu>
-  - [IM Lab Resources](https://www.nyuadim.com/resources/) - equipment booking, lab hours, policies, etc
-
-- Review TinkerCAD homework
-- Start 3D prints
+  - [IM Lab Resources](https://www.nyuadim.com/resources/) - new peer-tutor drop-in times, equipment booking, lab hours, policies, etc
 
 - **Workshop** Arduino / CircuitPython
-- Distribute class kits
 - [How do I learn Python?](https://learn.adafruit.com/welcome-to-circuitpython/how-do-i-learn-python "How do I learn Python?")
 - Download [Mu Editor](https://codewith.mu/)
 
@@ -225,25 +239,7 @@ Mandatory Tool Training with Dustin (IM Lab Instructor)
     - Download the UF2 file [https://circuitpython.org/board/feather\_m4\_express/](https://circuitpython.org/board/feather_m4_express/)
 -->
 
-
-### Homework – Week 3
-
-Due Monday, before class
-- **Exercise 1** - 3D printing
-    - **Print** your object ([book the 3D printer](https://nyuad-artsbooking.nyu.edu/)) and **add a photo** of your print to your discussion post
-    - One paragraph response: How did your print turn out compared to your design? What issues do you see with the print and how will you improve for next time?
-
-- **Pickup** Field Guide To Emirates (required text) from the Bookstore
-- **Reading 2** - Field Guide to Emirates
-    - **Post** in Brightspace -> Discussions -> Readings -> Reading 2
-
 ## Week 4.1
-Announcements
-- IM Community Gathering
-    - Thursday Sept 18 6:30-8pm
-    - Between C3-153 & C3-155
-    - Pizza!
-
 - Workshop
     - (Re)Introduction to class kit
         - [Adafruit RP2040 Prop-Maker Feather](https://learn.adafruit.com/adafruit-rp2040-prop-maker-feather)
@@ -340,6 +336,7 @@ Visual Studio Code with CircuitPython
 - Soldering
     - [Resources for soldering](https://github.com/michaelshiloh/resourcesForClasses#soldering)
     - [Soldering NeoPixels](https://learn.adafruit.com/make-it-glow-how-to-solder-neopixels-a-beginners-guide/techniques)
+    - [The Only LED Strip Soldering Tutorial You'll Ever Need (YouTube)](https://www.youtube.com/watch?v=98t4NzqtD3E)
 
 - Workshop: Soldering
     - Solder your power switch
