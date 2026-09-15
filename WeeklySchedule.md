@@ -239,25 +239,7 @@ Due before start of class - Wednesday Sept 10 (late if submitted after class sta
     - Download the UF2 file [https://circuitpython.org/board/feather\_m4\_express/](https://circuitpython.org/board/feather_m4_express/)
 -->
 
-
-### Homework – Week 3
-
-Due Monday, before class
-- **Exercise 1** - 3D printing
-    - **Print** your object ([book the 3D printer](https://nyuad-artsbooking.nyu.edu/)) and **add a photo** of your print to your discussion post
-    - One paragraph response: How did your print turn out compared to your design? What issues do you see with the print and how will you improve for next time?
-
-- **Pickup** Field Guide To Emirates (required text) from the Bookstore
-- **Reading 2** - Field Guide to Emirates
-    - **Post** in Brightspace -> Discussions -> Readings -> Reading 2
-
 ## Week 4.1
-Announcements
-- IM Community Gathering
-    - Thursday Sept 18 6:30-8pm
-    - Between C3-153 & C3-155
-    - Pizza!
-
 - Workshop
     - (Re)Introduction to class kit
         - [Adafruit RP2040 Prop-Maker Feather](https://learn.adafruit.com/adafruit-rp2040-prop-maker-feather)
