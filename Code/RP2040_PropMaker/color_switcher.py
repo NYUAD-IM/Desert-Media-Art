@@ -4,8 +4,14 @@
 #
 # What it does:
 #   The NeoPixel gently "throbs" (breathes) in the currently selected color.
-#   Pressing the external button smoothly rotates the hue to the next color in
-#   a 15-color palette over 0.5s with an ease-in/out curve.
+#   Pressing the external button smoothly rotates the hue to the next color,
+#   which sits almost opposite on the color wheel -- so every press is a big,
+#   dramatic color change.
+#
+# Controls:
+#   - Button on the "Btn" terminal: advance to the next color.
+#   - Serial console: SPACE advances the color, "r" reloads the program
+#     (useful when auto-reload has been locked off).
 #
 # Hardware:
 #   - Onboard NeoPixel (board.NEOPIXEL) by default, or an external strip on
@@ -19,25 +25,41 @@
 #
 # How it works:
 #   - Fully non-blocking: no time.sleep(). Each pass through the main loop reads
-#     the button and updates the LED from time.monotonic(), so a press is picked
-#     up instantly and other work can share the loop.
+#     the button and the serial console and updates the LED from the clock, so
+#     input is picked up instantly and other work can share the loop.
+#   - All timing uses time.monotonic_ns() (integer nanoseconds), NOT
+#     time.monotonic(). Floats on most boards carry only ~22 bits of precision,
+#     so monotonic() loses millisecond accuracy after roughly 1.165 hours of
+#     uptime -- a piece left running for days would visibly stair-step.
 #   - Colors live in HSV. The "throb" modulates the value (V) with a cosine
 #     between THROB_MIN and full over THROB_PERIOD seconds, so the color pulses
 #     without ever changing hue.
-#   - A button press eases from the currently displayed color to the next
-#     palette color over TRANSITION_DUR seconds: hue rotates the short way
-#     around the wheel while saturation/value cross-fade, all shaped by an
-#     ease-in/out curve. Pressing again mid-transition simply starts a new
-#     ease from wherever the color is right now.
-#   - PALETTE is written in friendly RGB and converted to HSV once at startup.
-#   - BRIGHTNESS is the master ceiling, kept low so colors stay saturated
-#     instead of washing out toward white.
+#   - The palette is generated, not hand-picked: NUM_COLORS hues spread evenly
+#     around the wheel, but VISITED in circle-of-fifths order -- each step is
+#     HUE_STEP/NUM_COLORS of the wheel (~half, i.e. near-complementary). Like
+#     the musical circle of fifths, HUE_STEP is coprime with NUM_COLORS, so all
+#     hues are used exactly once before the sequence repeats.
+#   - A button press does not change the color immediately. The ease is
+#     SCHEDULED so its midpoint lands on the next throb trough (the dim
+#     "downbeat"), so the hue swings while the LED is dark and blooms back up
+#     already on the new color -- no smearing across bright hues. The wait is
+#     up to one THROB_PERIOD; the press itself is still registered instantly.
+#   - The ease runs over TRANSITION_DUR seconds, hue taking the short way
+#     around the wheel, shaped by an ease-in/out curve. Pressing again while
+#     one is pending or running just re-targets and re-schedules to the next
+#     trough, starting from whatever is displayed at that moment.
+#   - BRIGHTNESS is the master ceiling, kept low so colors stay saturated.
 #
 # Tuning:
-#   PALETTE        - edit/reorder freely; the count is derived with len().
+#   NUM_COLORS     - how many hues in the cycle.
+#   HUE_STEP       - wheel step per press = HUE_STEP/NUM_COLORS. Keep it coprime
+#                    with NUM_COLORS and near NUM_COLORS/2 for complementary
+#                    jumps (e.g. 15 colors -> 7 or 8).
+#   HUE_START      - hue (0..1) of the first color (0.0 red, 0.08 orange...).
+#   SATURATION     - color purity, 0..1 (1.0 = fully vivid).
 #   THROB_PERIOD   - seconds per breath (larger = slower throb).
-#   THROB_MIN      - dimmest point of the throb (0..1 of full value).
-#   TRANSITION_DUR - seconds to ease from one color to the next.
+#   THROB_MIN      - dimmest point of the throb (fraction of full value).
+#   TRANSITION_DUR - seconds to ease hue to the next color.
 #   BRIGHTNESS     - overall level; keep low for saturated color.
 #
 # Built iteratively with Claude Code (Opus 4.8) on 2026-09-15.
@@ -48,52 +70,28 @@ import math
 import board
 import digitalio
 import neopixel
+import supervisor
+import sys
 
 # ---- Config -------------------------------------------------
 USE_EXTERNAL   = False   # False = onboard pixel, True = screw-terminal strip
 NUM_PIXELS     = 1
 BRIGHTNESS     = 0.3     # master ceiling; keep low so color reads as color
+SATURATION     = 1.0     # color purity, 0..1 (1.0 = fully vivid)
+
+NUM_COLORS     = 15      # hues in the cycle
+HUE_STEP       = 7       # wheel step per press = HUE_STEP/NUM_COLORS (~half)
+HUE_START      = 0.08    # hue of the first color (0.08 ~ orange)
+
 THROB_PERIOD   = 2.5     # seconds per breath
 THROB_MIN      = 0.20    # dimmest point of the throb (fraction of full value)
 TRANSITION_DUR = 0.5     # seconds to ease hue to the next color
 # -------------------------------------------------------------
 
-# 15 nice colors, walking around the wheel warm -> cool -> warm
-PALETTE = [
-    (255,  90,   0),   # orange
-    (255, 160,   0),   # amber
-    (255, 214,  60),   # gold
-    (150, 220,  40),   # lime
-    ( 30, 200,  90),   # green
-    (  0, 200, 170),   # teal
-    (  0, 190, 220),   # cyan
-    ( 40, 140, 255),   # sky blue
-    ( 60,  80, 230),   # blue
-    (110,  70, 220),   # indigo
-    (170,  60, 220),   # purple
-    (230,  50, 190),   # magenta
-    (255,  70, 140),   # pink
-    (240,  40,  40),   # red
-    (255, 110,  70),   # coral
-]
-
-
-def rgb_to_hsv(r, g, b):
-    """r,g,b in 0..255 -> (h, s, v) each in 0..1."""
-    r, g, b = r / 255.0, g / 255.0, b / 255.0
-    mx, mn = max(r, g, b), min(r, g, b)
-    d = mx - mn
-    v = mx
-    s = 0.0 if mx == 0 else d / mx
-    if d == 0:
-        h = 0.0
-    elif mx == r:
-        h = ((g - b) / d) % 6
-    elif mx == g:
-        h = ((b - r) / d) + 2
-    else:
-        h = ((r - g) / d) + 4
-    return (h / 6.0, s, v)
+# Timing runs in integer nanoseconds -- see the precision note in the header.
+NS_PER_SEC        = 1000000000
+THROB_PERIOD_NS   = int(THROB_PERIOD * NS_PER_SEC)
+TRANSITION_DUR_NS = int(TRANSITION_DUR * NS_PER_SEC)
 
 
 def hsv_to_rgb(h, s, v):
@@ -140,7 +138,12 @@ def ease_in_out(t):
     return 1 - ((-2 * t + 2) ** 3) / 2
 
 
-PALETTE_HSV = [rgb_to_hsv(*c) for c in PALETTE]
+# Circle-of-fifths palette: NUM_COLORS evenly spaced hues, visited in jumps of
+# HUE_STEP/NUM_COLORS so consecutive colors are almost complementary.
+PALETTE_HSV = [
+    ((HUE_START + (i * HUE_STEP) / NUM_COLORS) % 1.0, SATURATION, 1.0)
+    for i in range(NUM_COLORS)
+]
 
 # Prop-Maker external power gates the screw-terminal output + amp
 ext_power = digitalio.DigitalInOut(board.EXTERNAL_POWER)
@@ -170,25 +173,35 @@ class ColorThrob:
         self.frm = self.cur
         self.to = self.cur
         self.transitioning = False
-        self.trans_start = 0.0
+        self.trans_start = 0
 
     def next_color(self):
         self.index = (self.index + 1) % len(self.palette)
         self.frm = self.cur              # ease from whatever is displayed now
         self.to = self.palette[self.index]
-        self.trans_start = time.monotonic()
+        # Schedule the ease so its midpoint lands on the next throb trough
+        # (phase 0 = dimmest), so the hue swings while the LED is dark.
+        now = time.monotonic_ns()
+        half = TRANSITION_DUR_NS // 2
+        # Integer ceiling division: first multiple of THROB_PERIOD_NS at or
+        # after (now + half).
+        trough = ((now + half + THROB_PERIOD_NS - 1) // THROB_PERIOD_NS) * THROB_PERIOD_NS
+        self.trans_start = trough - half
         self.transitioning = True
         return self.index
 
     def update(self):
-        now = time.monotonic()
+        now = time.monotonic_ns()
 
         if self.transitioning:
-            te = (now - self.trans_start) / TRANSITION_DUR
-            if te >= 1.0:
-                te = 1.0
+            te = (now - self.trans_start) / TRANSITION_DUR_NS
+            if te <= 0.0:
+                k = 0.0                  # scheduled but not started: hold old color
+            elif te >= 1.0:
+                k = 1.0
                 self.transitioning = False
-            k = ease_in_out(te)
+            else:
+                k = ease_in_out(te)
             h = hue_lerp(self.frm[0], self.to[0], k)
             s = lerp(self.frm[1], self.to[1], k)
             v = lerp(self.frm[2], self.to[2], k)
@@ -197,7 +210,7 @@ class ColorThrob:
             self.cur = self.to
 
         # Throb: modulate value with a cosine between THROB_MIN and 1.0
-        phase = (now % THROB_PERIOD) / THROB_PERIOD
+        phase = (now % THROB_PERIOD_NS) / THROB_PERIOD_NS
         env = 0.5 - 0.5 * math.cos(2 * math.pi * phase)      # 0..1
         scale = THROB_MIN + (1.0 - THROB_MIN) * env
 
@@ -210,32 +223,51 @@ class Button:
 
     def __init__(self, dio, debounce=0.02):
         self.dio = dio
-        self.debounce = debounce
+        self.debounce_ns = int(debounce * NS_PER_SEC)
         self.stable = dio.value
         self._last = dio.value
-        self._changed_at = time.monotonic()
+        self._changed_at = time.monotonic_ns()
 
     def read(self):
-        now = time.monotonic()
+        now = time.monotonic_ns()
         level = self.dio.value
         if level != self._last:
             self._last = level
             self._changed_at = now
-        elif now - self._changed_at >= self.debounce and level != self.stable:
+        elif now - self._changed_at >= self.debounce_ns and level != self.stable:
             self.stable = level
             if level is False:          # HIGH -> LOW = press (active-low)
                 return True
         return False
 
+def check_keys():
+    """Non-blocking: consume any pending serial input and act on it."""
+    while supervisor.runtime.serial_bytes_available:
+        key = sys.stdin.read(1)
+        if key in ("r", "R"):
+            print("reloading...")
+            supervisor.reload()
+        elif key == " ":
+            i = throb.next_color()      # same action as the button
+            print("keyboard -> color", i + 1)
+
 
 throb = ColorThrob(pixel, PALETTE_HSV)
 btn = Button(button)
-print("Ready. Throbbing on 'orange'. Press the button to shift color.")
+print("Ready. Press the button to jump ~half the color wheel.")
+
+print("Send space in serial terminal to change color")
+print("Send 'r' in serial terminal to reload code")
 
 # ---- Main loop: throb + button, nothing blocks ---------------
 while True:
+    # Defined in code.py
+    check_keys()
+
     if btn.read():
         i = throb.next_color()
-        print("color {}/{}: {}".format(i + 1, len(PALETTE), PALETTE[i]))
+        h = PALETTE_HSV[i][0]
+        print("color {}/{}: hue {:3.0f} deg  rgb {}".format(
+            i + 1, NUM_COLORS, h * 360, hsv_to_rgb(h, SATURATION, 1.0)))
 
     throb.update()
