@@ -227,7 +227,7 @@ Due before start of class - Wednesday Sept 10 (late if submitted after class sta
 
 ## Week 3.2
 - Announcement
-  - [IM Lab Resources](https://www.nyuadim.com/resources/) - equipment booking, lab hours, policies, etc
+  - [IM Lab Resources](https://www.nyuadim.com/resources/) - new peer-tutor drop-in times, equipment booking, lab hours, policies, etc
 
 - **Workshop** Arduino / CircuitPython
 - [How do I learn Python?](https://learn.adafruit.com/welcome-to-circuitpython/how-do-i-learn-python "How do I learn Python?")
