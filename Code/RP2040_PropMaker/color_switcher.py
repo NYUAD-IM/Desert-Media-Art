@@ -10,8 +10,8 @@
 #
 # Controls:
 #   - Button on the "Btn" terminal: advance to the next color.
-#   - Serial console: SPACE advances the color, "r" reloads the program
-#     (useful when auto-reload has been locked off).
+#   - Serial console: SPACE advances the color; "r" or Ctrl-D reloads the
+#     program (useful when auto-reload has been locked off).
 #
 # Hardware:
 #   - Onboard NeoPixel (board.NEOPIXEL) by default, or an external strip on
@@ -244,7 +244,7 @@ def check_keys():
     """Non-blocking: consume any pending serial input and act on it."""
     while supervisor.runtime.serial_bytes_available:
         key = sys.stdin.read(1)
-        if key in ("r", "R"):
+        if key in ("r", "R", "\x04"):   # "r", or Ctrl-D (EOT), as at the REPL
             print("reloading...")
             supervisor.reload()
         elif key == " ":
@@ -257,7 +257,7 @@ btn = Button(button)
 print("Ready. Press the button to jump ~half the color wheel.")
 
 print("Send space in serial terminal to change color")
-print("Send 'r' in serial terminal to reload code")
+print("Send 'r' or Ctrl-D in serial terminal to reload code")
 
 # ---- Main loop: throb + button, nothing blocks ---------------
 while True:
