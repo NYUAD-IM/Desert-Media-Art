@@ -1,0 +1,152 @@
+<!-- Paste into WordPress: switch to the Code editor (Options ▸ Code editor,
+     or ⌥⌘⇧M) and paste, or drop into a Custom HTML block. -->
+
+<p><strong>TL;DR:</strong> If CircuitPython keeps printing <em>“Code stopped by auto-reload”</em> when you haven’t saved anything, macOS is writing to the <code>CIRCUITPY</code> drive behind your back. Extended attributes — not your code — are the trigger. A Quick Look in the Finder is enough to cause it.</p>
+
+<h2>The symptom</h2>
+
+<p>You’re running a piece on a CircuitPython board, watching the serial console, and out of nowhere:</p>
+
+<pre><code>color 6/15: hue 149 deg  rgb (0, 255, 122)
+
+Code stopped by auto-reload. Reloading soon.
+soft reboot
+
+code.py output:</code></pre>
+
+<p>No file was saved. No editor was open. The board restarted anyway, mid-animation.</p>
+
+<p>Auto-reload is the feature that makes CircuitPython pleasant: drag a file onto the drive and it runs. It works by restarting <code>code.py</code> whenever the filesystem is written. The catch is the word <em>whenever</em> — it doesn’t care <em>who</em> wrote, or whether anything meaningful changed.</p>
+
+<h2>Finding the culprit</h2>
+
+<p>Listing the drive told the story immediately. Alongside the real files sat a set of AppleDouble sidecars:</p>
+
+<pre><code>$ ls -la /Volumes/CIRCUITPY/
+._code.py             Sep 15 14:08
+._color_switcher.py   Sep 15 15:14
+._ext_button_test.py  Sep 15 14:45
+._orange_fade.py      Sep 15 14:44
+.fseventsd/
+.Trashes  .Trash-1000
+.metadata_never_index
+code.py               Sep 15 14:53
+color_switcher.py     Sep 15 15:13</code></pre>
+
+<p>Look at the two timestamps in the middle. <code>color_switcher.py</code> was written at <strong>15:13</strong>. Its sidecar <code>._color_switcher.py</code> was written at <strong>15:14</strong> — a full minute later. That’s macOS touching the volume well after the save finished, which is exactly why the reload arrives at a moment that feels unrelated to anything you did.</p>
+
+<h3>Why the sidecars exist</h3>
+
+<p><code>CIRCUITPY</code> is formatted FAT, which has no way to store macOS extended attributes. When a file carries them, macOS stores them in a parallel <code>._filename</code> file. Every time an attribute changes, that sidecar is rewritten — a filesystem write, and therefore a reload.</p>
+
+<p>So what attributes are on there?</p>
+
+<pre><code>$ xattr -l /Volumes/CIRCUITPY/color_switcher.py
+com.apple.provenance
+com.dropbox.attrs
+
+$ xattr -l /Volumes/CIRCUITPY/code.py
+com.apple.lastuseddate#PS
+com.apple.provenance</code></pre>
+
+<table>
+<thead>
+<tr><th>Attribute</th><th>Written by</th><th>When</th></tr>
+</thead>
+<tbody>
+<tr><td><code>com.apple.lastuseddate#PS</code></td><td>macOS</td><td>Whenever a file is <em>opened or previewed</em></td></tr>
+<tr><td><code>com.apple.provenance</code></td><td>macOS (Ventura and later)</td><td>Stamped on files generally</td></tr>
+<tr><td><code>com.dropbox.attrs</code></td><td>Dropbox</td><td>Rides along when you copy from a Dropbox folder</td></tr>
+</tbody>
+</table>
+
+<p><code>com.apple.lastuseddate#PS</code> is the troublemaker. macOS updates it when a file is merely <em>accessed</em> — no edit required. The file’s contents are identical; the sidecar still gets rewritten; the board still reboots.</p>
+
+<h2>Quick Look is enough</h2>
+
+<p>The reproduction is almost comically simple. Select a <code>.py</code> file on the <code>CIRCUITPY</code> drive in the Finder and press space. Quick Look opens a preview, macOS stamps the last-used date, the sidecar is rewritten, and your board restarts.</p>
+
+<p>Browsing the drive in a Finder window can do it too, by creating or updating <code>.DS_Store</code>.</p>
+
+<h2>It isn’t Spotlight, and it isn’t only Dropbox</h2>
+
+<p>Two reasonable suspects turned out to be innocent.</p>
+
+<p><strong>Spotlight</strong> was already excluded. The drive carries a <code>.metadata_never_index</code> file, and <code>mdutil</code> confirms it:</p>
+
+<pre><code>$ mdutil -s /Volumes/CIRCUITPY
+/System/Volumes/Data/Volumes/CIRCUITPY:
+	Indexing and searching disabled.</code></pre>
+
+<p>Adding the volume to the Spotlight Privacy list would change nothing.</p>
+
+<p><strong>Dropbox</strong> contributes, but isn’t required. Note in the output above that <code>code.py</code> has <em>no</em> Dropbox attribute — and it still has a <code>._code.py</code> sidecar. Keeping your source outside Dropbox removes one of three attributes and leaves the problem intact.</p>
+
+<h2>Why CircuitPython can’t just ignore these files</h2>
+
+<p>The obvious fix would be for auto-reload to skip writes to <code>._*</code>. It can’t, and the reason is structural: the board exposes its flash as <strong>USB mass storage</strong>. The host writes raw blocks, not files. From the board’s side, macOS updating a sidecar and you saving <code>code.py</code> look the same. There is no filename to filter on.</p>
+
+<p>Worth adding to the picture: macOS has also been known to <a href="https://github.com/adafruit/circuitpython/issues/8449">delay writes to small FAT volumes by 5–30 seconds</a>, which further decouples the reload from anything you remember doing. That behaviour is covered in <a href="https://desert.nyuadim.com/2023/10/30/circuitpython-with-macos-sonoma/">an earlier post here</a>.</p>
+
+<h2>What actually helps</h2>
+
+<h3>1. Clean the drive</h3>
+
+<p>Remove the existing sidecars and strip the attributes that cause them:</p>
+
+<pre><code>dot_clean -m /Volumes/CIRCUITPY
+xattr -cr /Volumes/CIRCUITPY</code></pre>
+
+<p><code>dot_clean -m</code> deletes the <code>._*</code> files. <code>xattr -c</code> clears extended attributes and <code>-r</code> recurses. Neither touches file contents — your code is untouched.</p>
+
+<p><strong>Only point this at the board.</strong> Running <code>xattr -cr</code> across your home directory or a Dropbox folder would strip sync metadata and quarantine flags you want to keep.</p>
+
+<h3>2. Copy without metadata</h3>
+
+<p>The Finder always preserves extended attributes; there’s no preference to disable it. Copying from the Terminal with <code>-X</code> leaves them behind:</p>
+
+<pre><code>cp -X ~/path/to/color_switcher.py /Volumes/CIRCUITPY/</code></pre>
+
+<p>Verify with <code>xattr -l</code> on the copy — clean means no output, and no <code>._</code> twin appears.</p>
+
+<h3>3. Adjust two habits</h3>
+
+<ul>
+<li>Quick Look and edit files in your <em>source</em> folder, not on the drive. Same file, no consequence.</li>
+<li>Keep the <code>CIRCUITPY</code> Finder window closed while code is running.</li>
+</ul>
+
+<h3>4. Turn auto-reload off when it matters</h3>
+
+<p>For an installation you don’t want restarting itself, put a flag at the top of <code>code.py</code>:</p>
+
+<pre><code>lock_reload = False
+if lock_reload:
+    import supervisor
+    print("Locking reload - need to manually reset after code changes")
+    supervisor.runtime.autoreload = False</code></pre>
+
+<p>Flip <code>lock_reload</code> to <code>True</code> when the piece is running for real, and back to <code>False</code> while you’re developing. A single boolean is easier to find than a commented-out line, and the printed reminder saves you the confusion of wondering why your saves have stopped taking effect — because once it’s locked, you have to reset the board manually for changes to load.</p>
+
+<h2>When this actually matters</h2>
+
+<p>It’s worth being clear about the scope, because the problem is narrower than it first feels:</p>
+
+<ul>
+<li><strong>Running on battery or a wall charger:</strong> no issue at all. Nothing mounts the filesystem, so there are no writes to react to.</li>
+<li><strong>Developing, with the drive mounted:</strong> stray reloads are noise. You were about to restart the code anyway.</li>
+<li><strong>Running the finished piece while still plugged into a computer:</strong> this is the case that bites — a stray preview resets your installation during setup or a long test. Disable auto-reload here.</li>
+</ul>
+
+<h2>Diagnosing it yourself</h2>
+
+<p>If you want to know whether a restart was a phantom write or a genuine crash, print the reason at the top of your code:</p>
+
+<pre><code>import supervisor
+print("run reason:", supervisor.runtime.run_reason)</code></pre>
+
+<p>It will report <code>AUTO_RELOAD</code> for a filesystem write, which distinguishes macOS noise from an actual problem in your program.</p>
+
+<hr />
+
+<p><em>Tested on an Adafruit Feather RP2040 Prop-Maker with the <code>CIRCUITPY</code> drive mounted on macOS.</em></p>
