@@ -227,11 +227,7 @@ Due before start of class - Wednesday Sept 10 (late if submitted after class sta
 
 ## Week 3.2
 - Announcement
-  - Tool training attendance / makeup
-      - Anyone who did not complete tool training needs to coordinate with Dustin <dustinfoster@nyu.edu>
   - [IM Lab Resources](https://www.nyuadim.com/resources/) - equipment booking, lab hours, policies, etc
-
-- Start 3D prints
 
 - **Workshop** Arduino / CircuitPython
 - [How do I learn Python?](https://learn.adafruit.com/welcome-to-circuitpython/how-do-i-learn-python "How do I learn Python?")
