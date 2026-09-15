@@ -82,6 +82,24 @@ com.apple.provenance</code></pre>
 
 <p><strong>Dropbox</strong> contributes, but isn’t required. Note in the output above that <code>code.py</code> has <em>no</em> Dropbox attribute — and it still has a <code>._code.py</code> sidecar. Keeping your source outside Dropbox removes one of three attributes and leaves the problem intact.</p>
 
+<h2>What about <code>noatime</code>?</h2>
+
+<p>Anyone who has met this problem on Linux will suggest remounting with <code>noatime</code> — and on Linux <a href="https://github.com/adafruit/circuitpython/issues/7572#issuecomment-1435408471">that does fix it</a>. macOS supports the option too; <code>mount(8)</code> describes it as “Do not update the file access time when reading from a file.”</p>
+
+<p>It won’t help here, because macOS is already doing it:</p>
+
+<pre><code>$ mount | grep CIRCUITPY
+/dev/disk4s1 on /Volumes/CIRCUITPY (msdos, local, nodev, nosuid, noowners, noatime, fskit)</code></pre>
+
+<p>The volume is mounted <code>noatime</code> by default, and the reloads happen regardless. The reason is a layer distinction that’s easy to miss:</p>
+
+<ul>
+<li><strong>POSIX <code>atime</code></strong> is a kernel-level timestamp updated on read. <code>noatime</code> suppresses it. FAT barely has this to begin with — it stores only a last-access <em>date</em>, at day granularity.</li>
+<li><strong><code>com.apple.lastuseddate#PS</code></strong> is an extended attribute, written by Launch Services when an application opens or previews a file. That is an ordinary file write at the application layer, and no mount option governs it.</li>
+</ul>
+
+<p>Same symptom, different mechanism. Mount options are the wrong lever; keeping extended attributes off the drive is the right one.</p>
+
 <h2>Why CircuitPython can’t just ignore these files</h2>
 
 <p>The obvious fix would be for auto-reload to skip writes to <code>._*</code>. It can’t, and the reason is structural: the board exposes its flash as <strong>USB mass storage</strong>. The host writes raw blocks, not files. From the board’s side, macOS updating a sidecar and you saving <code>code.py</code> look the same. There is no filename to filter on.</p>
@@ -128,6 +146,28 @@ if lock_reload:
 
 <p>Flip <code>lock_reload</code> to <code>True</code> when the piece is running for real, and back to <code>False</code> while you’re developing. A single boolean is easier to find than a commented-out line, and the printed reminder saves you the confusion of wondering why your saves have stopped taking effect — because once it’s locked, you have to reset the board manually for changes to load.</p>
 
+<h3>5. Reload on demand from the serial console</h3>
+
+<p>Locking auto-reload doesn’t have to mean reaching for the reset button. Watch the console for a keystroke and reload when <em>you</em> ask:</p>
+
+<pre><code>import sys
+import supervisor
+
+RELOAD_KEYS = ("r", "R", "\x04")     # "r", or Ctrl-D (EOT), as at the REPL
+
+
+def check_keys():
+    """Non-blocking: consume pending serial input and act on it."""
+    while supervisor.runtime.serial_bytes_available:
+        key = sys.stdin.read(1)
+        if key in RELOAD_KEYS:
+            print("reloading...")
+            supervisor.reload()</code></pre>
+
+<p>Call <code>check_keys()</code> once per pass through your main loop. Two details matter: guard the read with <code>serial_bytes_available</code>, because <code>sys.stdin.read(1)</code> blocks when nothing is waiting and would freeze your animation; and drain with <code>while</code> rather than <code>if</code>, so fast typing doesn’t trickle in over later frames.</p>
+
+<p>Ctrl-D arrives as plain byte <code>0x04</code> while your code is running, so matching <code>"\x04"</code> mirrors what Ctrl-D already does at the REPL. Ctrl-C needs no handling — CircuitPython intercepts it and raises <code>KeyboardInterrupt</code>.</p>
+
 <h2>When this actually matters</h2>
 
 <p>It’s worth being clear about the scope, because the problem is narrower than it first feels:</p>
@@ -146,6 +186,70 @@ if lock_reload:
 print("run reason:", supervisor.runtime.run_reason)</code></pre>
 
 <p>It will report <code>AUTO_RELOAD</code> for a filesystem write, which distinguishes macOS noise from an actual problem in your program.</p>
+
+<h2>Try it yourself</h2>
+
+<p>Here is a complete, board-agnostic demo — no NeoPixel or pin setup, so it runs on any CircuitPython board. Save it to <code>CIRCUITPY</code> as <code>code.py</code> and open a serial console.</p>
+
+<p>The uptime counter is the whole trick. A phantom reload is otherwise invisible; when the counter jumps back to zero, you have just watched macOS restart your board.</p>
+
+<pre><code>import sys
+import time
+import supervisor
+
+# ---- Set true to stop macOS metadata writes from restarting the board ----
+lock_reload = True
+# --------------------------------------------------------------------------
+
+if lock_reload:
+    supervisor.runtime.autoreload = False
+    print("Auto-reload is OFF")
+    print("Manually reset after code changes, or send 'r' or Ctrl-D to reload")
+else:
+    supervisor.runtime.autoreload = True
+    print("Auto-reload is ON")
+    print("Use Quick Look (spacebar) on a file in CIRCUITPY to trigger a reload")
+
+# AUTO_RELOAD here means a filesystem write restarted us, not a real reset.
+print("run reason:", supervisor.runtime.run_reason)
+print()
+
+NS_PER_SEC = 1000000000
+start = time.monotonic_ns()
+next_tick = start
+
+RELOAD_KEYS = ("r", "R", "\x04")     # "r", or Ctrl-D (EOT), as at the REPL
+
+
+def check_keys():
+    """Non-blocking: consume pending serial input and act on it."""
+    while supervisor.runtime.serial_bytes_available:
+        key = sys.stdin.read(1)
+        if key in RELOAD_KEYS:
+            print("reloading...")
+            supervisor.reload()
+
+
+while True:
+    check_keys()
+
+    # Heartbeat once a second. If this counter jumps back to 0, something
+    # wrote to the filesystem and auto-reload restarted the program.
+    now = time.monotonic_ns()
+    if now &gt;= next_tick:
+        print("uptime: {:d}s".format((now - start) // NS_PER_SEC))
+        next_tick += NS_PER_SEC</code></pre>
+
+<p>To see both behaviours:</p>
+
+<ol>
+<li>Set <code>lock_reload = False</code> and watch the uptime counter climb.</li>
+<li>In the Finder, select any file on <code>CIRCUITPY</code> and press space for a Quick Look preview. The counter resets to 0 and the run reason prints as <code>AUTO_RELOAD</code> — nothing was edited, but the board restarted.</li>
+<li>Set <code>lock_reload = True</code> and repeat. The counter keeps climbing.</li>
+<li>Press <code>r</code> or Ctrl-D in the console to confirm you can still reload on demand.</li>
+</ol>
+
+<p>Step 2 is the one worth doing at least once. Watching a preview window reboot a microcontroller makes the problem considerably harder to forget.</p>
 
 <hr />
 
