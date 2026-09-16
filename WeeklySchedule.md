@@ -256,11 +256,11 @@ Visual Studio Code with CircuitPython
     - Note: you may have to reselect the port and click Start Monitoring if you manually reset the board
 
 CircuitPython continued
-    - [Builtin NeoPixel RGB LED](https://learn.adafruit.com/adafruit-rp2040-prop-maker-feather/neopixel)
-        - Note: bundle download link is broken (2026-09-16), can download library bundle from general [CircuitPython Neopixel](https://learn.adafruit.com/circuitpython-essentials/circuitpython-neopixel) example page
-    - [CircuitPython libraries](https://learn.adafruit.com/adafruit-rp2040-prop-maker-feather/circuitpython-libraries)
-    - [Sound + Motion](https://learn.adafruit.com/adafruit-rp2040-prop-maker-feather/prop-maker-example)
-    - [Prop-maker Example](https://learn.adafruit.com/adafruit-rp2040-prop-maker-feather/prop-maker-example)
+  - [Builtin NeoPixel RGB LED](https://learn.adafruit.com/adafruit-rp2040-prop-maker-feather/neopixel)
+    - Note: bundle download link is broken (2026-09-16), can download library bundle from general [CircuitPython Neopixel](https://learn.adafruit.com/circuitpython-essentials/circuitpython-neopixel) example page
+  - [CircuitPython libraries](https://learn.adafruit.com/adafruit-rp2040-prop-maker-feather/circuitpython-libraries)
+  - [Sound + Motion](https://learn.adafruit.com/adafruit-rp2040-prop-maker-feather/prop-maker-example)
+  - [Prop-maker Example](https://learn.adafruit.com/adafruit-rp2040-prop-maker-feather/prop-maker-example)
  
 - [How do I learn Python?](https://learn.adafruit.com/welcome-to-circuitpython/how-do-i-learn-python "How do I learn Python?")
 
