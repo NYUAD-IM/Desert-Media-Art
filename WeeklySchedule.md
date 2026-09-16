@@ -246,7 +246,22 @@ Visual Studio Code with CircuitPython
 - Make sure to Trust whenever prompted
 - Disable PyLance (excessive error highlighting)
     - View->Extensions->Search->"PyLance" and clicking Disable
-- On Mac you can hide Mac specific dot files by adding them the preferences "files.exclude". See [How can I hide specified files/directories (e.g., .git) in the sidebar? (Stack Overflow)](https://stackoverflow.com/a/30142299)
+- On Mac you can clean up the file directory display by hiding the Mac specific hidden files (dot files)
+    - Go to Code->Settings->Settings
+    - Search for "files"
+    - Add "**/.*" as an exclude pattern
+
+<p>
+    <img width="726" height="472" alt="Screenshot 2026-09-16 at 3 09 51 PM" src="https://github.com/user-attachments/assets/4e0d2526-3917-4b3b-9108-3502cdcffcb0" /><br/>
+    Before hiding dotfiles
+</p>
+
+<p>
+    <img width="726" height="472" alt="Screenshot 2026-09-16 at 3 10 02 PM" src="https://github.com/user-attachments/assets/1a307148-3dcd-444b-94d4-f4766c6e8d50" /><br/>
+    After hiding dotfiles
+</p>
+
+
 - Install [Serial Monitor](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-serial-monitor)
     - Install from [Serial Monitor webpage](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-serial-monitor) or View->Extensions->Search->"Serial Monitor" and click install
     - To open the Serial Monitor
