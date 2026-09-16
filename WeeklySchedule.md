@@ -204,14 +204,14 @@ Due before start of class - Wednesday Sept 10 (late if submitted after class sta
 ## Week 3.1
 - Homework review
 - Reading discussion
-- Distribute class kits
-- Introduction to CircuitPython
-    - [Getting started with CircuitPython](https://desert.nyuadim.com/2022/02/28/getting-ready-for-circuitpython-featherwing-m4-express/)
-    
-    - [CircuitPython Internal RGB LED](https://learn.adafruit.com/adafruit-feather-m4-express-atsamd51/circuitpython-internal-rgb-led)
-    
-    - [CircuitPython NeoPixel](https://learn.adafruit.com/adafruit-feather-m4-express-atsamd51/circuitpython-neopixel)
-    - [CircuitPython Audio Out](https://desert.nyuadim.com/2022/04/01/tutorial-for-sound-on-prop-maker-m4-express/)
+  
+- Desert Ecology and Culture
+    - The latitude band of deserts shifts on a ~20,000 year cycle
+        - There were lakes in the now desert of UAE ~5,000 years ago
+    - Rub Al-Khali – “The Empty Quarter”
+        - [Moreeb Dune (تل مرعب)](https://en.wikipedia.org/wiki/Moreeb_Dune)
+        - [Moreeb Dune (Google Maps)](https://goo.gl/maps/Mw7RZ4LDLPWNyF2r8)
+- [Desert Media Art around the Gulf](https://desert.nyuadim.com/desert-media-art-in-the-gulf/ "Desert Media Art in the Gulf")
 
 ### Homework
 
@@ -299,6 +299,9 @@ CircuitPython continued
 Battery power
 - [RP2040 Prop-Maker Power Management](https://learn.adafruit.com/adafruit-rp2040-prop-maker-feather/power-management)
 
+Light rave
+
+
 <!--      
     - [Sound](https://desert.nyuadim.com/2022/04/01/tutorial-for-sound-on-prop-maker-m4-express/)
     - [Servo](https://desert.nyuadim.com/2022/04/01/tutorial-for-moving-servo-on-m4-express/)
@@ -338,16 +341,8 @@ Battery power
 ---
 
 ## Week 4.2
-- Battery demonstration
-- Light rave
-- Desert Ecology and Culture
-- Discuss Reading
-    - The latitude band of deserts shifts on a ~20,000 year cycle
-        - There were lakes in the now desert of UAE ~5,000 years ago
-    - Rub Al-Khali – “The Empty Quarter”
-        - [Moreeb Dune (تل مرعب)](https://en.wikipedia.org/wiki/Moreeb_Dune)
-        - [Moreeb Dune (Google Maps)](https://goo.gl/maps/Mw7RZ4LDLPWNyF2r8)
-- [Desert Media Art around the Gulf](https://desert.nyuadim.com/desert-media-art-in-the-gulf/ "Desert Media Art in the Gulf")
+Tool training
+
 
 - [Multimeters (Adafruit)](https://learn.adafruit.com/multimeters/overview)
     - For continuity testing with our multimeters, make sure switch is set to  Ω / (beep) and press the blue button to cycle into the beep mode
