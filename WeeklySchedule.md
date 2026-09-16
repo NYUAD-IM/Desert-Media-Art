@@ -229,9 +229,40 @@ Due before start of class - Wednesday Sept 10 (late if submitted after class sta
 - Announcement
   - [IM Lab Resources](https://www.nyuadim.com/resources/) - new peer-tutor drop-in times, equipment booking, lab hours, policies, etc
 
-- **Workshop** Arduino / CircuitPython
+- **Workshop** CircuitPython
+    - Introduction to class kit
+        - [Adafruit RP2040 Prop-Maker Feather](https://learn.adafruit.com/adafruit-rp2040-prop-maker-feather)
+        - [Desert Media Art class kit](https://docs.google.com/spreadsheets/d/1HRlQtZLUKh0WrjukIdpkrULyG5zmgzrp0r7UGMDrOL0/edit?usp=sharing)
+        - [Music Devices class kit](https://docs.google.com/spreadsheets/d/1E7wj5a9iZ-vE2lGYsUak2XLuWMRjYg9C7a8kJ_WtPjM/edit?usp=sharing) - we have some spares / donations of these parts
+            - [ESP32-S3 Reverse TFT Feather](https://learn.adafruit.com/esp32-s3-reverse-tft-feather)
+    - [Using CircuitPython on RP2040 Prop Maker](https://learn.adafruit.com/adafruit-rp2040-prop-maker-feather/circuitpython)
+    - [Install CircuitPython 10.x](https://learn.adafruit.com/adafruit-rp2040-prop-maker-feather/circuitpython#circuitpython-quickstart-3091237)
+    - [Hello World (blink LED)](https://learn.adafruit.com/adafruit-rp2040-prop-maker-feather/blink)
+ 
+Visual Studio Code with CircuitPython
+- Download [Visual Studio Code](https://code.visualstudio.com/)
+- Open the CIRCUITPY/code.py file
+    - Install Python when prompted
+- Make sure to Trust whenever prompted
+- Disable PyLance (excessive error highlighting)
+    - View->Extensions->Search->"PyLance" and clicking Disable
+- Install [Serial Monitor](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-serial-monitor)
+    - Install from [Serial Monitor webpage](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-serial-monitor) or View->Extensions->Search->"Serial Monitor" and click install
+    - To open the Serial Monitor
+        - Terminal->New Terminal
+        - Click on the Serial Monitor tab
+        - Select the Port (e.g. /dev/tty.usbmodem... - Adafruit)
+        - Click Start Monitoring
+    - Note: you may have to reselect the port and click Start Monitoring if you manually reset the board
+
+CircuitPython continued
+    - [Builtin NeoPixel RGB LED](https://learn.adafruit.com/adafruit-rp2040-prop-maker-feather/neopixel)
+        - Note: bundle download link is broken (2026-09-16), can download library bundle from general [CircuitPython Neopixel](https://learn.adafruit.com/circuitpython-essentials/circuitpython-neopixel) example page
+    - [CircuitPython libraries](https://learn.adafruit.com/adafruit-rp2040-prop-maker-feather/circuitpython-libraries)
+    - [Sound + Motion](https://learn.adafruit.com/adafruit-rp2040-prop-maker-feather/prop-maker-example)
+    - [Prop-maker Example](https://learn.adafruit.com/adafruit-rp2040-prop-maker-feather/prop-maker-example)
+ 
 - [How do I learn Python?](https://learn.adafruit.com/welcome-to-circuitpython/how-do-i-learn-python "How do I learn Python?")
-- Download [Mu Editor](https://codewith.mu/)
 
 <!--
 - Update CircuitPython to version 9.x (stable) on your board
@@ -239,22 +270,18 @@ Due before start of class - Wednesday Sept 10 (late if submitted after class sta
     - Download the UF2 file [https://circuitpython.org/board/feather\_m4\_express/](https://circuitpython.org/board/feather_m4_express/)
 -->
 
+- **Exercise 2 – RGB Hello World**
+    
+    - _Look at Brightspace -> Discussions -> Exercise 2 for the full instructions for the exercise_
+    - **Create** a CircuitPython script that makes a simple animation using the onboard RGB LED
+    
+    - **Post** a link to your script and your documentation to Brightspace -> Discussions -> Exercises -> Exercise 2
+    - **Be ready to show** your project in class
+
 ## Week 4.1
-- Workshop
-    - (Re)Introduction to class kit
-        - [Adafruit RP2040 Prop-Maker Feather](https://learn.adafruit.com/adafruit-rp2040-prop-maker-feather)
-        - [Desert Media Art class kit](https://docs.google.com/spreadsheets/d/1HRlQtZLUKh0WrjukIdpkrULyG5zmgzrp0r7UGMDrOL0/edit?usp=sharing)
-        - [Music Devices class kit](https://docs.google.com/spreadsheets/d/1E7wj5a9iZ-vE2lGYsUak2XLuWMRjYg9C7a8kJ_WtPjM/edit?usp=sharing) - we have some spares / donations of these parts
-            - [ESP32-S3 Reverse TFT Feather](https://learn.adafruit.com/esp32-s3-reverse-tft-feather)
-    - Using [Mu editor](https://codewith.mu/)
-    - Basic blink
-    - Installing CircuitPython libraries
-    - Using the on-board NeoPixel RGB LED
-- CircuitPython Examples
-    - [Using CircuitPython on RP2040 Prop Maker](https://learn.adafruit.com/adafruit-rp2040-prop-maker-feather/circuitpython)
-    - [Hello World (blink LED)](https://learn.adafruit.com/adafruit-rp2040-prop-maker-feather/blink)
-    - [Builtin NeoPixel RGB LED](https://learn.adafruit.com/adafruit-rp2040-prop-maker-feather/neopixel) – includes the necessary libraries for Exercise 2: RGB Hello World
-    - [Sound + Motion](https://learn.adafruit.com/adafruit-rp2040-prop-maker-feather/prop-maker-example)
+
+Battery power
+- [RP2040 Prop-Maker Power Management](https://learn.adafruit.com/adafruit-rp2040-prop-maker-feather/power-management)
 
 <!--      
     - [Sound](https://desert.nyuadim.com/2022/04/01/tutorial-for-sound-on-prop-maker-m4-express/)
@@ -287,31 +314,10 @@ Due before start of class - Wednesday Sept 10 (late if submitted after class sta
 --> 
 
       
-Visual Studio Code with CircuitPython
-- Download [Visual Studio Code](https://code.visualstudio.com/)
-- Open the CIRCUITPY/code.py file
-    - Install Python when prompted
-- Make sure to Trust whenever prompted
-- Disable PyLance (excessive error highlighting)
-    - View->Extensions->Search->"PyLance" and clicking Disable
-- Install [Serial Monitor](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-serial-monitor)
-    - Install from [Serial Monitor webpage](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-serial-monitor) or View->Extensions->Search->"Serial Monitor" and click install
-    - To open the Serial Monitor
-        - Terminal->New Terminal
-        - Click on the Serial Monitor tab
-        - Select the Port (e.g. /dev/tty.usbmodem... - Adafruit)
-        - Click Start Monitoring
-    - Note: you may have to reselect the port and click Start Monitoring if you manually reset the board
-        
+
 
 ## Homework – Week 4.1
 
-- **Exercise 2 – RGB Hello World**
-    
-    - _Look at Brightspace -> Discussions -> Exercise 2 for the full instructions for the exercise_
-    - **Create** a CircuitPython script that makes a simple animation using the onboard RGB LED
-    
-    - **Post** a link to your script and your documentation to Brightspace -> Discussions -> Exercises -> Exercise 2
 
 ---
 
