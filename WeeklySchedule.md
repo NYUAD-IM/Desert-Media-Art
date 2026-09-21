@@ -320,17 +320,17 @@ Light rave
     - [Servo](https://desert.nyuadim.com/2022/04/01/tutorial-for-moving-servo-on-m4-express/)
 -->
  
-- Soldering
-    - [Resources for soldering](https://github.com/michaelshiloh/resourcesForClasses#soldering)
-    - [Soldering NeoPixels](https://learn.adafruit.com/make-it-glow-how-to-solder-neopixels-a-beginners-guide/techniques)
-    - [The Only LED Strip Soldering Tutorial You'll Ever Need (YouTube)](https://www.youtube.com/watch?v=98t4NzqtD3E)
-    - [How To Solder Headers: A Beginner Tutorial (YouTube)](https://www.youtube.com/watch?v=Z0joOKaQ43A)
-    - [Using EN enable pin to power down board](https://learn.adafruit.com/adafruit-rp2040-prop-maker-feather/power-management#enable-pin-3122388)
-    - Soldering demo using [FeatherWing Doubler](https://www.adafruit.com/product/2890)
+Soldering
+- [Resources for soldering](https://github.com/michaelshiloh/resourcesForClasses#soldering)
+- [Soldering NeoPixels](https://learn.adafruit.com/make-it-glow-how-to-solder-neopixels-a-beginners-guide/techniques)
+- [The Only LED Strip Soldering Tutorial You'll Ever Need (YouTube)](https://www.youtube.com/watch?v=98t4NzqtD3E)
+- [How To Solder Headers: A Beginner Tutorial (YouTube)](https://www.youtube.com/watch?v=Z0joOKaQ43A)
+- [Using EN enable pin to power down board](https://learn.adafruit.com/adafruit-rp2040-prop-maker-feather/power-management#enable-pin-3122388)
+- Soldering demo using [FeatherWing Doubler](https://www.adafruit.com/product/2890)
 
-- Workshop: Soldering
-    - Solder your button
-    - Solder your Neopixel ring
+Workshop: Soldering
+- Solder your button
+- Solder your Neopixel ring
 
 <!--
 - GitHub (optional but recommended)
