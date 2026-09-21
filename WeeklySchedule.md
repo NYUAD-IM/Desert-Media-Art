@@ -326,7 +326,7 @@ Light rave
     - [The Only LED Strip Soldering Tutorial You'll Ever Need (YouTube)](https://www.youtube.com/watch?v=98t4NzqtD3E)
     - [How To Solder Headers: A Beginner Tutorial (YouTube)](https://www.youtube.com/watch?v=Z0joOKaQ43A)
     - [Using EN enable pin to power down board](https://learn.adafruit.com/adafruit-rp2040-prop-maker-feather/power-management#enable-pin-3122388)
--     Soldering demo using [FeatherWing Doubler](https://www.adafruit.com/product/2890)
+    - Soldering demo using [FeatherWing Doubler](https://www.adafruit.com/product/2890)
 
 - Workshop: Soldering
     - Solder your button
