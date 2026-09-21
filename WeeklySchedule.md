@@ -280,6 +280,20 @@ CircuitPython continued
  
 - [How do I learn Python?](https://learn.adafruit.com/welcome-to-circuitpython/how-do-i-learn-python "How do I learn Python?")
 
+- [CircuitPython Essentials](https://learn.adafruit.com/circuitpython-essentials/circuitpython-essentials)
+    - [Pins and Modules](https://learn.adafruit.com/circuitpython-essentials/circuitpython-pins-and-modules)
+    - [Digital In and Out](https://learn.adafruit.com/circuitpython-essentials/circuitpython-digital-in-out)
+    - [Internal RGB LED](https://learn.adafruit.com/circuitpython-essentials/circuitpython-internal-rgb-led)
+    - [NeoPixel](https://learn.adafruit.com/circuitpython-essentials/circuitpython-neopixel)
+      
+- [Arduino to CircuitPython](https://learn.adafruit.com/arduino-to-circuitpython/overview)
+    - Comparison of Arduino and CircuitPython with examples of how to do similar tasks
+    
+- Useful CircuitPython references for this week's assignment
+    - [CircuitPython time functions](https://docs.circuitpython.org/en/latest/shared-bindings/time/index.html)
+    - [Arduino to CircuitPython - time](https://learn.adafruit.com/arduino-to-circuitpython/time)
+    - [RGB color codes](https://www.rapidtables.com/web/color/RGB_Color.html)
+
 <!--
 - Update CircuitPython to version 10.x (stable) on your board
     - Update instructions [https://learn.adafruit.com/adafruit-feather-m4-express-atsamd51/circuitpython](https://learn.adafruit.com/adafruit-feather-m4-express-atsamd51/circuitpython)
@@ -301,24 +315,24 @@ Battery power
 
 Light rave
 
-
 <!--      
     - [Sound](https://desert.nyuadim.com/2022/04/01/tutorial-for-sound-on-prop-maker-m4-express/)
     - [Servo](https://desert.nyuadim.com/2022/04/01/tutorial-for-moving-servo-on-m4-express/)
 -->
-
-- [CircuitPython Essentials](https://learn.adafruit.com/circuitpython-essentials/circuitpython-essentials)
-    - [Pins and Modules](https://learn.adafruit.com/circuitpython-essentials/circuitpython-pins-and-modules)
-    - [Digital In and Out](https://learn.adafruit.com/circuitpython-essentials/circuitpython-digital-in-out)
-    - [Internal RGB LED](https://learn.adafruit.com/circuitpython-essentials/circuitpython-internal-rgb-led)
-    - [NeoPixel](https://learn.adafruit.com/circuitpython-essentials/circuitpython-neopixel)
-- [Arduino to CircuitPython](https://learn.adafruit.com/arduino-to-circuitpython/overview)
-    - Comparison of Arduino and CircuitPython with examples of how to do similar tasks 
-- Useful CircuitPython references for this week's assignment
-    - [CircuitPython time functions](https://docs.circuitpython.org/en/latest/shared-bindings/time/index.html)
-    - [Arduino to CircuitPython - time](https://learn.adafruit.com/arduino-to-circuitpython/time)
-    - [RGB color codes](https://www.rapidtables.com/web/color/RGB_Color.html)
  
+- Soldering
+    - [Resources for soldering](https://github.com/michaelshiloh/resourcesForClasses#soldering)
+    - [Soldering NeoPixels](https://learn.adafruit.com/make-it-glow-how-to-solder-neopixels-a-beginners-guide/techniques)
+    - [The Only LED Strip Soldering Tutorial You'll Ever Need (YouTube)](https://www.youtube.com/watch?v=98t4NzqtD3E)
+    - [How To Solder Headers: A Beginner Tutorial (YouTube)](https://www.youtube.com/watch?v=Z0joOKaQ43A)
+    - [Using EN enable pin to power down board](https://learn.adafruit.com/adafruit-rp2040-prop-maker-feather/power-management#enable-pin-3122388)
+-     Soldering demo using [FeatherWing Doubler](https://www.adafruit.com/product/2890)
+
+- Workshop: Soldering
+    - Solder your button
+    - Solder your Neopixel ring
+
+<!--
 - GitHub (optional but recommended)
     - Learning GitHub – [1.1: Introduction – Git and GitHub for Poets (Coding Train)](https://www.youtube.com/watch?v=BCQHnlnPusY)
     - Add this .gitignore file to your repository – [.gitignore](https://github.com/NYUAD-IM/Desert-Media-Art/blob/main/.gitignore)
@@ -328,6 +342,8 @@ Light rave
     - Get your simple on-board LED blinking
     - Get your RGB NeoPixel changing colours
         -  See [Internal RGB LED](https://learn.adafruit.com/adafruit-rp2040-prop-maker-feather/neopixel)
+-->
+
 <!--
     - [Adafruit Feather M4 Express Assembly](https://learn.adafruit.com/adafruit-feather-m4-express-atsamd51/assembly)
 --> 
@@ -336,41 +352,6 @@ Light rave
 
 
 ## Homework – Week 4.1
-
-
----
-
-## Week 4.2
-Tool training
-
-
-- [Multimeters (Adafruit)](https://learn.adafruit.com/multimeters/overview)
-    - For continuity testing with our multimeters, make sure switch is set to  Ω / (beep) and press the blue button to cycle into the beep mode
-    - The probes should be in COM and VΩ
-    - The multimeter will beep when the resistance (Ω) is low. OL on the meter indicates "Over Limit" (i.e. extremely high resistance / not connected)
-<img src="https://intro.nyuadim.com/wp-content/uploads/2024/09/Multimeter_continuity.jpg"  alt="Multimeter continuity" width=500 />
-
-- Soldering
-    - [Resources for soldering](https://github.com/michaelshiloh/resourcesForClasses#soldering)
-    - [Soldering NeoPixels](https://learn.adafruit.com/make-it-glow-how-to-solder-neopixels-a-beginners-guide/techniques)
-    - [The Only LED Strip Soldering Tutorial You'll Ever Need (YouTube)](https://www.youtube.com/watch?v=98t4NzqtD3E)
-
-- Workshop: Soldering
-    - Solder your power switch
-
-- Introduction to Rapid Prototyping Assignment
-- 3D printing design resources
-    - [Design for 3D printing (shapr3d)](https://www.shapr3d.com/blog/design-for-3d-printing)
-    - [Ultimate Guide: How to design for 3D Printing (wikifactory)](https://wikifactory.com/+wikifactory/stories/ultimate-guide-how-to-design-for-3d-printing)
-
-### Homework – Week 4.2
-
-Due before start of next class
-
-<!--
-- **Finish soldering** your M4 Express board with long stacking headers
-    - [Soldering Stacking Headers Tutorial](https://desert.nyuadim.com/2022/09/14/soldering-stacking-headers/)
--->
 
 - **Solder** wires to your button
     - The button is non-polarized (it doesn't matter which wire we will hook up) so I suggest to use the *same colour* for both wires, and *not* black or red (reserve those for gnd / negative and power / positive)
@@ -414,12 +395,39 @@ rainbow = Rainbow(pixels, speed=0.05, period=2)
 ```
 -->
 
+Next class is mandatory tool / safety training
+- Wear closed-toed shoes
+- Avoid loose clothing (e.g. necklaces, loose sleeves)
+- Arrive promptly
+
+---
+
+## Week 4.2
+Tool training
+
+
+- [Multimeters (Adafruit)](https://learn.adafruit.com/multimeters/overview)
+    - For continuity testing with our multimeters, make sure switch is set to  Ω / (beep) and press the blue button to cycle into the beep mode
+    - The probes should be in COM and VΩ
+    - The multimeter will beep when the resistance (Ω) is low. OL on the meter indicates "Over Limit" (i.e. extremely high resistance / not connected)
+<img src="https://intro.nyuadim.com/wp-content/uploads/2024/09/Multimeter_continuity.jpg"  alt="Multimeter continuity" width=500 />
+
+### Homework – Week 4.2
+
+Due before start of next class
+
+<!--
+- **Finish soldering** your M4 Express board with long stacking headers
+    - [Soldering Stacking Headers Tutorial](https://desert.nyuadim.com/2022/09/14/soldering-stacking-headers/)
+-->
+
 - **Read** [Proceedings of the Digital Naturalism Conference](https://archive.org/details/dinacon-2019-single-page-lulu-a-5-printed-2/DINACON%202019%20single%20page%20lulu%20-%20A5_printed2/)
     - **Post** a reading response via Brightspace
-
-- Start thinking about project ideas
-- **Download** [Inkscape](https://inkscape.org/)
-- **Watch** [Inkscape explained in 5 minutes (YouTube)](https://www.youtube.com/watch?v=pa6a7oz7vEE)
+ 
+- Have a look at these tutorials to get familiar with servos / sound / light
+- [NeoPixels with CircuitPython](https://learn.adafruit.com/circuitpython-essentials/circuitpython-neopixel)
+- [Sound](https://desert.nyuadim.com/2022/04/01/tutorial-for-sound-on-prop-maker-m4-express/)
+- [Servo](https://desert.nyuadim.com/2022/04/01/tutorial-for-moving-servo-on-m4-express/)
 
 ---
 
@@ -435,10 +443,9 @@ rainbow = Rainbow(pixels, speed=0.05, period=2)
 
 Due before start of next class
 
-- Have a look at these tutorials to get familiar with servos / sound / light
-- [NeoPixels with CircuitPython](https://learn.adafruit.com/circuitpython-essentials/circuitpython-neopixel)
-- [Sound](https://desert.nyuadim.com/2022/04/01/tutorial-for-sound-on-prop-maker-m4-express/)
-- [Servo](https://desert.nyuadim.com/2022/04/01/tutorial-for-moving-servo-on-m4-express/)
+- Start thinking about project ideas
+- **Download** [Inkscape](https://inkscape.org/)
+- **Watch** [Inkscape explained in 5 minutes (YouTube)](https://www.youtube.com/watch?v=pa6a7oz7vEE)
 
 ---
 
@@ -518,8 +525,11 @@ Due before start of next class
 # Week 6
 
 ## Week 6.1
-
 - Introduction to [Final Project](https://desert.nyuadim.com/2022/09/27/final-project/)
+- Introduction to Rapid Prototyping Assignment
+- 3D printing design resources
+    - [Design for 3D printing (shapr3d)](https://www.shapr3d.com/blog/design-for-3d-printing)
+    - [Ultimate Guide: How to design for 3D Printing (wikifactory)](https://wikifactory.com/+wikifactory/stories/ultimate-guide-how-to-design-for-3d-printing)
 - [Class Resources](https://desert.nyuadim.com/class-resources/)
     - Growing list of resources about e.g. 3D printing
 - Sensors we have available
@@ -551,11 +561,6 @@ Due before start of next class
 ## Week 6.2
 Field scouting
 – [Abu Dhabi Desert Road](https://desert.nyuadim.com/2023/10/15/abu-dhabi-desert-road/)
-
-Soldering
-- [How To Solder Headers: A Beginner Tutorial (YouTube)](https://www.youtube.com/watch?v=Z0joOKaQ43A)
-- [Using EN enable pin to power down board](https://learn.adafruit.com/adafruit-rp2040-prop-maker-feather/power-management#enable-pin-3122388)
-- Soldering demo using [FeatherWing Doubler](https://www.adafruit.com/product/2890)
 
 Analog in demo
 - [analogin_demo.py (GitHub)](https://github.com/NYUAD-IM/Desert-Media-Art/blob/main/Code/analogin_demo.py)
