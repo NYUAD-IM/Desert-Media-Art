@@ -281,7 +281,7 @@ CircuitPython continued
 - [How do I learn Python?](https://learn.adafruit.com/welcome-to-circuitpython/how-do-i-learn-python "How do I learn Python?")
 
 <!--
-- Update CircuitPython to version 9.x (stable) on your board
+- Update CircuitPython to version 10.x (stable) on your board
     - Update instructions [https://learn.adafruit.com/adafruit-feather-m4-express-atsamd51/circuitpython](https://learn.adafruit.com/adafruit-feather-m4-express-atsamd51/circuitpython)
     - Download the UF2 file [https://circuitpython.org/board/feather\_m4\_express/](https://circuitpython.org/board/feather_m4_express/)
 -->
@@ -323,7 +323,7 @@ Light rave
     - Learning GitHub – [1.1: Introduction – Git and GitHub for Poets (Coding Train)](https://www.youtube.com/watch?v=BCQHnlnPusY)
     - Add this .gitignore file to your repository – [.gitignore](https://github.com/NYUAD-IM/Desert-Media-Art/blob/main/.gitignore)
         - Mac Finder files and compiled Python code (.pyc) will be ignored- In-class Assignment
-    - Update your Feather board to the latest bootloader and CircuitPython version (9.x)
+    - Update your Feather board to the latest bootloader and CircuitPython version (10.x)
        - [RP2040 Prop-Maker CircuitPython Quickstart](https://learn.adafruit.com/adafruit-rp2040-prop-maker-feather/circuitpython)
     - Get your simple on-board LED blinking
     - Get your RGB NeoPixel changing colours
@@ -448,7 +448,7 @@ Due before start of next class
 - Workshop: Sound, NeoPixels, Servo continued
     - Installing CircuitPython libraries
         - [CircuitPython Libraries overview](https://learn.adafruit.com/welcome-to-circuitpython/circuitpython-libraries)
-        - [Library bundle download for CircuitPython 9.x](https://circuitpython.org/libraries)
+        - [Library bundle download for CircuitPython 10.x](https://circuitpython.org/libraries)
     - IN CLASS mp3 example:
         - [CircuitPython MP3 Audio](https://learn.adafruit.com/circuitpython-essentials/circuitpython-mp3-audio)
         - [RP2040_PropMaker mp3example.py (GitHub)](https://github.com/NYUAD-IM/Desert-Media-Art/blob/main/Code/RP2040_PropMaker/mp3example.py)
