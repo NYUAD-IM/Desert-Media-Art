@@ -405,13 +405,6 @@ Next class is mandatory tool / safety training
 ## Week 4.2
 Tool training
 
-
-- [Multimeters (Adafruit)](https://learn.adafruit.com/multimeters/overview)
-    - For continuity testing with our multimeters, make sure switch is set to  Ω / (beep) and press the blue button to cycle into the beep mode
-    - The probes should be in COM and VΩ
-    - The multimeter will beep when the resistance (Ω) is low. OL on the meter indicates "Over Limit" (i.e. extremely high resistance / not connected)
-<img src="https://intro.nyuadim.com/wp-content/uploads/2024/09/Multimeter_continuity.jpg"  alt="Multimeter continuity" width=500 />
-
 ### Homework – Week 4.2
 
 Due before start of next class
@@ -438,6 +431,13 @@ Due before start of next class
         - Write your sound code in e.g. `sound_sketch.py`
         - Write your RGB code in e.g. `rgb_sketch.py`
         - Inside code.py, change between `import sound_sketch` and `import rgb_sketch`
+     
+- [Multimeters (Adafruit)](https://learn.adafruit.com/multimeters/overview)
+    - For continuity testing with our multimeters, make sure switch is set to  Ω / (beep) and press the blue button to cycle into the beep mode
+    - The probes should be in COM and VΩ
+    - The multimeter will beep when the resistance (Ω) is low. OL on the meter indicates "Over Limit" (i.e. extremely high resistance / not connected)
+<img src="https://intro.nyuadim.com/wp-content/uploads/2024/09/Multimeter_continuity.jpg"  alt="Multimeter continuity" width=500 />
+
 
 ### Homework – Week 5.1
 
