@@ -246,8 +246,9 @@ Visual Studio Code with CircuitPython
 - Make sure to Trust whenever prompted
 - Disable PyLance (excessive error highlighting)
     - View->Extensions->Search->"PyLance" and clicking Disable
-- On Mac you can clean up the file directory display by hiding the Mac specific hidden files (dot files)
-    - Go to Code->Settings->Settings
+- You can clean up the file directory display by hiding the dot files
+    - Go to Preferences->Settings->Settings on Mac
+    - Go to Settings->Settings on Windows
     - Search for "files"
     - Add "**/.*" as an exclude pattern
 
