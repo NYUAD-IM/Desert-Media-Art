@@ -419,6 +419,8 @@ Due before start of next class
 
 **Run the Prop-Maker demo** to verify your soldering
 - [RP2040 Prop-Maker example (Adafruit)](https://learn.adafruit.com/adafruit-rp2040-prop-maker-feather/prop-maker-example)
+- Modify the sketch to change something based on the x and y orientation of the board
+    - For example make the servo track one of the directions and have the other direction control the volume 
 
 <!--
 - **Finish soldering** your M4 Express board with long stacking headers
