@@ -410,6 +410,16 @@ Tool training
 
 Due before start of next class
 
+**Finish soldering**
+- momentary push button
+- Speaker
+- Neopixel ring
+- Neopixel bar
+- Do NOT solder your RP2040 board - we'll do that next class
+
+**Run the Prop-Maker demo** to verify your soldering
+- [RP2040 Prop-Maker example (Adafruit)](https://learn.adafruit.com/adafruit-rp2040-prop-maker-feather/prop-maker-example)
+
 <!--
 - **Finish soldering** your M4 Express board with long stacking headers
     - [Soldering Stacking Headers Tutorial](https://desert.nyuadim.com/2022/09/14/soldering-stacking-headers/)
@@ -417,11 +427,6 @@ Due before start of next class
 
 - **Read** [Proceedings of the Digital Naturalism Conference](https://archive.org/details/dinacon-2019-single-page-lulu-a-5-printed-2/DINACON%202019%20single%20page%20lulu%20-%20A5_printed2/)
     - **Post** a reading response via Brightspace
- 
-- Have a look at these tutorials to get familiar with servos / sound / light
-- [NeoPixels with CircuitPython](https://learn.adafruit.com/circuitpython-essentials/circuitpython-neopixel)
-- [Sound](https://desert.nyuadim.com/2022/04/01/tutorial-for-sound-on-prop-maker-m4-express/)
-- [Servo](https://desert.nyuadim.com/2022/04/01/tutorial-for-moving-servo-on-m4-express/)
 
 ---
 
