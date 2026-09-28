@@ -433,6 +433,18 @@ Due before start of next class
 ---
 
 ## Week 5.1
+- Check soldering
+
+- [Multimeters (Adafruit)](https://learn.adafruit.com/multimeters/overview)
+    - For continuity testing with our multimeters, make sure switch is set to  Ω / (beep) and press the blue button to cycle into the beep mode
+    - The probes should be in COM and VΩ
+    - The multimeter will beep when the resistance (Ω) is low. OL on the meter indicates "Over Limit" (i.e. extremely high resistance / not connected)
+<img src="https://intro.nyuadim.com/wp-content/uploads/2024/09/Multimeter_continuity.jpg"  alt="Multimeter continuity" width=500 />
+
+- Soldering continued
+    - Solder RGBW NeoPixel board
+        - [Tutorial – NeoPixels with Prop-Maker FeatherWing](https://desert.nyuadim.com/2022/10/26/tutorial-rgbw-neopixels/) - for our board with screw terminals just solder bare wires to your RGBW board
+    - [Soldering stacking headers](https://desert.nyuadim.com/2022/09/14/soldering-stacking-headers/)
 
 - Workshop: Sound, NeoPixels, Servo
     - Changing between different sketches on your CircuitPython board
@@ -440,12 +452,6 @@ Due before start of next class
         - Write your RGB code in e.g. `rgb_sketch.py`
         - Inside code.py, change between `import sound_sketch` and `import rgb_sketch`
      
-- [Multimeters (Adafruit)](https://learn.adafruit.com/multimeters/overview)
-    - For continuity testing with our multimeters, make sure switch is set to  Ω / (beep) and press the blue button to cycle into the beep mode
-    - The probes should be in COM and VΩ
-    - The multimeter will beep when the resistance (Ω) is low. OL on the meter indicates "Over Limit" (i.e. extremely high resistance / not connected)
-<img src="https://intro.nyuadim.com/wp-content/uploads/2024/09/Multimeter_continuity.jpg"  alt="Multimeter continuity" width=500 />
-
 
 ### Homework – Week 5.1
 
