@@ -471,6 +471,7 @@ Due before start of next class
         - Use analog in with a potentiometer on your breadboard
         - You can also use the GPIO pin that's available on the terminal block of the propmaker board
     - [CircuitPython Photocell example (Adafruit)](https://learn.adafruit.com/photocells/circuitpython)
+        - Hook up the photocell to A0 and read its value
         - Substitute the potentiometer with a light dependent resistor / photocell (available in IM Lab consumables)
         - What other resistive sensors are available that you could use?
 
