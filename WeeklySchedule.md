@@ -463,9 +463,17 @@ Due before start of next class
 ---
 
 ## Week 5.2
+- Check soldering
 - Any questions from the Prop-Maker example?
 
-- Workshop: Sound, NeoPixels, Servo continued
+- Workshop: Sound, NeoPixels, Servo, Sensors
+    - [CircuitPython Analog In example (Adafruit)](https://learn.adafruit.com/circuitpython-essentials/circuitpython-analog-in)
+        - Use analog in with a potentiometer on your breadboard
+        - You can also use the GPIO pin that's available on the terminal block of the propmaker board
+    - [CircuitPython Photocell example (Adafruit)](https://learn.adafruit.com/photocells/circuitpython)
+        - Substitute the potentiometer with a light dependent resistor / photocell (available in IM Lab consumables)
+        - What other resistive sensors are available that you could use?
+
     - Installing CircuitPython libraries
         - [CircuitPython Libraries overview](https://learn.adafruit.com/welcome-to-circuitpython/circuitpython-libraries)
         - [Library bundle download for CircuitPython 10.x](https://circuitpython.org/libraries)
@@ -485,17 +493,17 @@ To make your own .mp3, use the following settings:
 
 Example export settings with [Audacity](https://www.audacityteam.org/)
 
+In-class exercise
+- Design a simple interaction that uses the potentiometer and photocell to control some combination of lights, sound, and movement
+- Create a new CircuitPython file that implements your interaction
+- Include an overview of the design and wiring instructions in your code file
+
 More examples:
 - IN CLASS NeoPixel example: [Tutorial for NeoPixel Ring](https://desert.nyuadim.com/2022/10/25/tutorial-neopixels-with-prop-maker-featherwing/)
 - IN CLASS (time permitting) [Tutorial for Servo](https://desert.nyuadim.com/2022/04/01/tutorial-for-moving-servo-on-m4-express/)
 - [Adafruit Prop Maker CircuitPython examples](https://learn.adafruit.com/adafruit-prop-maker-featherwing/circuitpython)
 - [CircuitPython MP3 Audio](https://learn.adafruit.com/circuitpython-essentials/circuitpython-mp3-audio)
-- Installing CircuitPython libraries
-    - Copy the .mpy file into your CIRCUITPY/lib folder
-- [CircuitPython Analog In](https://learn.adafruit.com/circuitpython-essentials/circuitpython-analog-in)
-    - Try using GPIO pin on terminal block
 
-- Reading Discussion - Dinacon
 
 - Cardboard prototypes
     - [Cardboard Fundamentals (Adafruit)](https://learn.adafruit.com/cardboard-fundamentals)
@@ -504,7 +512,8 @@ More examples:
         - [City Refl3ctor](https://michaelang.com/cityrefl3ctor) demo
 
 - 2D Design for Laser Cutting
-    - [Inkscape](https://inkscape.org/)
+    - Adobe Illustrator is available on most school lab computers
+    - [Inkscape](https://inkscape.org/) - free and open source
     - [Inkscape 11 minute tutorial (YouTube)](https://youtu.be/-_KJZPOYBeA)
     - [Inkscape basic tutorial](https://inkscape.org/doc/tutorials/basic/tutorial-basic.html)
     - [Inkscape Tutorials (YouTube)](https://www.youtube.com/watch?v=8f011wdiW7g&list=PLqazFFzUAPc5lOQwDoZ4Dw2YSXtO7lWNv&index=1)
