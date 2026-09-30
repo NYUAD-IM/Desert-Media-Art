@@ -494,11 +494,6 @@ To make your own .mp3, use the following settings:
 
 Example export settings with [Audacity](https://www.audacityteam.org/)
 
-In-class exercise
-- Design a simple interaction that uses the potentiometer and photocell to control some combination of lights, sound, and movement
-- Create a new CircuitPython file that implements your interaction
-- Include an overview of the design and wiring instructions in your code file
-
 More examples:
 - IN CLASS NeoPixel example: [Tutorial for NeoPixel Ring](https://desert.nyuadim.com/2022/10/25/tutorial-neopixels-with-prop-maker-featherwing/)
 - IN CLASS (time permitting) [Tutorial for Servo](https://desert.nyuadim.com/2022/04/01/tutorial-for-moving-servo-on-m4-express/)
@@ -539,11 +534,9 @@ Due before start of next class
 - **Complete** the [servo tutorial](https://desert.nyuadim.com/2022/04/01/tutorial-for-moving-servo-on-m4-express/)
 -->
 
-- **Exercise – Create and post** a 2D design
-    - See Brightspace -> Discussions -> Exercises -> Exercise – Inkscape for details
-
-- **Design** your prototype device
-- **Start** thinking about final project ideas
+### Homework
+- Complete Brightspace->Discussions->Week 5 Sensor assignment
+    - Design a simple interaction that uses the potentiometer and photocell to control some combination of lights, sound, and movement
 
 # Week 6
 
@@ -580,6 +573,13 @@ Due before start of next class
     - [Servos](https://desert.nyuadim.com/2022/04/01/tutorial-for-moving-servo-on-m4-express/)
     - [DC motors](https://learn.adafruit.com/adafruit-stepper-dc-motor-featherwing/overview) - yellow hobby motor
     - [Sound](https://desert.nyuadim.com/2022/04/01/tutorial-for-sound-on-prop-maker-m4-express/)
+
+### Homework
+- **Exercise – Create and post** a 2D design
+    - See Brightspace -> Discussions -> Exercises -> Exercise – Inkscape for details
+
+- **Design** your prototype device
+- **Start** thinking about final project ideas
 
 ## Week 6.2
 Field scouting
