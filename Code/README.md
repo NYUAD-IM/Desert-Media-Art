@@ -82,7 +82,7 @@ Free pins for your own sensors: A0 to A3 (the only analog inputs), D5, D6, D9, D
 
 ## Wiring
 
-The examples use different pins, so all of them can be connected at once. The combined diagram shows the pin names on the Feather and which example uses each part (click to open the full-size image):
+The examples use different pins, so all of them can be connected at once. The [all examples schematic](../Circuits/all_examples_schematic.png) shows the pin names on the Feather and which example uses each part (click to open the full-size image):
 
 <a href="https://raw.githubusercontent.com/NYUAD-IM/Desert-Media-Art/main/Circuits/all_examples_schematic.png"><img src="../Circuits/all_examples_schematic.png" width="300" alt="All examples schematic"></a>
 
