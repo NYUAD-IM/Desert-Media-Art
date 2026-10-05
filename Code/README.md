@@ -26,20 +26,20 @@ circup install adafruit_lis3dh
 
 | Example | What it does | Libraries needed (in `lib`) |
 |---|---|---|
-| `button_led.py` | Onboard red LED on while the button on the Btn terminal is pressed | none |
-| `analogin_demo.py` | Read a potentiometer and photoresistor on A0, A1 | none |
-| `analogread_pot.py` | Read a potentiometer on A0 | none |
-| `photocell_demo.py` | Read a photocell on A1, normalized to 0-1, LED on when dark | none |
-| `touch.py` | Capacitive touch on D24 (needs a 1M ohm resistor to ground) | none |
-| `servo_standard.py` | Sweep a servo on the servo terminal | `adafruit_motor` |
-| `neoring.py` | Rainbow on a NeoPixel ring (external NeoPixel terminal) | `neopixel` |
-| `neostrip_rgbw.py` | RGBW NeoPixel strip demo (`code.py` loads this one) | `neopixel` |
-| `demo_mp3.py` | Play an MP3 every 10 seconds on the speaker | none |
-| `mp3example.py` | Play MP3s in order, button on the Btn terminal to continue | none |
-| `mp3_button.py` | Play MP3s from `/mang`, push button on the Btn terminal to continue | none |
-| `mp3tap.py` | Play an MP3 each time you tap the board | `adafruit_lis3dh` |
-| `hcsr04_distance.py` | HC-SR04 ultrasonic distance on D5 / D6 | `adafruit_hcsr04` |
-| `tof_distance.py` | VL53L1X distance sensor over I2C, onboard NeoPixel shows range | `adafruit_vl53l1x` |
+| [`button_led.py`](button_led.py) | Onboard red LED on while the button on the Btn terminal is pressed | none |
+| [`analogin_demo.py`](analogin_demo.py) | Read a potentiometer and photoresistor on A0, A1 | none |
+| [`analogread_pot.py`](analogread_pot.py) | Read a potentiometer on A0 | none |
+| [`photocell_demo.py`](photocell_demo.py) | Read a photocell on A1, normalized to 0-1, LED on when dark | none |
+| [`touch.py`](touch.py) | Capacitive touch on D24 (needs a 1M ohm resistor to ground) | none |
+| [`servo_standard.py`](servo_standard.py) | Sweep a servo on the servo terminal | `adafruit_motor` |
+| [`neoring.py`](neoring.py) | Rainbow on a NeoPixel ring (external NeoPixel terminal) | `neopixel` |
+| [`neostrip_rgbw.py`](neostrip_rgbw.py) | RGBW NeoPixel strip demo (`code.py` loads this one) | `neopixel` |
+| [`demo_mp3.py`](demo_mp3.py) | Play an MP3 every 10 seconds on the speaker | none |
+| [`mp3example.py`](mp3example.py) | Play MP3s in order, button on the Btn terminal to continue | none |
+| [`mp3_button.py`](mp3_button.py) | Play MP3s from `/mang`, push button on the Btn terminal to continue | none |
+| [`mp3tap.py`](mp3tap.py) | Play an MP3 each time you tap the board | `adafruit_lis3dh` |
+| [`hcsr04_distance.py`](hcsr04_distance.py) | HC-SR04 ultrasonic distance on D5 / D6 | `adafruit_hcsr04` |
+| [`tof_distance.py`](tof_distance.py) | VL53L1X distance sensor over I2C, onboard NeoPixel shows range | `adafruit_vl53l1x` |
 
 Built-in modules (no install needed) include `board`, `digitalio`, `analogio`, `pwmio`, `touchio`, `audiobusio`, `audiomp3`, `rainbowio` and `synthio`.
 
@@ -49,10 +49,10 @@ The MP3 examples read their sound files from the `CIRCUITPY` drive, at the paths
 
 | Example | Sound files |
 |---|---|
-| `demo_mp3.py` | `sounds/strings.mp3` |
-| `mp3example.py`, `mp3tap.py` | `happy.mp3` and `slow.mp3` in this folder, copied to the top of the drive |
-| `mp3_button.py` | `mang/0.mp3`, `mang/1.mp3`, `mang/2.mp3` |
-| `Extras/propmaker_accel.py` | `sounds/strings.wav` |
+| [`demo_mp3.py`](demo_mp3.py) | `sounds/strings.mp3` |
+| [`mp3example.py`](mp3example.py), [`mp3tap.py`](mp3tap.py) | `happy.mp3` and `slow.mp3` in this folder, copied to the top of the drive |
+| [`mp3_button.py`](mp3_button.py) | `mang/0.mp3`, `mang/1.mp3`, `mang/2.mp3` |
+| [`Extras/propmaker_accel.py`](Extras/propmaker_accel.py) | `sounds/strings.wav` |
 
 ## Extras
 
@@ -60,12 +60,12 @@ Longer or more advanced examples are in [Extras](Extras). They use the same pins
 
 | Example | What it does | Libraries needed (in `lib`) |
 |---|---|---|
-| `Extras/propmaker_accel.py` | Everything at once: audio effects, servo, NeoPixels, accelerometer (plays `sounds/strings.wav`, so copy the `sounds` folder to the drive) | `adafruit_lis3dh`, `adafruit_motor`, `adafruit_led_animation`, `neopixel` |
-| `Extras/lock_reload.py` | Stop macOS from triggering auto-reloads (see `Extras/blog-post-autoreload-macos.html`) | none |
+| [`Extras/propmaker_accel.py`](Extras/propmaker_accel.py) | Everything at once: audio effects, servo, NeoPixels, accelerometer (plays `sounds/strings.wav`, so copy the `sounds` folder to the drive) | `adafruit_lis3dh`, `adafruit_motor`, `adafruit_led_animation`, `neopixel` |
+| [`Extras/lock_reload.py`](Extras/lock_reload.py) | Stop macOS from triggering auto-reloads (see `Extras/blog-post-autoreload-macos.html`) | none |
 
 ## Prop-Maker pin names
 
-These names are specific to this board.
+These names are specific to this board. See the Adafruit [Pin Names](https://learn.adafruit.com/adafruit-rp2040-prop-maker-feather/pinouts) page for the full pinout.
 
 | Name | Use |
 |---|---|
