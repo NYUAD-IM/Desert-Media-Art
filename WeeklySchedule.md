@@ -545,7 +545,7 @@ Due before start of next class
 - Introduction to Rapid Prototyping Assignment (Midterm)
     - Full details in Discussions->Exercises->Exercise 4 (Midterm)
 
-- Playing mp3 files on RP2040 Prop-Maker Feather
+### Playing mp3 files on RP2040 Prop-Maker Feather
     - [Minimal example CircuitPython/demo_mp3.py (DMA GitHub)](CircuitPython/demo_mp3.py)
         - [sound files CircuitPython/sounds (DMA GitHub)](CircuitPython/sounds)
     - For making your own mp3s, compress to 22050 Hz, mono, 32kbps CBR (constant bit rate) using [Audacity (version 3.7.x recommended for less bloat)](https://www.audacityteam.org/download/older-versions/) or similar
