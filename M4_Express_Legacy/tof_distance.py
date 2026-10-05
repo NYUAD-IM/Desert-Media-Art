@@ -14,7 +14,7 @@
 #
 # Onboard NeoPixel will go through R, G, B, W for 0, 100, 200, 300+ cm
 
-print("tof_distance")
+print("distance_demo")
 
 import time
 import math

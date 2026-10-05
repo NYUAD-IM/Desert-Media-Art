@@ -4,11 +4,11 @@
 
 # Modified for Desert Media Art by Michael Ang
 
-print("analogread_pot")
-
 import time
 import board
 from analogio import AnalogIn
+
+print("Read from analog")
 
 '''Scale sensor reading to a float from 0.0 to 1.0'''
 def scaleReading(reading):
@@ -16,7 +16,7 @@ def scaleReading(reading):
     minValue = 256
     return reading / (maxValue - minValue)
 
-potentiometer = AnalogIn(board.A0)  # potentiometer connected to A0, 3.3V & ground
+potentiometer = AnalogIn(board.A1)  # potentiometer connected to A1, Aref & ground
 
 while True:
 

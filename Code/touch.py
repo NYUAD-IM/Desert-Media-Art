@@ -8,16 +8,27 @@
 # Reference: https://learn.adafruit.com/circuitpython-essentials/circuitpython-cap-touch
 
 """CircuitPython Essentials Capacitive Touch example"""
+print("touch")
+
 import time
 import board
 import touchio
 
-# Please change the pin code if you want to use other pins. (A0-A5)
-touch_pad0 = board.A0
+# On the RP2040 there is no built-in touch hardware, so you need to connect
+# a 1M ohm resistor between the touch pad pin and ground.
+# Pad on pin D24. You can change it to another free pin.
+touch_pin = board.D24
 
-touch0 = touchio.TouchIn(touch_pad0)
+touch_pad = touchio.TouchIn(touch_pin)
 
 while True:
-    if touch0.value:
-        print("A0 Touched!")
-    time.sleep(0.05)
+    # touch_pad.raw_value is the raw value from the touch pad. It will be a number between 0 and 65535.
+    # touch_pad.threshold is the threshold value for the touch pad.
+    # touch_pad.value is a boolean value that is True if the touch pad reads above the threshold.
+
+    if touch_pad.value:
+        print("raw_value: ", touch_pad.raw_value, "threshold: ", touch_pad.threshold, "touched!")
+    else:
+        print("raw_value: ", touch_pad.raw_value, "threshold: ", touch_pad.threshold)
+
+    time.sleep(0.1)

@@ -5,17 +5,15 @@
 # Modified by Mangtronix for Desert Media Art at NYUAD
 # https://desert.nyuadim.com
 
-# Full tutorial (written for the older M4 Express + Prop-Maker FeatherWing):
+# Full tutorial:
 # https://desert.nyuadim.com/2022/10/25/tutorial-neopixels-with-prop-maker-featherwing/
-# This version is for the Feather RP2040 Prop-Maker: connect the ring to the
-# external NeoPixel screw terminal.
 
 # Make sure to have neopixel.mpy and adafruit_bus_device
 # copied to /lib on your CIRCUITPY drive
 
 """Simple rainbow example for 12-pixel NeoPixel ring"""
-print("neoring")
 
+print("Starting neoring")
 
 import digitalio
 import board
@@ -27,13 +25,13 @@ NUM_PIXELS = 12 # NeoPixel ring length (in pixels)
 BRIGHTNESS = 0.25 # Let's not blind everyone
 
 # The power for the NeoPixels is not enabled by default (to save battery power)
-# We need to turn on the power by setting EXTERNAL_POWER high
+# We need to turn on the power by setting pin D10 high
 print("Enabling NeoPixel power!")
-enable = digitalio.DigitalInOut(board.EXTERNAL_POWER)
+enable = digitalio.DigitalInOut(board.D10)
 enable.direction = digitalio.Direction.OUTPUT
 enable.value = True
 
-strip = neopixel.NeoPixel(board.EXTERNAL_NEOPIXELS, NUM_PIXELS, brightness=BRIGHTNESS)
+strip = neopixel.NeoPixel(board.D5, NUM_PIXELS, brightness=BRIGHTNESS)
 
 while True:
     for i in range(255):

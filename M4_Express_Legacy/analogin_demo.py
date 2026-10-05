@@ -9,11 +9,11 @@
 # A1 - Photoresistor as voltage divider
 
 """CircuitPython Essentials Analog In example"""
-print("analogin_demo")
-
 import time
 import board
 from analogio import AnalogIn
+
+print("analogin_demo")
 
 pot_in = AnalogIn(board.A0)
 photo_in = AnalogIn(board.A1)

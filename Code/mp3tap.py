@@ -5,51 +5,56 @@
 # Modified for Desert Media Art by Michael Ang
 
 # MP3 playback with tap trigger
-# Works on Feather M4 (or other M4 based boards) with Propmaker
+# Works on the Feather RP2040 Prop-Maker (uses the onboard accelerometer
+# and the I2S amplifier driving the speaker connector)
+print("mp3tap")
+
 import time
 import board
-import busio
 import digitalio
-import audioio
+import audiobusio
 import audiomp3
 import adafruit_lis3dh
 
 startup_play = False  # set to True to play all samples once on startup
 
-# Set up accelerometer on I2C bus
-i2c = busio.I2C(board.SCL, board.SDA)
-int1 = digitalio.DigitalInOut(board.D6)
+# Set up the onboard accelerometer on the I2C bus
+i2c = board.I2C()
+int1 = digitalio.DigitalInOut(board.ACCELEROMETER_INTERRUPT)
 accel = adafruit_lis3dh.LIS3DH_I2C(i2c, int1=int1)
 accel.set_tap(1, 100)  # single or double-tap, threshold
 
-# Set up speaker enable pin
-enable = digitalio.DigitalInOut(board.D10)
+# The amplifier is only powered when EXTERNAL_POWER is enabled
+enable = digitalio.DigitalInOut(board.EXTERNAL_POWER)
 enable.direction = digitalio.Direction.OUTPUT
 enable.value = True
 
-speaker = audioio.AudioOut(board.A0)
+audio = audiobusio.I2SOut(board.I2S_BIT_CLOCK, board.I2S_WORD_SELECT, board.I2S_DATA)
 
 sample_number = 0
 samples = ['happy.mp3', 'slow.mp3']
 
-print("Lars says, 'Hello, CVT Joseph. Tap to play.'")
+# You have to specify some mp3 file when creating the decoder.
+# Changing the .file property later reuses the decoder, which
+# helps avoid running out of memory.
+decoder = audiomp3.MP3Decoder(open(samples[0], "rb"))
+
+print("Tap to play.")
 
 if startup_play:  # Play all on startup
     for sample in samples:
         print("Now playing: '{}'".format(sample))
-        mp3stream = audiomp3.MP3Decoder(open(sample, "rb"))
-        speaker.play(mp3stream)
+        decoder.file = open(sample, "rb")
+        audio.play(decoder)
 
-        while speaker.playing:
+        while audio.playing:
             time.sleep(0.1)
-    enable.value = speaker.playing
 
 
 while True:
-    if accel.tapped and speaker.playing is False:
+    if accel.tapped and audio.playing is False:
         sample = samples[sample_number]
         print("Now playing: '{}'".format(sample))
-        mp3stream = audiomp3.MP3Decoder(open(sample, "rb"))
-        speaker.play(mp3stream)
+        decoder.file = open(sample, "rb")
+        audio.play(decoder)
         sample_number = (sample_number + 1) % len(samples)
-    enable.value = speaker.playing
