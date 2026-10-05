@@ -575,11 +575,15 @@ Due before start of next class
     - [Sound](https://desert.nyuadim.com/2022/04/01/tutorial-for-sound-on-prop-maker-m4-express/)
 
 ### Homework
+- Make an idea for your midterm and sketch (hand-drawn or digital)
+
+<!--
 - **Exercise – Create and post** a 2D design
     - See Brightspace -> Discussions -> Exercises -> Exercise – Inkscape for details
 
 - **Design** your prototype device
 - **Start** thinking about final project ideas
+-->
 
 ## Week 6.2
 Field scouting
