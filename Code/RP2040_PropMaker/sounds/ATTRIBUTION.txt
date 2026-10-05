@@ -1,0 +1,5 @@
+strings.mp3 - derived from
+"260709_183106-32_FR_String_trio_in_public_garden" by kevp888 (Kevin Luce)
+https://freesound.org/people/kevp888/sounds/873226/
+License: Attribution 4.0 (CC BY 4.0) https://creativecommons.org/licenses/by/4.0/
+Changes: a short excerpt, converted to mono 22050 Hz 32 kbps MP3.
