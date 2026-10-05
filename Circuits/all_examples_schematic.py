@@ -24,7 +24,9 @@ with schemdraw.Drawing(show=False) as d:
     d.config(unit=2.0, fontsize=11, lw=1.4)
 
     def text(x, y, s, size=11, ha="left", va="center"):
-        d.add(elm.Label().at((x, y)).label(s, halign=ha, valign=va, fontsize=size))
+        # .right(): otherwise the label inherits the previous element's direction,
+        # which shifts its position and misaligns labels in a row.
+        d.add(elm.Label().at((x, y)).right().label(s, halign=ha, valign=va, fontsize=size))
 
     def wire(a, b):
         d.add(elm.Line().at(a).to(b))
@@ -69,9 +71,9 @@ with schemdraw.Drawing(show=False) as d:
     d.add(elm.Dot().at(ldr.end))
     used_by(9.6, y + 0.4, ["analogin_demo.py", "photocell_demo.py"], "right")
     node = ldr.end
-    r = d.add(elm.Resistor().at(node).down().label("Resistor", loc="bottom"))
+    r = d.add(elm.Resistor().at(node).down().label("10kΩ", loc="bottom"))  # value from photocell_demo.py
     d.add(elm.Ground().at(r.end))
-    wire(node, (13, node[1])); wire((13, node[1]), (13, y)); wire((13, y), lpin("A1", y))
+    wire(node, lpin("A1", node[1]))
 
     # ---- D24: touch pad -------------------------------------------------------
     y = -14.5
@@ -83,24 +85,49 @@ with schemdraw.Drawing(show=False) as d:
     r = d.add(elm.Resistor().at((10, y)).down().label("1MΩ", loc="bottom"))
     d.add(elm.Ground().at(r.end))
 
+    # ---- SDA / SCL: VL53L1X on STEMMA QT (a sensor, so on the input side) ----
+    LCX, LCR = 8.5, 13.0           # STEMMA QT block, left of the Feather
+    # Rows in the connector's physical pin order: GND, V+ (3V3), SDA, SCL.
+    QT_ROWS = (("GND", -20.8), ("3V3", -22.4), ("SDA", -24.0), ("SCL", -25.6))
+    y_qg, y_q3, y_qsda, y_qscl = (yy for _, yy in QT_ROWS)
+    box(LCX, -26.6, LCR, -19.2)
+    text((LCX + LCR) / 2, -19.8, "STEMMA QT", 10, "center")
+    for name, yy in QT_ROWS:
+        text(LCX + 0.3, yy, name, 10)           # part side
+        text(LCR - 0.3, yy, name, 10, "right")  # Feather side
+    # Ground (pointing down) sits above 3V3 (pointing up): stagger the stubs so they don't meet.
+    wire((LCR, y_qg), (LCR + 0.8, y_qg)); d.add(elm.Ground().at((LCR + 0.8, y_qg)))
+    wire((LCR, y_q3), (LCR + 2.0, y_q3)); d.add(elm.Vdd().at((LCR + 2.0, y_q3)).label("3V3", loc="top"))
+    wire((LCR, y_qsda), lpin("SDA", y_qsda))
+    wire((LCR, y_qscl), lpin("SCL", y_qscl))
+    box(0, -26.2, 5.5, -19.6)
+    text(1.6, -22.9, "VL53L1X", 11, "center")
+    for name, yy in QT_ROWS:
+        text(5.3, yy, name, 9, "right"); wire((5.5, yy), (LCX, yy))
+    used_by(0.1, -18.2, ["tof_distance.py"])
+
     # ---- D5 / D6: HC-SR04 -----------------------------------------------------
-    sx = {"VCC": 0.8, "Trig": 2.0, "Echo": 3.2, "GND": 4.4}
-    box(0, -27.0, 5.2, -24.8)
-    text(2.6, -25.4, "HC-SR04", 11, "center")
-    used_by(0.1, -23.0, ["hcsr04_distance.py"])
-    for n, x in sx.items():
-        text(x, -26.5, n, 10, "center"); wire((x, -27.0), (x, -27.4))
-    wire((sx["Echo"], -27.4), (sx["Echo"], -28.4))
-    r1 = d.add(elm.Resistor().at((sx["Echo"], -28.4)).down().label("10kΩ", loc="bottom"))
+    # Trig is an output and Echo an input: a mixed-direction part, kept on the left.
+    sx = {"VCC": 0.8, "Trig": 2.0, "Echo": 3.2, "GND": 5.0}
+    box(0, -32.0, 5.8, -29.4)
+    text(3.0, -30.0, "HC-SR04", 11, "center")
+    used_by(6.2, -29.9, ["hcsr04_distance.py"])
+    text(sx["VCC"], -30.0, "VCC", 10, "center")
+    wire((sx["VCC"], -29.4), (sx["VCC"], -28.8))
+    d.add(elm.Vdd().at((sx["VCC"], -28.8)).label("USB 5V", loc="top"))
+    for n in ("Trig", "Echo", "GND"):
+        x = sx[n]
+        text(x, -31.5, n, 10, "center")
+        wire((x, -32.0), (x, -32.4))
+    wire((sx["Echo"], -32.4), (sx["Echo"], -33.4))
+    r1 = d.add(elm.Resistor().at((sx["Echo"], -33.4)).down().label("10kΩ", loc="bottom"))
     d.add(elm.Dot().at(r1.end)); j = r1.end
     r2 = d.add(elm.Resistor().at(j).down().label("10kΩ", loc="bottom"))
     d.add(elm.Ground().at(r2.end))
-    y_d5 = -27.9
-    wire((sx["Trig"], -27.4), (sx["Trig"], y_d5)); wire((sx["Trig"], y_d5), lpin("D5", y_d5))
+    y_d5 = -32.9
+    wire((sx["Trig"], -32.4), (sx["Trig"], y_d5)); wire((sx["Trig"], y_d5), lpin("D5", y_d5))
     wire(j, lpin("D6", j[1]))
-    wire((sx["VCC"], -27.4), (sx["VCC"], -33.2)); d.add(elm.Dot(open=True).at((sx["VCC"], -33.2)))
-    text(sx["VCC"] + 0.3, -33.2, "USB 5V pin", 10)
-    wire((sx["GND"], -27.4), (sx["GND"], -29.4)); d.add(elm.Ground().at((sx["GND"], -29.4)))
+    wire((sx["GND"], -32.4), (sx["GND"], -33.8)); d.add(elm.Ground().at((sx["GND"], -33.8)))
 
     # ---- Connectors: separate parts wired to the Feather ----------------------
     CX, CW = RX + 4.0, 5.0         # connector blocks, to the right of the Feather
@@ -117,38 +144,36 @@ with schemdraw.Drawing(show=False) as d:
         text(CX + CW / 2, y_top - 0.6, title, 10, "center")
         for name, y, kind in rows:
             text(CX + 0.3, y, name, 10)
-            if kind == "5v":
-                wire((CX, y), (CX - 0.8, y)); d.add(elm.Vdd().at((CX - 0.8, y)).label("5V", loc="top"))
-            elif kind == "3v3":
-                wire((CX, y), (CX - 0.8, y)); d.add(elm.Vdd().at((CX - 0.8, y)).label("3V3", loc="top"))
+            # Power stubs are longer than ground stubs, so a ground (pointing down)
+            # in the row above a supply (pointing up) doesn't run into it.
+            if kind in ("5v", "3v3"):
+                wire((CX, y), (CX - 2.0, y))
+                d.add(elm.Vdd().at((CX - 2.0, y)).label("5V" if kind == "5v" else "3V3", loc="top"))
             elif kind == "gnd":
                 wire((CX, y), (CX - 0.8, y)); d.add(elm.Ground().at((CX - 0.8, y)))
 
-    # Terminal block: Neo, G, 5V, Btn, speaker +, speaker -
-    y_neo, y_tg, y_t5, y_btn, y_sp, y_sm = -1.5, -3.5, -5.5, -7.5, -9.5, -11.0
+    # Rows follow each connector's physical pin order (Adafruit pinout page, top edge down).
+    # Terminal block: Neo, G, 5V, Btn, speaker -, speaker +
+    y_neo, y_tg, y_t5, y_btn, y_sm, y_sp = -1.5, -3.5, -5.5, -7.5, -9.5, -11.0
     connector("Terminal block", 0.0, -12.5,
               [("Neo", y_neo, "sig"), ("G", y_tg, "gnd"), ("5V", y_t5, "5v"),
-               ("Btn", y_btn, "sig"), ("+", y_sp, "sig"), ("-", y_sm, "sig")])
-    # Servo header: Sig, V+, G
-    y_sig, y_sv, y_sg = -17.0, -18.8, -20.6
+               ("Btn", y_btn, "sig"), ("-", y_sm, "sig"), ("+", y_sp, "sig")])
+    # Servo header: G, V+, Sig
+    y_sg, y_sv, y_sig = -17.0, -18.8, -20.6
     connector("Servo header", -15.0, -22.0,
-              [("Sig", y_sig, "sig"), ("V+", y_sv, "5v"), ("G", y_sg, "gnd")])
-    # STEMMA QT: GND, 3V3, SDA, SCL
-    y_qg, y_q3, y_qsda, y_qscl = -24.0, -25.6, -27.2, -28.8
-    connector("STEMMA QT", -22.8, -30.0,
-              [("GND", y_qg, "gnd"), ("3V3", y_q3, "3v3"),
-               ("SDA", y_qsda, "sig"), ("SCL", y_qscl, "sig")])
+              [("G", y_sg, "gnd"), ("V+", y_sv, "5v"), ("Sig", y_sig, "sig")])
 
-    # Plain wires from the Feather pins to the connector blocks
+    # Plain wires from the Feather pins to the connector blocks.
+    # EXTERNAL_BUTTON is an input but stays on the right: it is on the terminal block.
     for name, y in [("EXTERNAL_NEOPIXELS", y_neo), ("EXTERNAL_BUTTON", y_btn),
-                    ("AMP +", y_sp), ("AMP -", y_sm), ("EXTERNAL_SERVO", y_sig),
-                    ("SDA", y_qsda), ("SCL", y_qscl)]:
+                    ("AMP +", y_sp), ("AMP -", y_sm), ("EXTERNAL_SERVO", y_sig)]:
         wire(feather_pin(name, y), (CX, y))
 
     # ---- External parts, wired to the connector blocks -------------------------
     # NeoPixel ring / strip: Neo, G, 5V
     box(tx, -0.6, tx + 6.5, -6.4)
-    text(tx + 4.4, -3.5, "NeoPixel\nRing or strip", 11, "center")
+    text(tx + 4.4, -3.0, "NeoPixel", 11, "center")
+    text(tx + 4.4, -3.9, "Ring or strip", 11, "center")
     for n, y in (("data", y_neo), ("GND", y_tg), ("5V", y_t5)):
         wire((CR, y), (tx, y)); text(tx + 0.2, y, n, 9)
     used_by(tx + 6.9, -1.5, ["neoring.py", "neostrip_rgbw.py", "Extras/propmaker_accel.py"])
@@ -173,18 +198,10 @@ with schemdraw.Drawing(show=False) as d:
         wire((CR, y), (tx, y)); text(tx + 0.2, y, n, 9)
     used_by(tx + 6.9, -16.2, ["servo_standard.py", "Extras/propmaker_accel.py"])
 
-    # VL53L1X on a STEMMA QT cable
-    box(tx, -23.4, tx + 6.5, -29.4)
-    text(tx + 4.4, -26.4, "VL53L1X", 11, "center")
-    for n, y in (("GND", y_qg), ("3V3", y_q3), ("SDA", y_qsda), ("SCL", y_qscl)):
-        wire((CR, y), (tx, y)); text(tx + 0.2, y, n, 9)
-    used_by(tx + 6.9, -24.2, ["tof_distance.py"])
-
     # Pin names inside the connector blocks, next to the wires to the parts
     for y, name in [(y_neo, "Neo"), (y_tg, "G"), (y_t5, "5V"), (y_btn, "Btn"),
                     (y_sp, "+"), (y_sm, "-"),
-                    (y_sig, "Sig"), (y_sv, "V+"), (y_sg, "G"),
-                    (y_qg, "GND"), (y_q3, "3V3"), (y_qsda, "SDA"), (y_qscl, "SCL")]:
+                    (y_sig, "Sig"), (y_sv, "V+"), (y_sg, "G")]:
         text(CR - 0.3, y, name, 10, "right")
 
     # ---- Onboard (no wiring) ---------------------------------------------------
