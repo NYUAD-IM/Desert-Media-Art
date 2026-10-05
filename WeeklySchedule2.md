@@ -300,7 +300,7 @@ Total / 20 points = 5% of final grade
     
     - [Photocells](https://learn.adafruit.com/photocells/overview) – resistive light sensor
         - [CircuitPython code (Adafruit)](https://learn.adafruit.com/photocells/circuitpython)
-        - [CircuitPython code (photocell.py class example)](https://github.com/NYUAD-IM/Desert-Media-Art/blob/main/Code/photocell.py)
+        - [CircuitPython code (photocell_demo.py example)](https://github.com/NYUAD-IM/Desert-Media-Art/blob/main/Code/photocell_demo.py)
         - [Light-Activated Pixel Heart](https://learn.adafruit.com/light-activated-pixel-heart/circuitpython-code)
         - Available from IM lab parts
     
