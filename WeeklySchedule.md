@@ -555,8 +555,8 @@ and compressed a small section of the audio file. The code includes the proper a
 according to the sound's license.
 
 
-- [Minimal example CircuitPython/demo_mp3.py (DMA GitHub)](CircuitPython/demo_mp3.py)
-    - [sound files CircuitPython/sounds (DMA GitHub)](CircuitPython/sounds)
+- [Minimal example Code/demo_mp3.py (DMA GitHub)](Code/demo_mp3.py)
+    - [sound files Code/sounds (DMA GitHub)](Code/sounds)
 - For making your own mp3s, compress to 22050 Hz, mono, 32kbps CBR (constant bit rate) using [Audacity (version 3.7.x recommended for less bloat)](https://www.audacityteam.org/download/older-versions/) or similar
 - You can experiment with the sample rate and bit rate to adjust quality (too high settings will lead to playback glitches)
 - You can find permissively licensed sound files on sites like [Freesound.org](https://freesound.org/)
