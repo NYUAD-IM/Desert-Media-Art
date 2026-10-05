@@ -611,6 +611,12 @@ according to the sound's license.
 -->
 
 ## Week 6.2
+### VS Code tips
+Disable aggressive "Next Edit Suggestions"
+- In the top menu bar, click Code → Settings → Settings (or press Cmd+,).
+- In the search box at the top, type next edit suggestions.
+- Uncheck Github › Copilot › Next Edit Suggestions: Enabled.
+
 Field scouting
 – [Abu Dhabi Desert Road](https://desert.nyuadim.com/2023/10/15/abu-dhabi-desert-road/)
 
