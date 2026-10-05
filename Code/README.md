@@ -82,7 +82,11 @@ Free pins for your own sensors: A0 to A3 (the only analog inputs), D5, D6, D9, D
 
 ## Wiring
 
-The examples use different pins, so all of them can be connected at once. See the combined diagram [Circuits/all_examples_schematic.png](../Circuits/all_examples_schematic.png) (pin names on the Feather, which example uses each part). Individual schematics: [photocell_demo](../Circuits/photocell_demo_schematic.png) and [hcsr04_distance](../Circuits/hcsr04_distance_schematic.png) (the HC-SR04 echo pin needs a voltage divider).
+The examples use different pins, so all of them can be connected at once. The combined diagram shows the pin names on the Feather and which example uses each part (click to open the full-size image):
+
+<a href="https://raw.githubusercontent.com/NYUAD-IM/Desert-Media-Art/main/Circuits/all_examples_schematic.png"><img src="../Circuits/all_examples_schematic.png" width="300" alt="All examples schematic"></a>
+
+Individual schematics: [photocell_demo](../Circuits/photocell_demo_schematic.png) and [hcsr04_distance](../Circuits/hcsr04_distance_schematic.png) (the HC-SR04 echo pin needs a voltage divider).
 
 ## Sound credits
 
