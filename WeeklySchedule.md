@@ -542,7 +542,23 @@ Due before start of next class
 
 ## Week 6.1
 - Introduction to [Final Project](https://desert.nyuadim.com/2022/09/27/final-project/)
-- Introduction to Rapid Prototyping Assignment
+- Introduction to Rapid Prototyping Assignment (Midterm)
+    - Full details in Discussions->Exercises->Exercise 4 (Midterm)
+
+- Playing mp3 files on RP2040 Prop-Maker Feather
+    - [Minimal example CircuitPython/demo_mp3.py (DMA GitHub)](CircuitPython/demo_mp3.py)
+        - [sound files CircuitPython/sounds (DMA GitHub)](CircuitPython/sounds)
+    - For making your own mp3s, compress to 22050 Hz, mono, 32kbps CBR (constant bit rate) using [Audacity (version 3.7.x recommended for less bloat)](https://www.audacityteam.org/download/older-versions/) or similar
+    - You can experiment with the sample rate and bit rate to adjust quality (too high settings will lead to playback glitches)
+    - You can find permissively licensed sound files on sites like [Freesound.org](https://freesound.org/)
+        - Cite the source of sounds correctly, for example
+```
+# Sound credit: "260709_183106-32_FR_String_trio_in_public_garden" by kevp888
+# (Kevin Luce), from Freesound: https://freesound.org/people/kevp888/sounds/873226/
+# Licensed under CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
+# Changes: a short excerpt, converted to mono 22050 Hz 32 kbps MP3.
+``` 
+
 - 3D printing design resources
     - [Design for 3D printing (shapr3d)](https://www.shapr3d.com/blog/design-for-3d-printing)
     - [Ultimate Guide: How to design for 3D Printing (wikifactory)](https://wikifactory.com/+wikifactory/stories/ultimate-guide-how-to-design-for-3d-printing)
