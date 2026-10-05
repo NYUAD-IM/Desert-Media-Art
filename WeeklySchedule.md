@@ -546,12 +546,21 @@ Due before start of next class
     - Full details in Discussions->Exercises->Exercise 4 (Midterm)
 
 ### Playing mp3 files on RP2040 Prop-Maker Feather
-    - [Minimal example CircuitPython/demo_mp3.py (DMA GitHub)](CircuitPython/demo_mp3.py)
-        - [sound files CircuitPython/sounds (DMA GitHub)](CircuitPython/sounds)
-    - For making your own mp3s, compress to 22050 Hz, mono, 32kbps CBR (constant bit rate) using [Audacity (version 3.7.x recommended for less bloat)](https://www.audacityteam.org/download/older-versions/) or similar
-    - You can experiment with the sample rate and bit rate to adjust quality (too high settings will lead to playback glitches)
-    - You can find permissively licensed sound files on sites like [Freesound.org](https://freesound.org/)
-        - Cite the source of sounds correctly, for example
+You can play mp3 files on the Prop-Maker Feather using the built-in speaker output. On our board
+the power for the speaker amplifier needs to be turned on before use (see code example below).
+To play audio files on an embedded system like our RP2040 you should compress the audio
+to make the file size smaller and reduce the playback processing. For the example below
+I found a nice sound on [Freesound.org](http://freesound.org) that had a permissive license
+and compressed a small section of the audio file. The code includes the proper attribution
+according to the sound's license.
+
+
+- [Minimal example CircuitPython/demo_mp3.py (DMA GitHub)](CircuitPython/demo_mp3.py)
+    - [sound files CircuitPython/sounds (DMA GitHub)](CircuitPython/sounds)
+- For making your own mp3s, compress to 22050 Hz, mono, 32kbps CBR (constant bit rate) using [Audacity (version 3.7.x recommended for less bloat)](https://www.audacityteam.org/download/older-versions/) or similar
+- You can experiment with the sample rate and bit rate to adjust quality (too high settings will lead to playback glitches)
+- You can find permissively licensed sound files on sites like [Freesound.org](https://freesound.org/)
+    - Cite the source of sounds correctly, for example
 ```
 # Sound credit: "260709_183106-32_FR_String_trio_in_public_garden" by kevp888
 # (Kevin Luce), from Freesound: https://freesound.org/people/kevp888/sounds/873226/
