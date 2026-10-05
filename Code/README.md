@@ -3,13 +3,14 @@
 CircuitPython examples for Desert Media Art, written for the **Adafruit Feather RP2040 Prop-Maker** running **CircuitPython 10.x**.
 
 - Board: https://learn.adafruit.com/adafruit-rp2040-prop-maker-feather
+- Pinout: https://learn.adafruit.com/adafruit-rp2040-prop-maker-feather/pinouts
 - Download CircuitPython 10.x: https://circuitpython.org/board/adafruit_feather_rp2040_prop_maker/
 
 The earlier examples for the Feather M4 Express with the Prop-Maker FeatherWing are in [M4_Express_Legacy](../M4_Express_Legacy). They won't run unchanged on this board.
 
 ## Running an example
 
-Copy the example to the `CIRCUITPY` drive and either save it as `code.py` or import it from `code.py` (for example `import neoring`). Examples that use sound or other files expect those files on the drive too, at the paths named in the example.
+Copy the example to the `CIRCUITPY` drive and either save it as `code.py` or import it from `code.py` (for example `import neoring`). The `code.py` in this folder imports `neostrip_rgbw`; edit it to import a different example. Examples that play sound need the sound files on the drive too (see [Sound files](#sound-files)).
 
 Every example prints its own file name (without `.py`) when it starts, so you can see in the serial console which file is running.
 
@@ -42,6 +43,17 @@ circup install adafruit_lis3dh
 
 Built-in modules (no install needed) include `board`, `digitalio`, `analogio`, `pwmio`, `touchio`, `audiobusio`, `audiomp3`, `rainbowio` and `synthio`.
 
+## Sound files
+
+The MP3 examples read their sound files from the `CIRCUITPY` drive, at the paths below (relative to the drive).
+
+| Example | Sound files |
+|---|---|
+| `demo_mp3.py` | `sounds/strings.mp3` |
+| `mp3example.py`, `mp3tap.py` | `happy.mp3` and `slow.mp3` in this folder, copied to the top of the drive |
+| `mp3_button.py` | `mang/0.mp3`, `mang/1.mp3`, `mang/2.mp3` |
+| `Extras/propmaker_accel.py` | `sounds/strings.wav` |
+
 ## Extras
 
 Longer or more advanced examples are in [Extras](Extras). They use the same pins and wiring.
@@ -70,7 +82,7 @@ Free pins for your own sensors: A0 to A3 (the only analog inputs), D5, D6, D9, D
 
 ## Wiring
 
-The examples use different pins, so all of them can be connected at once. See the combined diagram [Circuits/wiring_all_examples.png](../Circuits/wiring_all_examples.png) (pin names on the Feather, which example uses each part). The HC-SR04 divider has its own schematic: [Circuits/hcsr04_distance_schematic.png](../Circuits/hcsr04_distance_schematic.png).
+The examples use different pins, so all of them can be connected at once. See the combined diagram [Circuits/all_examples_schematic.png](../Circuits/all_examples_schematic.png) (pin names on the Feather, which example uses each part). Individual schematics: [photocell_demo](../Circuits/photocell_demo_schematic.png) and [hcsr04_distance](../Circuits/hcsr04_distance_schematic.png) (the HC-SR04 echo pin needs a voltage divider).
 
 ## Sound credits
 
