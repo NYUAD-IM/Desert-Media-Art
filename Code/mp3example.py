@@ -6,11 +6,11 @@
 # Original tutorial: https://learn.adafruit.com/circuitpython-essentials/circuitpython-mp3-audio
 
 """CircuitPython Essentials Audio Out MP3 Example"""
+print("mp3example")
+
 import board
 import digitalio
 import audiobusio
-
-print("mp3 example")
 
 from digitalio import DigitalInOut, Direction, Pull
 # enable external power pin
@@ -29,8 +29,8 @@ except ImportError:
     except ImportError:
         pass  # not always supported by every board!
 
-# Use button on board (boot button)
-button = digitalio.DigitalInOut(board.BUTTON)
+# Use the external button, wired between the Btn and G terminals
+button = digitalio.DigitalInOut(board.EXTERNAL_BUTTON)
 button.switch_to_input(pull=digitalio.Pull.UP)
 
 # The listed mp3files will be played in order

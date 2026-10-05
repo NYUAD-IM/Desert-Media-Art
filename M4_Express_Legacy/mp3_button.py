@@ -2,7 +2,7 @@
 #
 # Desert Media Art
 #
-# Tutorial for Sound on the Feather RP2040 Prop-Maker
+# Tutorial for Sound on M4 Express / Prop-Maker
 #
 # Modified by Lydia Yan
 #
@@ -15,34 +15,28 @@
 # https://learn.adafruit.com/circuitpython-essentials/circuitpython-mp3-audio
 
 """CircuitPython Essentials Audio Out MP3 Example"""
-print("mp3_button")
-
 
 import time
 import board
+import busio
 import digitalio
-import audiobusio
+import audioio
 import audiomp3
 
-# Digital input using external push button, wired between the Btn and G terminals
-button = digitalio.DigitalInOut(board.EXTERNAL_BUTTON)
+# Digital input using external push button
+button = digitalio.DigitalInOut(board.A1)
 button.switch_to_input(pull=digitalio.Pull.UP)
 
 num_sample = 3 # The amount of your mp3 files
 sample_number = 0 # Initial played file
 
-# The amplifier is only powered when EXTERNAL_POWER is enabled
-enable = digitalio.DigitalInOut(board.EXTERNAL_POWER)
+# Set up speaker enable pin
+enable = digitalio.DigitalInOut(board.D10)
 enable.direction = digitalio.Direction.OUTPUT
 enable.value = True
 
-# Output from external speaker through the I2S amplifier
-audio = audiobusio.I2SOut(board.I2S_BIT_CLOCK, board.I2S_WORD_SELECT, board.I2S_DATA)
-
-# You have to specify some mp3 file when creating the decoder.
-# Changing the .file property later reuses the decoder, which
-# helps avoid running out of memory.
-decoder = audiomp3.MP3Decoder(open("/mang/0.mp3", "rb"))
+# Output from external speaker
+speaker = audioio.AudioOut(board.A0)
 
 
 while True:
@@ -50,15 +44,15 @@ while True:
     for i in range(num_sample):
         # You may also specify your files' names, here the file names are in number orders starting from 0.
         sample = "/mang/{}.mp3".format(sample_number)
-        decoder.file = open(sample, "rb")
-        audio.play(decoder)
+        mp3stream = audiomp3.MP3Decoder(open(sample, "rb"))
+        speaker.play(mp3stream)
         sample_number = (sample_number + 1) % 10
         print("playing", sample)
         if i >= (num_sample-1):
             sample_number = 0
 
         # This allows you to do other things while the audio plays!
-        while audio.playing:
+        while speaker.playing:
             pass
 
         print("Waiting for button press to continue!")

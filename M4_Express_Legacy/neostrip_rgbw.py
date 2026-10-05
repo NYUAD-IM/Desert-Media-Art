@@ -5,22 +5,22 @@
 # Modifications by Michael Ang for Desert Media Art NYUAD
 
 """CircuitPython Essentials NeoPixel RGBW example"""
-print("neostrip_rgbw")
 
+print("Starting neostrip_rgbw")
 
 import time
 import board
 import neopixel
 import digitalio
 
-pixel_pin = board.EXTERNAL_NEOPIXELS
+pixel_pin = board.D5
 num_pixels = 10
 brightness = 0.2
 
 # The power for the NeoPixels is not enabled by default (to save battery power)
-# We need to turn on the power by setting EXTERNAL_POWER high
+# We need to turn on the power by setting pin D10 high
 print("Enabling NeoPixel power!")
-enable = digitalio.DigitalInOut(board.EXTERNAL_POWER)
+enable = digitalio.DigitalInOut(board.D10)
 enable.direction = digitalio.Direction.OUTPUT
 enable.value = True
 
