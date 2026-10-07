@@ -500,30 +500,6 @@ More examples:
 - [Adafruit Prop Maker CircuitPython examples](https://learn.adafruit.com/adafruit-prop-maker-featherwing/circuitpython)
 - [CircuitPython MP3 Audio](https://learn.adafruit.com/circuitpython-essentials/circuitpython-mp3-audio)
 
-
-- Cardboard prototypes
-    - [Cardboard Fundamentals (Adafruit)](https://learn.adafruit.com/cardboard-fundamentals)
-    - [Project Creates Adaptive Equipment for Kids out of Cardboard (YouTube)](https://www.youtube.com/watch?v=UhmcAnV1oQs)
-    - Prototyping demo
-        - [City Refl3ctor](https://michaelang.com/cityrefl3ctor) demo
-
-- 2D Design for Laser Cutting
-    - Adobe Illustrator is available on most school lab computers
-    - [Inkscape](https://inkscape.org/) - free and open source
-    - [Inkscape 11 minute tutorial (YouTube)](https://youtu.be/-_KJZPOYBeA)
-    - [Inkscape basic tutorial](https://inkscape.org/doc/tutorials/basic/tutorial-basic.html)
-    - [Inkscape Tutorials (YouTube)](https://www.youtube.com/watch?v=8f011wdiW7g&list=PLqazFFzUAPc5lOQwDoZ4Dw2YSXtO7lWNv&index=1)
-    - [Inkscape design for laser cutting (YouTube)](https://youtu.be/IzaiISOzXHo)
-    - [Inkscape Tutorial: Prepare your files for laser cutting](https://www.sculpteo.com/en/prepare-your-file-laser-cutting/prepare-your-model-laser-cutting-inkscape/)
-    - [Convert Text To A Path In Inkscape](https://logosbynick.com/convert-text-to-a-path-in-inkscape/)
-        - “Freeze” text into a simple vector, e.g. when preparing a file for laser cutting on a machine that won’t have your font
-    - Inkscape Essential Training on LinkedIn Learning: [https://www.linkedin.com/learning/inkscape-essential-training-9975138](https://www.linkedin.com/learning/inkscape-essential-training-9975138)
-    - MakerCase: [https://en.makercase.com/](https://en.makercase.com/)
-        - Online lasercut box design
-     
-- Laser cutter booking
-    - [IM Lab Resources](https://www.nyuadim.com/resources/)
-
 - Introduction to Rapid Prototyping assignment
 
 ### Homework – Week 5.2
@@ -616,6 +592,29 @@ Disable aggressive "Next Edit Suggestions"
 - In the top menu bar, click Code → Settings → Settings (or press Cmd+,).
 - In the search box at the top, type next edit suggestions.
 - Uncheck Github › Copilot › Next Edit Suggestions: Enabled.
+
+- Cardboard prototypes
+    - [Cardboard Fundamentals (Adafruit)](https://learn.adafruit.com/cardboard-fundamentals)
+    - [Project Creates Adaptive Equipment for Kids out of Cardboard (YouTube)](https://www.youtube.com/watch?v=UhmcAnV1oQs)
+    - Prototyping demo
+        - [City Refl3ctor](https://michaelang.com/cityrefl3ctor) demo
+
+- 2D Design for Laser Cutting
+    - Adobe Illustrator is available on most school lab computers
+    - [Inkscape](https://inkscape.org/) - free and open source
+    - [Inkscape 11 minute tutorial (YouTube)](https://youtu.be/-_KJZPOYBeA)
+    - [Inkscape basic tutorial](https://inkscape.org/doc/tutorials/basic/tutorial-basic.html)
+    - [Inkscape Tutorials (YouTube)](https://www.youtube.com/watch?v=8f011wdiW7g&list=PLqazFFzUAPc5lOQwDoZ4Dw2YSXtO7lWNv&index=1)
+    - [Inkscape design for laser cutting (YouTube)](https://youtu.be/IzaiISOzXHo)
+    - [Inkscape Tutorial: Prepare your files for laser cutting](https://www.sculpteo.com/en/prepare-your-file-laser-cutting/prepare-your-model-laser-cutting-inkscape/)
+    - [Convert Text To A Path In Inkscape](https://logosbynick.com/convert-text-to-a-path-in-inkscape/)
+        - “Freeze” text into a simple vector, e.g. when preparing a file for laser cutting on a machine that won’t have your font
+    - Inkscape Essential Training on LinkedIn Learning: [https://www.linkedin.com/learning/inkscape-essential-training-9975138](https://www.linkedin.com/learning/inkscape-essential-training-9975138)
+    - MakerCase: [https://en.makercase.com/](https://en.makercase.com/)
+        - Online lasercut box design
+     
+- Laser cutter booking
+    - [IM Lab Resources](https://www.nyuadim.com/resources/)
 
 Field scouting
 – [Abu Dhabi Desert Road](https://desert.nyuadim.com/2023/10/15/abu-dhabi-desert-road/)
