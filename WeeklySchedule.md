@@ -659,14 +659,17 @@ Due before start of next class
     - We will cut as many designs as are ready / possible
     - Other cuts to be booked through Connect2
 -->
-- Other topics TBD
+Battery power
+- [RP2040 Prop-Maker Power Management](https://learn.adafruit.com/adafruit-rp2040-prop-maker-feather/power-management)
+
+- Other topics by request
+- Project work session
+
 - Animal tracks in the desert
     - [Animals of the Arabian desert - learn about animal tracks in the Dubai Desert Conservation Reserve
  (YouTube](https://www.youtube.com/watch?v=tpcJ7jcCl9Q)
     - [Animal Traces](https://enhg.org/bulletin/b15/15_22.htm)
     - [Wildlife of the Arabian Desert](https://www.wilddocu.de/wildlife-of-the-arabian-desert/)
-
-- Project work session
   
 ### Homework – Week 7.1
 
