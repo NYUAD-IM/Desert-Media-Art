@@ -702,7 +702,7 @@ General feedback
 - Idea Lab
     - Opening remarks
     - Share project ideas (come to front of class and share idea)
-    - [DMA 2026 Project Ideas](https://docs.google.com/spreadsheets/d/1fqQI4Pi4713ZpCnt4C7BXbn41utV5XvfJN5vrJkluLg/edit?usp=sharing)
+    - [DMA 2026 Project Ideas / Groups](https://docs.google.com/spreadsheets/d/1fqQI4Pi4713ZpCnt4C7BXbn41utV5XvfJN5vrJkluLg/edit?usp=sharing)
 
 ### Homework – Week 7.2
 
