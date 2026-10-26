@@ -30,7 +30,7 @@ Note: Exact due dates for assignments and readings are indicated in Brightspace
 
 ## Week 8.1
 - Announcements
-    - AI discussion
+    - Zach Lieberman talk this Wednesday in IM Lab (6:30-7:30pm) - details on Discord #announcements
     - Desert Site Visit - this Sunday!
         - Site scouting - find the location for your installation
         - Recommended attendance
@@ -61,7 +61,7 @@ Note: Exact due dates for assignments and readings are indicated in Brightspace
 - Sensors
     - What do you want to sense?
  
-### Project Proposal (details from syllabus)
+### Project Proposal (details on syllabus)
 
 Create a 5-7 paragraph proposal for your project including the following points:
 
