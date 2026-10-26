@@ -60,8 +60,13 @@ Note: Exact due dates for assignments and readings are indicated in Brightspace
 
 - Sensors
     - What do you want to sense?
- 
-### Project Proposal (details on syllabus)
+
+
+
+## Week 8.2
+- Project Proposal overview
+
+### Project Proposal ([details on syllabus](https://desert.nyuadim.com/syllabus/))
 
 Create a 5-7 paragraph proposal for your project including the following points:
 
@@ -99,8 +104,6 @@ Rubric:
 
 Total / 15 points = 10% of final grade
 
-
-## Week 8.2
 - Project check-in
   - Short group meeting
   - Fill in [Desert Media Art Projects](https://docs.google.com/spreadsheets/d/1iJNpbhqkyNb6HogYLb8mV5AxyQxO05a-2gKaVRbXwR4/edit?usp=sharing) with Project Name, Group Members, Project Description, Inspiration, and Tech
