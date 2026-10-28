@@ -64,7 +64,21 @@ Note: Exact due dates for assignments and readings are indicated in Brightspace
 
 
 ## Week 8.2
+- Announcements
+  - Desert site visit is postponed to *Sunday Nov 15* due to hot weather
+
 - Project Proposal overview
+- Resources overview
+    - DMA class resources
+      - Class kit
+      - Other items
+    - Lab resources
+      - Consumables 
+    - Connect 2 resources
+    - Scene Shop
+    - AMS
+        - Laser cutting (until the IM laser cutter is back in service)
+- Project Proposal work session
 
 ### Project Proposal ([details on syllabus](https://desert.nyuadim.com/syllabus/))
 
@@ -120,23 +134,6 @@ Total / 15 points = 10% of final grade
 
 ### Homework – Week 8.2
 
-Due before Sunday
-
-- **Get ready** for field trip
-    - Water
-    - Pack lunch
-    - Hat, sunscreen, sunglasses
-    - Think about what you want to look out for on-site as it relates to your project
-        - Cellphone pictures typically have embedded GPS location, useful for finding scouted locations
-    - [Gaia GPS](https://www.gaiagps.com/)
-        - Can download maps for offline use
-        - Can start track recording, will show path taken
-        - Pictures taken while recording track can be geolocated
-
-- **Field trip**
-    - Bus leaves Welcome Center Sunday 1:30pm
-    - Returning to Welcome Center 8pm (latest)
-
 Due before start of next class
 
 - **Finish** your Project Final Proposal (due Monday October 27)
@@ -145,23 +142,6 @@ Due before start of next class
 - **Post** your Project Final Proposal to the class blog (see Brightspace for login info)
     - Use your group login
     - Set featured image and "Fall 2025" category
-
----
-
-## Desert Site Visit
-
-### Sunday October 26
-
-Visit site near Sweihan to see location for final installation and learn about desert ecology.
-
-Depart Welcome Center 2:30pm
-
-Back to campus 8pm (latest)
-
-For full details see [Desert Media Art 2026 - Field Trips (Doc)](https://docs.google.com/document/d/1rAgECUaRT8WyQ45wNPfjBh8934AeU34FUBnv7Og722Q/edit?usp=sharing)
-
-- Dress for the sun (hat, sunscreen, consider long sleeves to keep the sun off)
-- Closed toed shoes may be better for hot sand
 
 ---
 
@@ -336,6 +316,22 @@ Due before start of next class
 - Your storyboard will be presented by another group and then you will receive and respond to feedback
   - Usual format of 5-7 minutes presentation with 5-10 minutes of feedback
 
+## Desert Site Visit
+
+### Sunday November 15
+
+Visit site near Sweihan to see location for final installation and learn about desert ecology.
+
+Depart Welcome Center 2:30pm
+
+Back to campus 8pm (latest)
+
+For full details see [Desert Media Art 2026 - Field Trips (Doc)](https://docs.google.com/document/d/1rAgECUaRT8WyQ45wNPfjBh8934AeU34FUBnv7Og722Q/edit?usp=sharing)
+
+- Dress for the sun (hat, sunscreen, consider long sleeves to keep the sun off)
+- Closed toed shoes may be better for hot sand
+
+---
 
 ### Homework – Week 10.1
 
@@ -374,6 +370,23 @@ Due before start of next class
 
 
 ### Homework – Week 10.2
+Due before Sunday
+
+- **Get ready** for field trip
+    - Water
+    - Pack lunch
+    - Hat, sunscreen, sunglasses
+    - Think about what you want to look out for on-site as it relates to your project
+        - Cellphone pictures typically have embedded GPS location, useful for finding scouted locations
+    - [Gaia GPS](https://www.gaiagps.com/)
+        - Can download maps for offline use
+        - Can start track recording, will show path taken
+        - Pictures taken while recording track can be geolocated
+
+- **Field trip**
+    - Bus leaves Welcome Center Sunday 1:30pm
+    - Returning to Welcome Center 8pm (latest)
+
 
 Due before start of next class
 - **Post** a progress update to your blog
