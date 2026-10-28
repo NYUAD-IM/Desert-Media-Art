@@ -58,8 +58,6 @@ Note: Exact due dates for assignments and readings are indicated in Brightspace
     - Refine project ideas
     - Update [Desert Media Art Project Spreadsheet](https://docs.google.com/spreadsheets/d/1iJNpbhqkyNb6HogYLb8mV5AxyQxO05a-2gKaVRbXwR4/edit?usp=sharing) (sign in with NYU account to edit)
 
-- Sensors
-    - What do you want to sense?
 
 
 
@@ -68,6 +66,11 @@ Note: Exact due dates for assignments and readings are indicated in Brightspace
   - Desert site visit is postponed to *Sunday Nov 15* due to hot weather
 
 - Project Proposal overview
+- Sensors
+    - What do you want to sense?
+    - Start thinking beyond the sensor itself to what it can respond to in the environment / from people
+        - e.g. "I want to use a light sensor" -> "I want to sense the sunset, so I'll use a light sensor"
+
 - Resources overview
     - DMA class resources
       - Class kit
