@@ -11,9 +11,9 @@
 - [Week 7](WeeklySchedule.md#week-71) – Idea Lab Presentations / Workshop: Idea Development
 - FALL BREAK
 - [Week 8](#week-81) – Project Proposal work session
-- [DESERT SITE VISIT](#desert-site-visit) – Sunday Nov 1
 - [Week 9](#week-91) – Project Proposal presentations / Telling your story, Ruggedization
 - [Week 10](#week-101) – Project Proposal Presentations / Telling your story – Exhibition Installations - Work session
+- [DESERT SITE VISIT](#desert-site-visit) – Sunday Nov 15
 - [Week 11](#week-111) – Storyboard Presentations / Workshop: Project production
 - [Week 12](#week-121) – Work Session / Final work session - Preparation for Field Installation
 - [FIELD INSTALLATION](#field-installation) – Sunday November 29
