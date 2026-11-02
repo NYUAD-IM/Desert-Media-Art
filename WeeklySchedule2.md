@@ -149,12 +149,16 @@ Due before start of next class
 ---
 
 ## Week 9.1
-- Field trip discussion
+- Announcements
+  - "Work-in-progress" portions of website are logged-in only
+  - Public pages are opt-in for including your name or other personally identifying information
 
 - Project Proposal presentations
+- Introduction to Storyboard assignment (time permitting)
 
 ## Week 9.2
 Announcements
+<!--
 - Upcoming due dates
     - Storyboard - Monday Nov 3
     - Project status blog post - Monday Nov 10
@@ -172,6 +176,7 @@ Announcements
 - IM End of Semester Showcase
     - Tuesday December 9
 - Setup and final presentations in Black Box on Monday December 9 during class
+-->
 
 Electronics in the Field
 - Ruggedization
