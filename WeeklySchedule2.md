@@ -152,6 +152,9 @@ Due before start of next class
 - Announcements
   - "Work-in-progress" portions of website are logged-in only
   - Public pages are opt-in for including your name or other personally identifying information
+  - ISEA 2026 happening in Dubai next week
+    - Free artistic program
+    - My project Cybernetic Listening is at ARTE Museum from Nov 6-15, 10am-10pm
 
 - Project Proposal presentations
 - Introduction to Storyboard assignment (time permitting)
