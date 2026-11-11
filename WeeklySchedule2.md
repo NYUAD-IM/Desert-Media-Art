@@ -340,7 +340,12 @@ Back to campus 8pm (latest)
 For full details see [Desert Media Art 2026 - Field Trips (Doc)](https://docs.google.com/document/d/1rAgECUaRT8WyQ45wNPfjBh8934AeU34FUBnv7Og722Q/edit?usp=sharing)
 
 - Dress for the sun (hat, sunscreen, consider long sleeves to keep the sun off)
-- Closed toed shoes may be better for hot sand
+- Consider bringing a prototype or stand-in for your project
+- What can you learn from the on-site visit to be ready for your field install?
+  - Find the location for your project
+  - Take a few reference pictures
+  - Consider the sun direction and how it will affect your project / video
+- Closed toed shoes (running shoes) may be better for hot sand
 
 ---
 
