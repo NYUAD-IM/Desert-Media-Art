@@ -331,6 +331,8 @@ Due before start of next class
 
 ### Sunday November 15
 
+[Site visit sign up sheet](https://docs.google.com/spreadsheets/d/1848p9X0mV2EeYU2s-N2HzhZR2FUHfehSeurKkR3rzP8/edit?gid=1712392081#gid=1712392081)  - at least one group member from each group must go
+
 Visit site near Sweihan to see location for final installation and learn about desert ecology.
 
 Depart Welcome Center 2:30pm
