@@ -414,6 +414,7 @@ Due before start of next class
 ---
 
 ## Week 11.1
+- Field scouting review
 - IM End of Semester Show overview
     - Timeline below at [IM Show](#im-show) 
     - Each group needs to make an installation
@@ -599,7 +600,7 @@ Due before start of next class
 - **Update** your project web page with two photos of your installation during the show
 
 ## Week 15.2 IM Show
-TBD, 5-8pm
+Monday December 14, time TBC
 
 - **Exhibit** your project in the IM End of Semester Show
 - **Take** photos / video of your installation in the show
