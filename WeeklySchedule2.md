@@ -495,7 +495,7 @@ Due before start of next class
 
 Students will go to a “raw” (uninhabited) dune location and make a temporary installation of their class projects. The students will have approximately 2 hours to work on site before sunset, and 1 hour after sunset. We’ll depart from campus in a bus that will park by the side of the road at the location and be our “base station” as we work in the dunes. In terms of logistics it’s similar to going out for a short film shoot in the desert.
 
-For full details see [DMA Field Trips Doc](https://docs.google.com/document/d/1bEuE3UtrdrHOnXfWZGM35K8exFS7YfjfBcvRjt-y7Uw/edit?usp=drive_link)
+For full details see [DMA Field Trips Doc](https://docs.google.com/document/d/1rAgECUaRT8WyQ45wNPfjBh8934AeU34FUBnv7Og722Q/edit?usp=sharing)
 
 ---
 
