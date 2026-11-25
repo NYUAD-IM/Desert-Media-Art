@@ -473,6 +473,7 @@ Due before start of next class
  
 - Field installation overview / planning
   - Mandatory attendance
+  - Sign up here [DMA Field Trips](https://docs.google.com/spreadsheets/d/1848p9X0mV2EeYU2s-N2HzhZR2FUHfehSeurKkR3rzP8/edit?usp=sharing)
 
 - Resolve last issues
 - Get ready for the desert!
